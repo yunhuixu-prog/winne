@@ -11,12 +11,39 @@
 3. **不要**勾选 "Add a README"（本地已有提交）
 4. 创建后复制 HTTPS 地址，例如：`https://github.com/<你的用户名>/airbrush-analytics.git`
 
-在终端执行（把 URL 换成你的）：
+在终端执行（仓库已创建）：
 
 ```bash
 cd "/Users/xuyunhui/Documents/项目"
-git remote add origin https://github.com/<你的用户名>/airbrush-analytics.git
+git remote add origin https://github.com/yunhuixu-prog/winne.git   # 若已添加可跳过
 git branch -M main
+git push -u origin main
+```
+
+> **当前状态**：`origin` 已指向 `https://github.com/yunhuixu-prog/winne.git`，本地 commit 待 push。
+
+### 认证（push 前必做，任选其一）
+
+**A · GitHub CLI（已安装 `gh`）**
+
+```bash
+gh auth login
+# 选 GitHub.com → HTTPS → Login with a web browser
+cd "/Users/xuyunhui/Documents/项目"
+git push -u origin main
+```
+
+**B · Personal Access Token**
+
+1. GitHub → Settings → Developer settings → [Personal access tokens](https://github.com/settings/tokens) → 生成 classic token（勾选 `repo`）
+2. push 时 Username 填 `yunhuixu-prog`，Password 填 token
+
+**C · SSH**
+
+```bash
+ssh-keygen -t ed25519 -C "your_email@example.com"
+cat ~/.ssh/id_ed25519.pub   # 添加到 GitHub → Settings → SSH keys
+git remote set-url origin git@github.com:yunhuixu-prog/winne.git
 git push -u origin main
 ```
 
