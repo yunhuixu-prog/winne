@@ -9,24 +9,30 @@
 ┬── V8.16.0版本（9/2上线）🚩
   └── ...
   ├── 【P0】俄罗斯DukPay支付优化一期（忻恬）
+  ├── 【P0】Google订阅价格与iOS对齐（忻恬）
+  ├── 【P0】促销活动期间支持取消支付挽留（大璐）
   ├── 【P0】功能新增：Airbrush Relight 新增 AI打光灯 功能（Zac）
   ├── 【P0】效果新增：Airbrush Hair新增 Silky Straight（丁丁）
   ├── 【P1】功能新增：Airbrush Body新增 Upper Arms（丁丁）
-  ├── 【P1】活动期间支持取消支付挽留（忻恬）
   ├── 【P1】AB实验：Airbrush Makeup子分类排序调整-for巴西（思思）
   ├── 【P1】AB实验：Airbrush Makeup-Lipstick素材排序调整-for巴西（思思）
-  ├── 【P2】AB实验：Airbrush Body 支持多族裔默认值（丁丁）
+  ├── 【P1】新老用户入口合并（大璐）
+  ├── 【P2】AB实验：Airbrush Body 子项支持多族裔默认值（丁丁）
   ├── 【P2】AB实验：Airbrush Filters Poplar 款式排序分国家调整（Zac）
   ├── 【P2】体验优化：Airbrush Eraser 取消率优化（Zac）
   ├── 【P2】体验优化：品牌色更新与颜色变量Git调用（旭阳）
   ┬── V8.16.0技术需求
     └── ...
-    ├── 【P0】技术：Airbrush Manis升级到Mizar版本（顺达）
+    ├── 【P0】技术：Airbrush Manis升级到Mizar版本 - 长线（顺达）
+    ├── 【P1】技术：onbarding与订阅动效资源优化 (张珂paolo)
   ┬── V8.16.0代码删除
     └── ...
     ├── 【P1】代码删除：Airbrush Body 多族裔 Auto 参数AB实验（Jamie）
+    ├── 【P1】代码删除：Airbrush Magic子项参数优化（思思）
+    ├── 【P1】代码删除：Airbrush Face 支持多族裔默认值（思思）
     ├── 【P2】代码删除：Airbrush Glowup排序调整实验（丁丁）
     ├── 【P2】代码刪除：Airbrush Hair 默认选中发质 tab AB实验（Zac）
+    ├── 【P2】代码刪除：Airbrush Relight 展示界面优化 AAB 实验（Zac）
   ├── V8.16.0底层先行
 ┬── V8.15.0版本（8/19上线）🚩
   └── ...
@@ -610,7 +616,7 @@
     ├── Makeup 眼妆合并需求复盘--施工中
 ```
 
-**总计**: 517 个页面
+**总计**: 523 个页面
 
 ---
 
@@ -622,22 +628,28 @@
   - [V8.17.0底层先行](./V8.17.0版本（9_16上线）/V8.17.0底层先行.md) `(710784523)`
 - [V8.16.0版本（9/2上线）🚩](./V8.16.0版本（9_2上线）🚩.md)  `(709009571)`
   - [【P0】俄罗斯DukPay支付优化一期（忻恬）](./V8.16.0版本（9_2上线）🚩/【P0】俄罗斯DukPay支付优化一期（忻恬）.md) `(710799401)`
+  - [【P0】Google订阅价格与iOS对齐（忻恬）](./V8.16.0版本（9_2上线）🚩/【P0】Google订阅价格与iOS对齐（忻恬）.md) `(710799481)`
+  - [【P0】促销活动期间支持取消支付挽留（大璐）](./V8.16.0版本（9_2上线）🚩/【P0】促销活动期间支持取消支付挽留（大璐）.md) `(710801003)`
   - [【P0】功能新增：Airbrush Relight 新增 AI打光灯 功能（Zac）](./V8.16.0版本（9_2上线）🚩/【P0】功能新增：Airbrush Relight 新增 AI打光灯 功能（Zac）.md) `(707426062)`
   - [【P0】效果新增：Airbrush Hair新增 Silky Straight（丁丁）](./V8.16.0版本（9_2上线）🚩/【P0】效果新增：Airbrush Hair新增 Silky Straight（丁丁）.md) `(710790906)`
   - [【P1】功能新增：Airbrush Body新增 Upper Arms（丁丁）](./V8.16.0版本（9_2上线）🚩/【P1】功能新增：Airbrush Body新增 Upper Arms（丁丁）.md) `(710786320)`
-  - [【P1】活动期间支持取消支付挽留（忻恬）](./V8.16.0版本（9_2上线）🚩/【P1】活动期间支持取消支付挽留（忻恬）.md) `(695504401)`
   - [【P1】AB实验：Airbrush Makeup子分类排序调整-for巴西（思思）](./V8.16.0版本（9_2上线）🚩/【P1】AB实验：Airbrush Makeup子分类排序调整-for巴西（思思）.md) `(710788404)`
   - [【P1】AB实验：Airbrush Makeup-Lipstick素材排序调整-for巴西（思思）](./V8.16.0版本（9_2上线）🚩/【P1】AB实验：Airbrush Makeup-Lipstick素材排序调整-for巴西（思思）.md) `(710789273)`
-  - [【P2】AB实验：Airbrush Body 支持多族裔默认值（丁丁）](./V8.16.0版本（9_2上线）🚩/【P2】AB实验：Airbrush Body 支持多族裔默认值（丁丁）.md) `(710789311)`
+  - [【P1】新老用户入口合并（大璐）](./V8.16.0版本（9_2上线）🚩/【P1】新老用户入口合并（大璐）.md) `(710801018)`
+  - [【P2】AB实验：Airbrush Body 子项支持多族裔默认值（丁丁）](./V8.16.0版本（9_2上线）🚩/【P2】AB实验：Airbrush Body 子项支持多族裔默认值（丁丁）.md) `(710789311)`
   - [【P2】AB实验：Airbrush Filters Poplar 款式排序分国家调整（Zac）](./V8.16.0版本（9_2上线）🚩/【P2】AB实验：Airbrush Filters Poplar 款式排序分国家调整（Zac）.md) `(710797071)`
   - [【P2】体验优化：Airbrush Eraser 取消率优化（Zac）](./V8.16.0版本（9_2上线）🚩/【P2】体验优化：Airbrush Eraser 取消率优化（Zac）.md) `(710797075)`
   - [【P2】体验优化：品牌色更新与颜色变量Git调用（旭阳）](./V8.16.0版本（9_2上线）🚩/【P2】体验优化：品牌色更新与颜色变量Git调用（旭阳）.md) `(710800516)`
   - [V8.16.0技术需求](./V8.16.0版本（9_2上线）🚩/V8.16.0技术需求.md)  `(710784506)`
-    - [【P0】技术：Airbrush Manis升级到Mizar版本（顺达）](./V8.16.0版本（9_2上线）🚩/V8.16.0技术需求/【P0】技术：Airbrush Manis升级到Mizar版本（顺达）.md) `(710785533)`
+    - [【P0】技术：Airbrush Manis升级到Mizar版本 - 长线（顺达）](./V8.16.0版本（9_2上线）🚩/V8.16.0技术需求/【P0】技术：Airbrush Manis升级到Mizar版本 - 长线（顺达）.md) `(710785533)`
+    - [【P1】技术：onbarding与订阅动效资源优化 (张珂paolo)](./V8.16.0版本（9_2上线）🚩/V8.16.0技术需求/【P1】技术：onbarding与订阅动效资源优化 (张珂paolo).md) `(710802796)`
   - [V8.16.0代码删除](./V8.16.0版本（9_2上线）🚩/V8.16.0代码删除.md)  `(710784510)`
     - [【P1】代码删除：Airbrush Body 多族裔 Auto 参数AB实验（Jamie）](./V8.16.0版本（9_2上线）🚩/V8.16.0代码删除/【P1】代码删除：Airbrush Body 多族裔 Auto 参数AB实验（Jamie）.md) `(710800478)`
+    - [【P1】代码删除：Airbrush Magic子项参数优化（思思）](./V8.16.0版本（9_2上线）🚩/V8.16.0代码删除/【P1】代码删除：Airbrush Magic子项参数优化（思思）.md) `(710801232)`
+    - [【P1】代码删除：Airbrush Face 支持多族裔默认值（思思）](./V8.16.0版本（9_2上线）🚩/V8.16.0代码删除/【P1】代码删除：Airbrush Face 支持多族裔默认值（思思）.md) `(710801254)`
     - [【P2】代码删除：Airbrush Glowup排序调整实验（丁丁）](./V8.16.0版本（9_2上线）🚩/V8.16.0代码删除/【P2】代码删除：Airbrush Glowup排序调整实验（丁丁）.md) `(710799636)`
     - [【P2】代码刪除：Airbrush Hair 默认选中发质 tab AB实验（Zac）](./V8.16.0版本（9_2上线）🚩/V8.16.0代码删除/【P2】代码刪除：Airbrush Hair 默认选中发质 tab AB实验（Zac）.md) `(710797058)`
+    - [【P2】代码刪除：Airbrush Relight 展示界面优化 AAB 实验（Zac）](./V8.16.0版本（9_2上线）🚩/V8.16.0代码删除/【P2】代码刪除：Airbrush Relight 展示界面优化 AAB 实验（Zac）.md) `(710801056)`
   - [V8.16.0底层先行](./V8.16.0版本（9_2上线）🚩/V8.16.0底层先行.md) `(710784514)`
 - [V8.15.0版本（8/19上线）🚩](./V8.15.0版本（8_19上线）🚩.md)  `(709009564)`
   - [【P0】AB实验：Airbrush首页新增Videos入口AB实验（可乐）](./V8.15.0版本（8_19上线）🚩/【P0】AB实验：Airbrush首页新增Videos入口AB实验（可乐）.md) `(707422947)`

@@ -120,7 +120,7 @@ complete
 ## 一、需求背景
 **发质发量**模块在用户使用量和满意度上具有压倒性优势，Top 4 全部被其占据，「柔发」以 3482.27 的保存 UV 断层领先，是第二名「水光发」的 1.55 倍。Top 20 中发质发量占 7 席、发色占 8 席、发型仅占 5 席，但若以头部集中度衡量，发质发量模块的少数几款素材贡献了绝大多数使用量，呈现&quot;少而精&quot;的特征；用户对于发质的优化需求更强，水光发、光泽、柔发的使用率高于发量功能。
 ref: 
-在此背景下，本次计划在发质发量模块中柔顺直发**，提升修图效率与成片质量。增强用户粘性，更能强化产品在头发修图领域的差异化竞争力，巩固并扩大现有优势。
+用户对于发质发量的需求度是高于发型发色的，发质发量的满意度（打勾转化率最高）、使用量（Top 4 垄断）和单款变现效率在整体头发模块表现最优。在此背景下，本次计划在发质发量模块中柔顺直发**，提升修图效率与成片质量。增强用户粘性，更能强化产品在头发修图领域的差异化竞争力，巩固并扩大现有优势。
 现有发型Straight，归类属于发型，新上效果与其种类相似，属于直发+柔顺的类型，故AB测试，把入口放到Hairstyles和Hair Enrich对比收益。
 
 效果对比：
@@ -374,6 +374,7 @@ BB:
 - **Silky Straight**增加new，用户点击后消失
 
 订阅策略：
+Hair 中的AI 功能，Follow AI功能限免逻辑，历史次数继承。
 
 - 非会员：生命周期10次限免，每日2次预览
 - 会员：每日30次限免
@@ -383,13 +384,13 @@ BB:
 3、AB 实验方案
 
 | **组别 ** | **内容** | 流量 ||
-| 对照组ａ（线上） | 线上不变 | 25%
+| 对照组 A（线上） | 线上不变 | 25%
  ||
 | 实验组ｂ | Hair- Hair Enrich-Texture， **Silky Straight （第一位）**- Fix Flyaways &rarr; Hydra Gloss &rarr; Shiny &rarr; Smooth &rarr; Oil Control
  | 25% ||
-| 实验组ｂｂ | Hair- Hairstyles-Female，**Silky Straight (第一位）-Straight...**
+| 实验组ｂｂ | Hair- Hair Enrich-Texture， Fix Flyaways &rarr; Hydra Gloss &rarr; **Silky Straight** （第三位）&rarr; Shiny &rarr; Smooth &rarr; Oil Control
  | 25% ||
-| 实验组ｂｂb | Hair- Hair Enrich-Texture， Fix Flyaways &rarr; Hydra Gloss &rarr; **Silky Straight** &rarr; Shiny &rarr; Smooth &rarr; Oil Control | 25% ||
+| 实验组ｂｂb | Hair- Hairstyles-Female，**Silky Straight (第一位）-Straight...** | 25% ||
 | 实验触发时机
  | 升级后首次进入「**Hair**」
  | / ||
