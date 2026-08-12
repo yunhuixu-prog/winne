@@ -9,7 +9,7 @@
 | 项 | 状态 | 说明 |
 |----|------|------|
 | Cursor 账号 + Cloud Agent | 需已开通 | [Dashboard → Cloud Agents](https://cursor.com/dashboard?tab=cloud-agents) |
-| **Git 仓库** | ⚠️ 当前本地目录 **不是 git 仓库** | 定时 Agent 需绑定远程仓库才能 checkout 项目、读写 Skill 与周报产物。请先 `git init` 并 push 到 GitHub/GitLab，或在 Automations 里选择已有远程仓库 |
+| **Git 仓库** | ✅ 已 `git init` + 首次提交 | 仍需 **push 到远程** 并在 Automation 里绑定；见 [`推送到GitHub.md`](./推送到GitHub.md) |
 | `OMNIBUS_ACCESS_TOKEN` | 周一任务需要 | 在 Cloud Agent Environment 或团队 Secrets 中配置 |
 
 打开 Automations 页面：**https://cursor.com/automations/new**
