@@ -1,0 +1,220 @@
+-- 旧版如果把 home_module_show_f_bd改成home_content_show_f_bd，理论来说uv不应该变得，但是汇总的时候，按照content type算得去重，miniapp会展示两个，所以home_content_show_f_bd下的uv会算两次
+-- 新版本也不能这么算啊啊啊，因为位置1的内容类型有好几个
+select version,sum(num)
+from  
+(
+select version,module_type,content_type,count(distinct user_pseudo_id) as num
+from `beautyplus-bc0ed.Duffle_dataset.dwd_home_module_position_temp`
+where event_date='2023-10-23' and event_name in ('home_content_show_f_bd') and module_positon='1' --and version='7.7.000'
+group by 1,2,3
+)
+group by 1
+order by 1 desc
+;
+select version,count(distinct user_pseudo_id) as num
+from `beautyplus-bc0ed.Duffle_dataset.dwd_home_module_position_temp`
+where event_date='2023-10-23' and event_name in ('home_content_show_f_bd') and module_positon='1' --and version='7.7.000'
+group by 1
+order by 1 desc
+;
+
+select version,sum(uv)
+from `beautyplus-bc0ed.Duffle_dataset.ads_home_module_position_temp`
+where event_date='2023-10-23' and event_name in ('home_content_show_f_bd') and module_positon='1' --and version='7.7.000'
+    and module_type!='all' and content_type!='all'
+group by 1
+order by 1 desc
+;
+select version,sum(uv)
+from `beautyplus-bc0ed.Duffle_dataset.ads_home_module_position_temp`
+where event_date='2023-10-23' and event_name in ('home_content_show_f_bd') and module_positon='1' --and version='7.7.000'
+    and module_type='all' and content_type='all'
+group by 1
+order by 1 desc
+;
+
+
+
+select Date,data_type,case when version>='7.7.000' then '>=7.7.000'
+      when version<'7.7.000' then '<7.7.000'
+ else 'null'
+ end Version_status
+  ,sum(case when Module_position='6' and Event_name='home_module_show_f_bd' then Amount end)
+  ,sum(case when Module_position='1' and Event_name='home_module_show_f_bd' then Amount end)
+  ,sum(case when Module_position='6' and Event_name='home_module_show_f_bd' then Amount end)/sum(case when Module_position='1' and Event_name='home_module_show_f_bd' then Amount end)
+  ,sum(case when Event_name='home_second_page_appr_bd' then Amount end)
+  ,sum(case when Event_name='homepageappr_bd' then Amount end)
+  ,sum(case when Event_name='home_second_page_appr_bd' then Amount end)/sum(case when Event_name='homepageappr_bd' then Amount end)
+from
+(
+select 
+ 'uv' as data_type,
+ event_date as Date,Event_name ,module_positon as Module_position ,Module_type,Content_type,Platform,Version,
+ Region,Country,
+ is_UA,is_New,
+ case when is_pay='Paying' then is_pay
+ else 'Non-paying' end as is_Pay,
+sum(uv)as Amount
+from beautyplus-bc0ed.Duffle_dataset.ads_home_module_position_temp
+group by
+event_date,Event_name,module_positon,module_type,content_type,platform,version,
+ region,country,
+ is_UA,is_new,
+  case when is_pay='Paying' then is_pay
+ else 'Non-paying' end 
+union all
+select 
+ 'pv' as data_type,
+ event_date as Date,Event_name ,module_positon as Module_position ,Module_type,Content_type,Platform,Version,
+ Region,Country,
+ is_UA,is_New,
+ case when is_pay='Paying' then is_pay
+ else 'Non-paying' end as is_Pay,
+sum(pv)as Amount
+from beautyplus-bc0ed.Duffle_dataset.ads_home_module_position_temp
+group by
+event_date,Event_name,module_positon,module_type,content_type,platform,version,
+ region,country,
+ is_UA,is_new,
+  case when is_pay='Paying' then is_pay
+ else 'Non-paying' end 
+)
+where is_pay='Non-paying' and Date='2023-10-26' 
+group by 1,2,3
+
+
+drop table if exists `beautyplus-bc0ed.Duffle_dataset.dwd_home_module_position_temp`;
+create table `beautyplus-bc0ed.Duffle_dataset.dwd_home_module_position_temp` as 
+
+with event as (
+  select
+    *
+  from
+    `beautyplus-bc0ed.analytics_153890292.events_*` 
+    where  _TABLE_SUFFIX >= '2023-10-26'
+  )
+select
+  event_date,
+  event_name,
+  module_positon,
+  module_type,
+  content_type,
+  platform,
+  is_pay,
+  b.country,
+  version,
+  is_UA,
+  case
+    when b.is_new = 1 then 'New'
+    else 'Old'
+  end as is_new,
+  case
+    when b.country in ('South Korea', 'Thailand', 'Japan', 'United States') then b.country
+    else 'general'
+  end as region,
+  a.user_pseudo_id
+from
+  (
+    select
+      parse_date('%Y%m%d', a.event_date) as event_date,
+      event_name,
+      coalesce(func.getParams(event_params,'模块位置').string_value,cast(func.getParams(event_params,'模块位置').int_value as string)) module_positon,
+      func.getUserprop(user_properties,'UserPaymentStatus').string_value is_pay,
+      geo.country,
+      a.user_pseudo_id,
+      a.platform,
+      app_info.version,
+      func.getParams(event_params,'模块类型').string_value as module_type,
+      func.getParams(event_params,'内容类型').string_value as content_type
+    from
+      event a
+    where
+      event_name in ('home_module_show_f_bd', 'home_content_show_f_bd','homepageappr_bd','home_second_page_appr_bd')
+      
+  ) a
+  left join (
+    select
+      user_pseudo_id,
+      event_date_hk,
+      country,
+      is_UA,
+      is_new
+    from
+      `dataintegration-265403.stat.stat_active_advice_detail_d` a
+    where
+      app_name = 'BeautyPlus'
+  ) b on a.user_pseudo_id = b.user_pseudo_id
+  and a.event_date = b.event_date_hk
+
+
+
+drop table if exists `beautyplus-bc0ed.Duffle_dataset.ads_home_module_position_temp`;
+create table `beautyplus-bc0ed.Duffle_dataset.ads_home_module_position_temp` as 
+select
+  event_date,
+  event_name,
+  module_positon,
+  module_type,
+  content_type,
+  platform,
+  is_pay,
+  country,
+  version,
+  is_UA,
+  is_new,
+  region,
+  count(distinct user_pseudo_id) as uv,
+  count(*) as pv
+from
+  beautyplus-bc0ed.Duffle_dataset.dwd_home_module_position_temp
+where
+  cast(module_positon as int) < 10
+  and cast(module_positon as int) > 0
+  and event_date >= '2023-10-26'
+  and event_name in ('home_module_show_f_bd', 'home_content_clk_bd')
+group by
+  event_date,
+  event_name,
+  module_positon,
+  module_type,
+  content_type,
+  platform,
+  is_pay,
+  country,
+  version,
+  is_UA,
+  is_new,
+  region
+
+  union all 
+
+  select
+  event_date,
+  event_name,
+  null module_positon,
+  'all' module_type,
+  'all' content_type,
+  platform,
+  is_pay,
+  country,
+  version,
+  is_UA,
+  is_new,
+  region,
+  count(distinct user_pseudo_id) as uv,
+  count(*) as pv
+from
+  beautyplus-bc0ed.Duffle_dataset.dwd_home_module_position_temp
+where
+  event_date >= '2023-10-26'
+  and event_name in ('homepageappr_bd', 'home_second_page_appr_bd')
+group by
+  event_date,
+  event_name,
+  platform,
+  is_pay,
+  country,
+  version,
+  is_UA,
+  is_new,
+  region

@@ -1,0 +1,2 @@
+select *
+from dataintegration-265403.portrait.ads_dzp_portrait_dau_split_user_overall

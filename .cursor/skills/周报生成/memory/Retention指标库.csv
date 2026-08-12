@@ -1,0 +1,22 @@
+层级,指标1,数据来源,指标对应值,取数口径
+1,整体 次留,raw_data/retention.csv,次日留存人数/活跃用户数,渠道自然=整体，国家=整体，平台=整体，新老=整体
+1.1,新用户 次留,raw_data/retention.csv,次日留存人数/活跃用户数,渠道自然=整体，国家=整体，平台=整体，新老=New
+1.2,老用户 次留,raw_data/retention.csv,次日留存人数/活跃用户数,渠道自然=整体，国家=整体，平台=整体，新老=Old
+1.2.1,Android 次留,raw_data/retention.csv,次日留存人数/活跃用户数,渠道自然=整体，国家=整体，平台=Android，新老=Old
+1.2.1.x,x（某 国家 值） 次留,raw_data/retention.csv,次日留存人数/活跃用户数,渠道自然=整体，国家=x（非整体），平台=Android，新老=Old
+1.2.2,iOS 次留,raw_data/retention.csv,次日留存人数/活跃用户数,渠道自然=整体，国家=整体，平台=iOS，新老=Old
+1.2.2.x,x（某 国家 值） 次留,raw_data/retention.csv,次日留存人数/活跃用户数,渠道自然=整体，国家=x（非整体），平台=iOS，新老=Old
+2,整体 活跃UV,raw_data/retention.csv,活跃用户数,渠道自然=整体，国家=整体，平台=整体，新老=整体
+2.1,新用户 活跃UV,raw_data/retention.csv,活跃用户数,渠道自然=整体，国家=整体，平台=整体，新老=New
+2.2,老用户 活跃UV,raw_data/retention.csv,活跃用户数,渠道自然=整体，国家=整体，平台=整体，新老=Old
+2.2.1,Android 活跃UV,raw_data/retention.csv,活跃用户数,渠道自然=整体，国家=整体，平台=Android，新老=Old
+2.2.1.x,x（某 国家 值） 活跃UV,raw_data/retention.csv,活跃用户数,渠道自然=整体，国家=x（非整体），平台=Android，新老=Old
+2.2.2,iOS 活跃UV,raw_data/retention.csv,活跃用户数,渠道自然=整体，国家=整体，平台=iOS，新老=Old
+2.2.2.x,x（某 国家 值） 活跃UV,raw_data/retention.csv,活跃用户数,渠道自然=整体，国家=x（非整体），平台=iOS，新老=Old
+3,整体 次日留存UV,raw_data/retention.csv,次日留存人数,渠道自然=整体，国家=整体，平台=整体，新老=整体
+3.1,新用户 次日留存UV,raw_data/retention.csv,次日留存人数,渠道自然=整体，国家=整体，平台=整体，新老=New
+3.2,老用户 次日留存UV,raw_data/retention.csv,次日留存人数,渠道自然=整体，国家=整体，平台=整体，新老=Old
+3.2.1,Android 次日留存UV,raw_data/retention.csv,次日留存人数,渠道自然=整体，国家=整体，平台=Android，新老=Old
+3.2.1.x,x（某 国家 值） 次日留存UV,raw_data/retention.csv,次日留存人数,渠道自然=整体，国家=x（非整体），平台=Android，新老=Old
+3.2.2,iOS 次日留存UV,raw_data/retention.csv,次日留存人数,渠道自然=整体，国家=整体，平台=iOS，新老=Old
+3.2.2.x,x（某 国家 值） 次日留存UV,raw_data/retention.csv,次日留存人数,渠道自然=整体，国家=x（非整体），平台=iOS，新老=Old

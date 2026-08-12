@@ -1,0 +1,11 @@
+[
+  {"launch": "20260520", "feature": "Retouch", "name": "Retouch新增多族裔效果", "desc": "Retouch 新增多族裔效果"},
+  {"launch": "20260520", "feature": "Tattoo", "name": "Tattoo新增纹身分割", "desc": "Tattoo 新增纹身分割"},
+  {"launch": "20260608", "feature": "Makeup", "name": "局部妆支持AI能力", "desc": "局部妆支持 AI 能力"},
+  {"launch": "20260617", "feature": "Hair", "name": "Hair新增多人识别", "desc": "Hair 新增多人识别"},
+  {"launch": "20260617", "feature": "Hair", "name": "Hair loading组件统一", "desc": "Hair loading 组件统一"},
+  {"launch": "20260617", "feature": "Teeth", "name": "Teeth新增去牙渍", "desc": "Teeth 新增去牙渍"},
+  {"launch": "20260617", "feature": "Face", "name": "Retouch&Face新增3D骨相还原", "desc": "Retouch&Face 新增 3D 骨相还原"},
+  {"launch": "20260617", "feature": "Face", "name": "Face新增提拉Pro", "desc": "Face 新增提拉 Pro"},
+  {"launch": "20260617", "feature": "AI Repair", "name": "Repair支持批量", "desc": "Repair 支持批量"}
+]

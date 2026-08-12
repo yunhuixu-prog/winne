@@ -1,0 +1,16 @@
+层级,指标1,数据来源,指标对应值,取数口径
+1,整体 新增次留,raw_data/new_retention.csv,新增次日留存人数/DNU,渠道自然=整体，国家=整体，平台=整体
+1.1,渠道 新增次留,raw_data/new_retention.csv,新增次日留存人数/DNU,渠道自然=non-Organic，国家=整体，平台=整体
+1.1.x,x（某 国家 值） 新增次留,raw_data/new_retention.csv,新增次日留存人数/DNU,渠道自然=non-Organic，国家=x（非整体），平台=整体
+1.2,自然 新增次留,raw_data/new_retention.csv,新增次日留存人数/DNU,渠道自然=Organic，国家=整体，平台=整体
+1.2.x,x（某 国家 值） 新增次留,raw_data/new_retention.csv,新增次日留存人数/DNU,渠道自然=Organic，国家=x（非整体），平台=整体
+2,整体 新增UV,raw_data/new_retention.csv,DNU,渠道自然=整体，国家=整体，平台=整体
+2.1,渠道 新增UV,raw_data/new_retention.csv,DNU,渠道自然=non-Organic，国家=整体，平台=整体
+2.1.x,x（某 国家 值） 新增UV,raw_data/new_retention.csv,DNU,渠道自然=non-Organic，国家=x（非整体），平台=整体
+2.2,自然 新增UV,raw_data/new_retention.csv,DNU,渠道自然=Organic，国家=整体，平台=整体
+2.2.x,x（某 国家 值） 新增UV,raw_data/new_retention.csv,DNU,渠道自然=Organic，国家=x（非整体），平台=整体
+3,整体 新增次日留存UV,raw_data/new_retention.csv,新增次日留存人数,渠道自然=整体，国家=整体，平台=整体
+3.1,渠道 新增次日留存UV,raw_data/new_retention.csv,新增次日留存人数,渠道自然=non-Organic，国家=整体，平台=整体
+3.1.x,x（某 国家 值） 新增次日留存UV,raw_data/new_retention.csv,新增次日留存人数,渠道自然=non-Organic，国家=x（非整体），平台=整体
+3.2,自然 新增次日留存UV,raw_data/new_retention.csv,新增次日留存人数,渠道自然=Organic，国家=整体，平台=整体
+3.2.x,x（某 国家 值） 新增次日留存UV,raw_data/new_retention.csv,新增次日留存人数,渠道自然=Organic，国家=x（非整体），平台=整体

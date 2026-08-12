@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "dayu-requirement-query": {
+      "source": "https://skills.meitu-int.com/support/bigdata-skills",
+      "sourceType": "well-known",
+      "computedHash": "9894b7443329be7953436c3e3b55357ef6db211bbce697629f182a6d141770c2"
+    }
+  }
+}

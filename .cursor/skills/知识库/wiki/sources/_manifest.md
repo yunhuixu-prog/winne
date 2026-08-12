@@ -1,0 +1,383 @@
+# Raw Manifest
+
+Generated: 2026-06-17
+
+## Biweekly reports
+- raw_data/知识库/site_658377761/20260113日 业务双周会数据同步.md
+- raw_data/知识库/site_658377761/20260127日 业务双周会数据同步.md
+- raw_data/知识库/site_658377761/20260224日 业务双周会数据同步.md
+- raw_data/知识库/site_658377761/20260310日 业务双周会数据同步.md
+- raw_data/知识库/site_658377761/20260324日 业务双周会数据同步.md
+- raw_data/知识库/site_658377761/20260407日 业务双周会数据同步.md
+- raw_data/知识库/site_658377761/20260421日 业务双周会数据同步.md
+- raw_data/知识库/site_658377761/20260519日 业务双周会数据同步.md
+- raw_data/知识库/site_658377761/20260602日 业务双周会数据同步.md
+- raw_data/知识库/site_658377761/20260616日 业务双周会数据同步.md
+
+## Version / experiment docs
+- raw_data/知识库/site_632691935/V8.0.0版本（1_7上线）/V8.0.0需求复盘/Makeup 眼妆合并需求复盘--施工中.md
+- raw_data/知识库/site_632691935/V8.0.0版本（1_7上线）/V8.0.0需求复盘.md
+- raw_data/知识库/site_632691935/V8.0.0版本（1_7上线）/v8.0.0 web需求/【P1】功能新增：Airbrush web 增加AI胡须功能（曾曾）.md
+- raw_data/知识库/site_632691935/V8.0.0版本（1_7上线）/v8.0.0 web需求/【P1】功能新增：Airbrush web 增加黑白滤镜功能（Jamie）.md
+- raw_data/知识库/site_632691935/V8.0.0版本（1_7上线）/v8.0.0 web需求.md
+- raw_data/知识库/site_632691935/V8.0.0版本（1_7上线）/v8.0.0 底层先行/【P0】功能新增：Airbrush新增 AI retouch 效果（Jamie）- 底层先行 长线.md
+- raw_data/知识库/site_632691935/V8.0.0版本（1_7上线）/v8.0.0 底层先行/【P0】功能新增：Airbrush新增多人美体识别（Jamie）底层先行.md
+- raw_data/知识库/site_632691935/V8.0.0版本（1_7上线）/v8.0.0 底层先行/【P1】AB 实验：Airbrush Face 子项算法优化（Jamie）底层先行.md
+- raw_data/知识库/site_632691935/V8.0.0版本（1_7上线）/v8.0.0 底层先行/【P1】功能新增：Airbrush 新增 AI Replace 智能抠图 + 算法替换 - 底层先行 长线 （Jamie）.md
+- raw_data/知识库/site_632691935/V8.0.0版本（1_7上线）/v8.0.0 底层先行.md
+- raw_data/知识库/site_632691935/V8.0.0版本（1_7上线）/v8.0.0技术需求/【P0】体验优化：Airbrush云端功能文件大小优化（阿不）-- Android.md
+- raw_data/知识库/site_632691935/V8.0.0版本（1_7上线）/v8.0.0技术需求/【P2】技术：本地链接文件替换（廖再润）.md
+- raw_data/知识库/site_632691935/V8.0.0版本（1_7上线）/v8.0.0技术需求.md
+- raw_data/知识库/site_632691935/V8.0.0版本（1_7上线）/v8.0.0服务端需求/【P2】其他：Airbrush首页tools支持服务端配置（可乐）.md
+- raw_data/知识库/site_632691935/V8.0.0版本（1_7上线）/v8.0.0服务端需求.md
+- raw_data/知识库/site_632691935/V8.0.0版本（1_7上线）/【P0】功能新增：Airbrush body模块功能新增（富桂、Jamie）- 开发先行.md
+- raw_data/知识库/site_632691935/V8.0.0版本（1_7上线）/【P0】连续包周SKU实验（忻恬）.md
+- raw_data/知识库/site_632691935/V8.0.0版本（1_7上线）/【P1】 其他：Airbrush更新品牌logo（富桂）.md
+- raw_data/知识库/site_632691935/V8.0.0版本（1_7上线）/【P1】AB实验：Airbrush makeup眼妆合并（曾曾）.md
+- raw_data/知识库/site_632691935/V8.0.0版本（1_7上线）/【P1】Android新安装用户降低订阅页弹出频率（忻恬）——仅Android.md
+- raw_data/知识库/site_632691935/V8.0.0版本（1_7上线）/【P1】体验优化：Airbrush AI retouch 缩略图更新（富桂、Jamie）.md
+- raw_data/知识库/site_632691935/V8.0.0版本（1_7上线）/【P1】其他：About Airbrush页面支持复制gid（忻恬）.md
+- raw_data/知识库/site_632691935/V8.0.0版本（1_7上线）/【P1】其他：Airbrush个人讯息蒐集启动时间点合规（Jamie）- Android.md
+- raw_data/知识库/site_632691935/V8.0.0版本（1_7上线）/【P1】其他：Airbrush首页推荐位分国家配置优化（可乐_小红）.md
+- raw_data/知识库/site_632691935/V8.0.0版本（1_7上线）/【P1】删除代码：新用户限免AB实验代码删除（可乐）.md
+- raw_data/知识库/site_632691935/V8.0.0版本（1_7上线）/【P2】代码删除：Airbrush删除 face 功能新增实验代码（富桂）.md
+- raw_data/知识库/site_632691935/V8.0.0版本（1_7上线）/【P2】体验优化：Airbrush 创建AI分身增加黄图_涉政检测（曾曾）.md
+- raw_data/知识库/site_632691935/V8.0.0版本（1_7上线）/【P2】其他：新增保分页埋点（小红）.md
+- raw_data/知识库/site_632691935/V8.0.0版本（1_7上线）/【P2】删除代码：ai标识隐藏AB实验代码删除（可乐）.md
+- raw_data/知识库/site_632691935/V8.0.0版本（1_7上线）/【P2】删除代码：主编辑器记忆逻辑AB实验代码删除（可乐）.md
+- raw_data/知识库/site_632691935/V8.0.0版本（1_7上线）/【P2】删除代码：首页+入口AB实验代码删除（可乐）.md
+- raw_data/知识库/site_632691935/V8.0.0版本（1_7上线）.md
+- raw_data/知识库/site_632691935/V8.1.0版本（1_21上线）/V8.1.0 底层先行/【P1】技术：Adjust底层改造MTImageKit-底层先行（顺达）.md
+- raw_data/知识库/site_632691935/V8.1.0版本（1_21上线）/V8.1.0 底层先行.md
+- raw_data/知识库/site_632691935/V8.1.0版本（1_21上线）/V8.1.0 服务端需求/【P2】底层先行：Airbrush首页弹窗配置迁移Black Admin（小红）.md
+- raw_data/知识库/site_632691935/V8.1.0版本（1_21上线）/V8.1.0 服务端需求/【P2】技术：教程页云端配置（廖再润）.md
+- raw_data/知识库/site_632691935/V8.1.0版本（1_21上线）/V8.1.0 服务端需求.md
+- raw_data/知识库/site_632691935/V8.1.0版本（1_21上线）/V8.1.0 需求复盘/AI 滤镜复盘 -- 施工中.md
+- raw_data/知识库/site_632691935/V8.1.0版本（1_21上线）/V8.1.0 需求复盘/Body 模块新增复盘.md
+- raw_data/知识库/site_632691935/V8.1.0版本（1_21上线）/V8.1.0 需求复盘/Replace 算法速度优化复盘.md
+- raw_data/知识库/site_632691935/V8.1.0版本（1_21上线）/V8.1.0 需求复盘/Retouch 效果复盘.md
+- raw_data/知识库/site_632691935/V8.1.0版本（1_21上线）/V8.1.0 需求复盘/Shimmer 效果复盘 -- 施工中.md
+- raw_data/知识库/site_632691935/V8.1.0版本（1_21上线）/V8.1.0 需求复盘/去眩光算法优化复盘.md
+- raw_data/知识库/site_632691935/V8.1.0版本（1_21上线）/V8.1.0 需求复盘.md
+- raw_data/知识库/site_632691935/V8.1.0版本（1_21上线）/v8.1.0 技术需求/【P1】技术： iOS公测流程完善 - 用户收集调研（廖再润）.md
+- raw_data/知识库/site_632691935/V8.1.0版本（1_21上线）/v8.1.0 技术需求/【P1】技术：Realm数据库卡顿优化 - iOS（廖再润）.md
+- raw_data/知识库/site_632691935/V8.1.0版本（1_21上线）/v8.1.0 技术需求/【P1】技术：Xcode26适配（廖再润）.md
+- raw_data/知识库/site_632691935/V8.1.0版本（1_21上线）/v8.1.0 技术需求/【P1】技术：升级广告sdk至7.15.0 -- Android.md
+- raw_data/知识库/site_632691935/V8.1.0版本（1_21上线）/v8.1.0 技术需求/【P2】技术：教程页重构（廖再润）.md
+- raw_data/知识库/site_632691935/V8.1.0版本（1_21上线）/v8.1.0 技术需求/【P2】技术：磨皮、纹身笔刷替换为ImageKit实现（廖再润）.md
+- raw_data/知识库/site_632691935/V8.1.0版本（1_21上线）/v8.1.0 技术需求.md
+- raw_data/知识库/site_632691935/V8.1.0版本（1_21上线）/【P0】功能新增：Airbrush body模块功能新增（富桂、Jamie）.md
+- raw_data/知识库/site_632691935/V8.1.0版本（1_21上线）/【P0】功能新增：Airbrush新增 AI retouch 效果（Jamie）.md
+- raw_data/知识库/site_632691935/V8.1.0版本（1_21上线）/【P0】接入LiveX支付挽留AB实验（忻恬）—仅iOS.md
+- raw_data/知识库/site_632691935/V8.1.0版本（1_21上线）/【P1】AB实验：Airbrush 去眩光算法优化（Jamie）.md
+- raw_data/知识库/site_632691935/V8.1.0版本（1_21上线）/【P1】体验优化：Airbrush Replace 实验组算法速度优化（Jamie）.md
+- raw_data/知识库/site_632691935/V8.1.0版本（1_21上线）/【P1】功能新增：Airbrush Filter 新增 AI滤镜能力支持（Jamie）.md
+- raw_data/知识库/site_632691935/V8.1.0版本（1_21上线）/【P1】功能新增：Airbrush Glow up新增 Shimmer 效果（Jamie）.md
+- raw_data/知识库/site_632691935/V8.1.0版本（1_21上线）/【P2】防截屏录屏策略优化（忻恬）.md
+- raw_data/知识库/site_632691935/V8.1.0版本（1_21上线）.md
+- raw_data/知识库/site_632691935/V8.1.5版本（小版本，1_26上线）/V8.1.5需求复盘/AI image双人效果需求复盘.md
+- raw_data/知识库/site_632691935/V8.1.5版本（小版本，1_26上线）/V8.1.5需求复盘/AI image效果需求复盘.md
+- raw_data/知识库/site_632691935/V8.1.5版本（小版本，1_26上线）/V8.1.5需求复盘.md
+- raw_data/知识库/site_632691935/V8.1.5版本（小版本，1_26上线）/【P0】体验优化：Airbrush AI image支持双人效果（曾曾）.md
+- raw_data/知识库/site_632691935/V8.1.5版本（小版本，1_26上线）/【P0】数据采集：将Uid写入统计SDK.md
+- raw_data/知识库/site_632691935/V8.1.5版本（小版本，1_26上线）.md
+- raw_data/知识库/site_632691935/V8.10.0版本（6_8上线）/V8.10.0 底层先行/【P1】功能新增：Airbrush Teeth 新增去牙渍（曾曾）--底层先行.md
+- raw_data/知识库/site_632691935/V8.10.0版本（6_8上线）/V8.10.0 底层先行.md
+- raw_data/知识库/site_632691935/V8.10.0版本（6_8上线）/V8.10.0技术需求/【P0】技术：美妆效果支持区分性别 - iOS.md
+- raw_data/知识库/site_632691935/V8.10.0版本（6_8上线）/V8.10.0技术需求/【P1】技术：Airbrush Contouring底层改造MTImageKit - 底层先行（顺达）.md
+- raw_data/知识库/site_632691935/V8.10.0版本（6_8上线）/V8.10.0技术需求/【P1】技术：Airbrush Smooth底层改造MTImageKit - 底层先行（顺达）.md
+- raw_data/知识库/site_632691935/V8.10.0版本（6_8上线）/V8.10.0技术需求/【P1】技术：Airbrush Stamp底层改造MTImageKit（顺达）.md
+- raw_data/知识库/site_632691935/V8.10.0版本（6_8上线）/V8.10.0技术需求/【P2】技术：后台接口版本号格式替换 - iOS.md
+- raw_data/知识库/site_632691935/V8.10.0版本（6_8上线）/V8.10.0技术需求.md
+- raw_data/知识库/site_632691935/V8.10.0版本（6_8上线）/v8.10.0代码删除/【P1】代码删除：Airbrush 激励广告策略调整实验代码删除（可乐）.md
+- raw_data/知识库/site_632691935/V8.10.0版本（6_8上线）/v8.10.0代码删除/【P2】代码删除：Airbrush reshape位置调整实验代码删除（可乐）.md
+- raw_data/知识库/site_632691935/V8.10.0版本（6_8上线）/v8.10.0代码删除/【P2】代码删除：iOS取消支付挽留接入LiveX实验代码删除（忻恬）.md
+- raw_data/知识库/site_632691935/V8.10.0版本（6_8上线）/v8.10.0代码删除/【P2】代码刪除：Airbrush Edit 排序优化 AAB 实验（Jamie）.md
+- raw_data/知识库/site_632691935/V8.10.0版本（6_8上线）/v8.10.0代码删除/【P2】代码刪除：Airbrush Plumping不打勾小问券 AAB 实验（小红）.md
+- raw_data/知识库/site_632691935/V8.10.0版本（6_8上线）/v8.10.0代码删除/【P2】代码刪除：Airbrush Relight 动态缩略图 AAB 实验（Jamie）.md
+- raw_data/知识库/site_632691935/V8.10.0版本（6_8上线）/v8.10.0代码删除/【P2】代码刪除：Airbrush Repair 交互优化 AAB 实验（Jamie）.md
+- raw_data/知识库/site_632691935/V8.10.0版本（6_8上线）/v8.10.0代码删除.md
+- raw_data/知识库/site_632691935/V8.10.0版本（6_8上线）/【P0】Onboarding订阅页优化AB实验（忻恬）.md
+- raw_data/知识库/site_632691935/V8.10.0版本（6_8上线）/【P1】AB实验：Airbrush AI Retouch 缩略图替换（Jamie）.md
+- raw_data/知识库/site_632691935/V8.10.0版本（6_8上线）/【P1】AI限免能力改造（忻恬）——长线（ V.8.9.0跨版本).md
+- raw_data/知识库/site_632691935/V8.10.0版本（6_8上线）/【P1】其他：Airbrush 隐私授权页合规（Jamie）.md
+- raw_data/知识库/site_632691935/V8.10.0版本（6_8上线）/【P1】其他：Zendesk迁移集团客服中台（Mia）.md
+- raw_data/知识库/site_632691935/V8.10.0版本（6_8上线）/【P1】其他：iOS Xcode 升级至26.5（忻恬）.md
+- raw_data/知识库/site_632691935/V8.10.0版本（6_8上线）/【P1】功能新增：Airbrush Relight 支持法线打光（Jamie）.md
+- raw_data/知识库/site_632691935/V8.10.0版本（6_8上线）/【P1】功能新增：Airbrush 局部妆支持AI能力（曾曾）.md
+- raw_data/知识库/site_632691935/V8.10.0版本（6_8上线）/【P1】功能新增：Airbrush接入视频中台- 二期（曾曾）/【P1】功能新增：Airbrush Video 新增抖动修复功能（Jamie）.md
+- raw_data/知识库/site_632691935/V8.10.0版本（6_8上线）/【P1】功能新增：Airbrush接入视频中台- 二期（曾曾）.md
+- raw_data/知识库/site_632691935/V8.10.0版本（6_8上线）/【P2】体验优化：Airbrush New角标_小红点展示逻辑优化（曾曾）.md
+- raw_data/知识库/site_632691935/V8.10.0版本（6_8上线）/【P2】其他：Black Admin接入毕加索（小红）.md
+- raw_data/知识库/site_632691935/V8.10.0版本（6_8上线）/【P2】其他：Black Admin数据看板-长线（小红）.md
+- raw_data/知识库/site_632691935/V8.10.0版本（6_8上线）.md
+- raw_data/知识库/site_632691935/V8.11.0版本（6_17 端午版本）🚩/V8.11.0上期遗留需求/【P1】技术：Face 限免逻辑代码优化（张珂 paolo）.md
+- raw_data/知识库/site_632691935/V8.11.0版本（6_17 端午版本）🚩/V8.11.0上期遗留需求/【P1】技术：接入素材中台（大宝）.md
+- raw_data/知识库/site_632691935/V8.11.0版本（6_17 端午版本）🚩/V8.11.0上期遗留需求/【P1】精细化分层优惠——已过期会员AB实验（忻恬）.md
+- raw_data/知识库/site_632691935/V8.11.0版本（6_17 端午版本）🚩/V8.11.0上期遗留需求/【P2】体验优化：端内icon字体化改造（旭阳）.md
+- raw_data/知识库/site_632691935/V8.11.0版本（6_17 端午版本）🚩/V8.11.0上期遗留需求/【P2】技术：黑后台分发配置逻辑调整（大宝）.md
+- raw_data/知识库/site_632691935/V8.11.0版本（6_17 端午版本）🚩/V8.11.0上期遗留需求.md
+- raw_data/知识库/site_632691935/V8.11.0版本（6_17 端午版本）🚩/V8.11.0代码删除.md
+- raw_data/知识库/site_632691935/V8.11.0版本（6_17 端午版本）🚩/V8.11.0底层先行/【P1】功能新增：Airbrush Hair新增去碎发（曾曾）--底层先行.md
+- raw_data/知识库/site_632691935/V8.11.0版本（6_17 端午版本）🚩/V8.11.0底层先行/【P1】功能新增：Airbrush 磨皮效果新增（曾曾）-底层先行.md
+- raw_data/知识库/site_632691935/V8.11.0版本（6_17 端午版本）🚩/V8.11.0底层先行.md
+- raw_data/知识库/site_632691935/V8.11.0版本（6_17 端午版本）🚩/V8.11.0技术需求/【P1】技术：Airbrush Contouring底层改造MTImageKit（顺达）.md
+- raw_data/知识库/site_632691935/V8.11.0版本（6_17 端午版本）🚩/V8.11.0技术需求/【P1】技术：Push通道移除旧平台兼容逻辑（张珂paolo）-- Android.md
+- raw_data/知识库/site_632691935/V8.11.0版本（6_17 端午版本）🚩/V8.11.0技术需求.md
+- raw_data/知识库/site_632691935/V8.11.0版本（6_17 端午版本）🚩/【P0】AB实验：Airbrush激励广告策略调整AB实验-2期（可乐）.md
+- raw_data/知识库/site_632691935/V8.11.0版本（6_17 端午版本）🚩/【P0】功能新增：Airbrush Face 新增提拉Pro（Jamie）.md
+- raw_data/知识库/site_632691935/V8.11.0版本（6_17 端午版本）🚩/【P0】功能新增：Airbrush Retouch&Face新增3D骨相还原（曾曾）.md
+- raw_data/知识库/site_632691935/V8.11.0版本（6_17 端午版本）🚩/【P1】AB实验：Airbrush Face 子项排序调整（曾曾）.md
+- raw_data/知识库/site_632691935/V8.11.0版本（6_17 端午版本）🚩/【P1】体验优化：Airbrush Hair新增多人识别（曾曾)-长线.md
+- raw_data/知识库/site_632691935/V8.11.0版本（6_17 端午版本）🚩/【P1】功能新增：Airbrush Teeth 新增去牙渍（曾曾）.md
+- raw_data/知识库/site_632691935/V8.11.0版本（6_17 端午版本）🚩/【P1】安卓用户分层优惠不展示季卡（晋羽）.md
+- raw_data/知识库/site_632691935/V8.11.0版本（6_17 端午版本）🚩/【P2】体验优化：Airbrush Hair loading组件统一(kiki).md
+- raw_data/知识库/site_632691935/V8.11.0版本（6_17 端午版本）🚩/【P2】功能新增：Airbrush Repair 支持批量（Jamie）.md
+- raw_data/知识库/site_632691935/V8.11.0版本（6_17 端午版本）🚩.md
+- raw_data/知识库/site_632691935/V8.11.5版本（小版本 7_1上线）🚩/V8.11.5上期遗留需求/【P0】功能新增：Airbrush body 新增曲线功能（Jamie）.md
+- raw_data/知识库/site_632691935/V8.11.5版本（小版本 7_1上线）🚩/V8.11.5上期遗留需求.md
+- raw_data/知识库/site_632691935/V8.11.5版本（小版本 7_1上线）🚩/V8.11.5代码删除/【P2】 代码删除：Airbrush 安装包体体积优化（曾曾）.md
+- raw_data/知识库/site_632691935/V8.11.5版本（小版本 7_1上线）🚩/V8.11.5代码删除.md
+- raw_data/知识库/site_632691935/V8.11.5版本（小版本 7_1上线）🚩/【P0】iOS年SKU月付AB实验（忻恬）.md
+- raw_data/知识库/site_632691935/V8.11.5版本（小版本 7_1上线）🚩/【P0】本地功能支持限免打勾（忻恬）.md
+- raw_data/知识库/site_632691935/V8.11.5版本（小版本 7_1上线）🚩/【P0】美国地区3天免费试用AB实验（忻恬）.md
+- raw_data/知识库/site_632691935/V8.11.5版本（小版本 7_1上线）🚩/【P1】AB实验：Airbrush Relight新增一级入口AB实验（可乐）.md
+- raw_data/知识库/site_632691935/V8.11.5版本（小版本 7_1上线）🚩/【P1】AB实验：Airbrush Skin 功能顺序调整（Jamie）.md
+- raw_data/知识库/site_632691935/V8.11.5版本（小版本 7_1上线）🚩/【P1】功能新增：Airbrush 磨皮效果新增（曾曾）.md
+- raw_data/知识库/site_632691935/V8.11.5版本（小版本 7_1上线）🚩/【P2】其他：Airbrush下线证件照入口（可乐）.md
+- raw_data/知识库/site_632691935/V8.11.5版本（小版本 7_1上线）🚩.md
+- raw_data/知识库/site_632691935/V8.12.0版本（7_8上线）🚩/V8.12.0上期遗留需求/【P1】技术：客户端漂发效果接入SDK（大宝）.md
+- raw_data/知识库/site_632691935/V8.12.0版本（7_8上线）🚩/V8.12.0上期遗留需求/【P2】体验优化：端内icon字体化改造二期（旭阳）.md
+- raw_data/知识库/site_632691935/V8.12.0版本（7_8上线）🚩/V8.12.0上期遗留需求.md
+- raw_data/知识库/site_632691935/V8.12.0版本（7_8上线）🚩/V8.12.0代码删除.md
+- raw_data/知识库/site_632691935/V8.12.0版本（7_8上线）🚩/V8.12.0底层先行/【P1】技术：Airbrush Makeup底层改造MTImageKit - 底层先行 - 长线（顺达）.md
+- raw_data/知识库/site_632691935/V8.12.0版本（7_8上线）🚩/V8.12.0底层先行/【P1】效果新增：Airbrush Retouch效果新增（曾曾）-底层先行.md
+- raw_data/知识库/site_632691935/V8.12.0版本（7_8上线）🚩/V8.12.0底层先行/【P2】技术：Airbrush EyeBrighten底层改造MTImageKit - 底层先行（顺达）.md
+- raw_data/知识库/site_632691935/V8.12.0版本（7_8上线）🚩/V8.12.0底层先行/【P2】效果新增：Airbrush Skin新增Redness（曾曾）--底层先行.md
+- raw_data/知识库/site_632691935/V8.12.0版本（7_8上线）🚩/V8.12.0底层先行.md
+- raw_data/知识库/site_632691935/V8.12.0版本（7_8上线）🚩/V8.12.0技术需求/【P1】技术：AIGC上报信息完善（大宝）.md
+- raw_data/知识库/site_632691935/V8.12.0版本（7_8上线）🚩/V8.12.0技术需求/【P1】技术：接入素材中台-第三期-字体（大宝）.md
+- raw_data/知识库/site_632691935/V8.12.0版本（7_8上线）🚩/V8.12.0技术需求/【P1】技术：接入素材中台-第三期-文字样式（大宝）.md
+- raw_data/知识库/site_632691935/V8.12.0版本（7_8上线）🚩/V8.12.0技术需求/【P1】技术：接入素材中台-第三期-滤镜（大宝）.md
+- raw_data/知识库/site_632691935/V8.12.0版本（7_8上线）🚩/V8.12.0技术需求/【P1】技术：接入素材中台-第三期-背景（大宝）.md
+- raw_data/知识库/site_632691935/V8.12.0版本（7_8上线）🚩/V8.12.0技术需求/【P1】技术：订阅SDK支持单购票据验证（张珂paolo）-- Android.md
+- raw_data/知识库/site_632691935/V8.12.0版本（7_8上线）🚩/V8.12.0技术需求/【P1】技术：黑后台支持下发ImageKit在线开关配置（顺达）.md
+- raw_data/知识库/site_632691935/V8.12.0版本（7_8上线）🚩/V8.12.0技术需求/【P2】技术：Airbrush Acne底层改造MTImageKit（顺达）.md
+- raw_data/知识库/site_632691935/V8.12.0版本（7_8上线）🚩/V8.12.0技术需求/【P2】技术：Airbrush Brighten底层改造MTImageKit（顺达）.md
+- raw_data/知识库/site_632691935/V8.12.0版本（7_8上线）🚩/V8.12.0技术需求/【P2】技术：Airbrush 编辑器新增性别前置检测（Jamie）.md
+- raw_data/知识库/site_632691935/V8.12.0版本（7_8上线）🚩/V8.12.0技术需求/【P2】技术：客户端存储桶迁移.md
+- raw_data/知识库/site_632691935/V8.12.0版本（7_8上线）🚩/V8.12.0技术需求/【P2】技术：黑后台分发配置逻辑调整-第三期（大宝）.md
+- raw_data/知识库/site_632691935/V8.12.0版本（7_8上线）🚩/V8.12.0技术需求.md
+- raw_data/知识库/site_632691935/V8.12.0版本（7_8上线）🚩/【P1】体验优化：Airbrush Body 多族裔 Auto 参数（Jamie）.md
+- raw_data/知识库/site_632691935/V8.12.0版本（7_8上线）🚩/【P1】功能新增：AB 接入账号体系支持俄罗斯支付（Zac）.md
+- raw_data/知识库/site_632691935/V8.12.0版本（7_8上线）🚩/【P1】功能新增：Airbrush Hair新增去碎发（曾曾）.md
+- raw_data/知识库/site_632691935/V8.12.0版本（7_8上线）🚩/【P2】其他：Airbrush Skin_Magic 新增埋点（Jamie）.md
+- raw_data/知识库/site_632691935/V8.12.0版本（7_8上线）🚩/【P2】其他：banner分类新增字段（小红）.md
+- raw_data/知识库/site_632691935/V8.12.0版本（7_8上线）🚩/【P2】效果新增：Airbrush Skin新增Clean Skin（曾曾）.md
+- raw_data/知识库/site_632691935/V8.12.0版本（7_8上线）🚩/【P2】无广告填充时宿主根据回调信息取消loading状态（元龙）.md
+- raw_data/知识库/site_632691935/V8.12.0版本（7_8上线）🚩.md
+- raw_data/知识库/site_632691935/V8.13.0版本（7_22上线）/V8.13.0上期遗留需求/【P2】更新广告SDKv8.4版本（元龙）.md
+- raw_data/知识库/site_632691935/V8.13.0版本（7_22上线）/V8.13.0上期遗留需求.md
+- raw_data/知识库/site_632691935/V8.13.0版本（7_22上线）/V8.13.0代码删除.md
+- raw_data/知识库/site_632691935/V8.13.0版本（7_22上线）/V8.13.0底层先行.md
+- raw_data/知识库/site_632691935/V8.13.0版本（7_22上线）/V8.13.0技术需求.md
+- raw_data/知识库/site_632691935/V8.13.0版本（7_22上线）/【P1】功能新增：Airbrush Face 新增多族裔智能推荐（Jamie）.md
+- raw_data/知识库/site_632691935/V8.13.0版本（7_22上线）/【P1】效果新增：Airbrush Retouch效果新增（曾曾）.md
+- raw_data/知识库/site_632691935/V8.13.0版本（7_22上线）/【P1】活动期间支持取消支付挽留（忻恬）.md
+- raw_data/知识库/site_632691935/V8.13.0版本（7_22上线）/【P2】体验优化： Airbrush 滑杆端点热区优化（Kiki）.md
+- raw_data/知识库/site_632691935/V8.13.0版本（7_22上线）/【P2】效果新增：Airbrush Skin新增Redness（曾曾）.md
+- raw_data/知识库/site_632691935/V8.13.0版本（7_22上线）.md
+- raw_data/知识库/site_632691935/V8.14.0版本（7_29上线）/V8.14.0代码删除.md
+- raw_data/知识库/site_632691935/V8.14.0版本（7_29上线）/V8.14.0底层先行.md
+- raw_data/知识库/site_632691935/V8.14.0版本（7_29上线）/V8.14.0技术需求.md
+- raw_data/知识库/site_632691935/V8.14.0版本（7_29上线）.md
+- raw_data/知识库/site_632691935/V8.2.0版本（2_4上线）/V8.2.0 底层先行/【P0】功能新增：Airbrush AI Retouch新增AI五官一期-底层先行（曾曾）.md
+- raw_data/知识库/site_632691935/V8.2.0版本（2_4上线）/V8.2.0 底层先行/【P0】功能新增：Airbrush Body 新增 S Line 功能（Jamie）- 底层先行.md
+- raw_data/知识库/site_632691935/V8.2.0版本（2_4上线）/V8.2.0 底层先行/【P1】技术：Airbrush GlowUp底层改造MTImageKit-底层先行（顺达）.md
+- raw_data/知识库/site_632691935/V8.2.0版本（2_4上线）/V8.2.0 底层先行.md
+- raw_data/知识库/site_632691935/V8.2.0版本（2_4上线）/V8.2.0技术需求/【P1】技术：Airbrush Adjust底层改造MTImageKit（顺达）.md
+- raw_data/知识库/site_632691935/V8.2.0版本（2_4上线）/V8.2.0技术需求/【P1】技术：Realm数据库卡顿优化二期 - iOS（廖再润）.md
+- raw_data/知识库/site_632691935/V8.2.0版本（2_4上线）/V8.2.0技术需求/【P2】技术：Airbrush Volume_Texture接入Duffle平台（曾曾）.md
+- raw_data/知识库/site_632691935/V8.2.0版本（2_4上线）/V8.2.0技术需求/【P2】技术：Airbrush 图片EXIF保存信息优化（曾曾）.md
+- raw_data/知识库/site_632691935/V8.2.0版本（2_4上线）/V8.2.0技术需求/【P2】技术：客户端日志系统优化和主动上报策略调研 - iOS（廖再润）.md
+- raw_data/知识库/site_632691935/V8.2.0版本（2_4上线）/V8.2.0技术需求/【P2】技术：编辑器功能与模型使用关系梳理 -- 底层.md
+- raw_data/知识库/site_632691935/V8.2.0版本（2_4上线）/V8.2.0技术需求.md
+- raw_data/知识库/site_632691935/V8.2.0版本（2_4上线）/V8.2.0需求复盘/Face 算法模糊优化实验复盘.md
+- raw_data/知识库/site_632691935/V8.2.0版本（2_4上线）/V8.2.0需求复盘/HAIR 功能UI优化AB实验复盘--实验结果数据搜集中.md
+- raw_data/知识库/site_632691935/V8.2.0版本（2_4上线）/V8.2.0需求复盘/Hair新增Hair Tinsel数据复盘.md
+- raw_data/知识库/site_632691935/V8.2.0版本（2_4上线）/V8.2.0需求复盘/Makeup支持AI效果需求复盘.md
+- raw_data/知识库/site_632691935/V8.2.0版本（2_4上线）/V8.2.0需求复盘/Relight新增光效需求复盘.md
+- raw_data/知识库/site_632691935/V8.2.0版本（2_4上线）/V8.2.0需求复盘/Repair 算法替换实验复盘.md
+- raw_data/知识库/site_632691935/V8.2.0版本（2_4上线）/V8.2.0需求复盘.md
+- raw_data/知识库/site_632691935/V8.2.0版本（2_4上线）/【P0】新用户D1-D30优惠价格调整AB实验 （晉羽）.md
+- raw_data/知识库/site_632691935/V8.2.0版本（2_4上线）/【P1】AB 实验：Airbrush Face 算法模糊优化（Jamie）.md
+- raw_data/知识库/site_632691935/V8.2.0版本（2_4上线）/【P1】AB实验：Airbrush  AI Repair 算法替换（Jamie）.md
+- raw_data/知识库/site_632691935/V8.2.0版本（2_4上线）/【P1】AI Image付费模式调整AB实验（忻恬）.md
+- raw_data/知识库/site_632691935/V8.2.0版本（2_4上线）/【P1】体验优化：Airbrush Makeup支持AI效果（曾曾）.md
+- raw_data/知识库/site_632691935/V8.2.0版本（2_4上线）/【P1】体验优化：Airbrush body模块滑杆统一（Jamie）.md
+- raw_data/知识库/site_632691935/V8.2.0版本（2_4上线）/【P1】功能新增：Airbrush Relight新增光效（曾曾）.md
+- raw_data/知识库/site_632691935/V8.2.0版本（2_4上线）/【P2】 代码删除：Airbrush 滤镜实时预览实验代码删除（Jamie）- Android.md
+- raw_data/知识库/site_632691935/V8.2.0版本（2_4上线）/【P2】AB实验：Airbrush Hair功能和UI优化（曾曾）.md
+- raw_data/知识库/site_632691935/V8.2.0版本（2_4上线）/【P2】体验优化：Airbrush 多语言展示UI视觉优化-一期（曾曾）.md
+- raw_data/知识库/site_632691935/V8.2.0版本（2_4上线）.md
+- raw_data/知识库/site_632691935/V8.3.0版本（2_26上线）/V8.3.0 底层先行/【P0】功能新增：Airbrush AI Retouch新增AI五官 底层先行（曾曾）.md
+- raw_data/知识库/site_632691935/V8.3.0版本（2_26上线）/V8.3.0 底层先行/【P0】功能新增：Airbrush新增多人美体识别（Jamie）底层先行-长线.md
+- raw_data/知识库/site_632691935/V8.3.0版本（2_26上线）/V8.3.0 底层先行/【P1】技术：Airbrush GlowUp底层改造MTImageKit-底层先行-长线（顺达）.md
+- raw_data/知识库/site_632691935/V8.3.0版本（2_26上线）/V8.3.0 底层先行.md
+- raw_data/知识库/site_632691935/V8.3.0版本（2_26上线）/V8.3.0技术需求/【P1】技术：Airbrush Face底层改造MTImageKit（顺达）.md
+- raw_data/知识库/site_632691935/V8.3.0版本（2_26上线）/V8.3.0技术需求/【P2】技术需求：Airbrush AI image_Portrait相册识别优化（曾曾）.md
+- raw_data/知识库/site_632691935/V8.3.0版本（2_26上线）/V8.3.0技术需求/【P2】技术：模型上云技术预研.md
+- raw_data/知识库/site_632691935/V8.3.0版本（2_26上线）/V8.3.0技术需求.md
+- raw_data/知识库/site_632691935/V8.3.0版本（2_26上线）/V8.3.0服务端需求/【P2】技术：服务端新增用户日志回捞配置 - iOS（再润）.md
+- raw_data/知识库/site_632691935/V8.3.0版本（2_26上线）/V8.3.0服务端需求.md
+- raw_data/知识库/site_632691935/V8.3.0版本（2_26上线）/V8.3.0需求复盘/Adjust 效果应用顺序需求复盘.md
+- raw_data/知识库/site_632691935/V8.3.0版本（2_26上线）/V8.3.0需求复盘/Body S Line需求复盘.md
+- raw_data/知识库/site_632691935/V8.3.0版本（2_26上线）/V8.3.0需求复盘/Tattoo 体验优化需求复盘.md
+- raw_data/知识库/site_632691935/V8.3.0版本（2_26上线）/V8.3.0需求复盘/面部丰盈auto数值调整AB实验需求复盘--数据回收中.md
+- raw_data/知识库/site_632691935/V8.3.0版本（2_26上线）/V8.3.0需求复盘.md
+- raw_data/知识库/site_632691935/V8.3.0版本（2_26上线）/【P0】iOS更新订阅SDK至6.2.0（忻恬）—仅iOS.md
+- raw_data/知识库/site_632691935/V8.3.0版本（2_26上线）/【P0】功能新增：Airbrush Body 新增 S Line 功能（Jamie）- 长线.md
+- raw_data/知识库/site_632691935/V8.3.0版本（2_26上线）/【P1】AB实验：Airbrush Adjust 优化效果应用顺序（Jamie）.md
+- raw_data/知识库/site_632691935/V8.3.0版本（2_26上线）/【P1】AB实验：Airbrush Tattoo 体验优化 AB 实验（Jamie）.md
+- raw_data/知识库/site_632691935/V8.3.0版本（2_26上线）/【P1】AB实验：Airbrush 面部丰盈Auto效果调整（曾曾）.md
+- raw_data/知识库/site_632691935/V8.3.0版本（2_26上线）/【P1】iOS商品价格&优惠自动同步（忻恬）—仅测试.md
+- raw_data/知识库/site_632691935/V8.3.0版本（2_26上线）/【P1】会员状态兜底开关优化（忻恬）.md
+- raw_data/知识库/site_632691935/V8.3.0版本（2_26上线）/【P2】体验优化：Airbrush 多语言展示UI视觉优化-二期（曾曾）.md
+- raw_data/知识库/site_632691935/V8.3.0版本（2_26上线）/【P2】体验优化：Airbrush 新增 Xcode 26 适配（Jamie）- iOS.md
+- raw_data/知识库/site_632691935/V8.3.0版本（2_26上线）/【P2】体验优化：Airbrush 新增公测用户弹窗（Jamie）- iOS.md
+- raw_data/知识库/site_632691935/V8.3.0版本（2_26上线）/【P2】其他：Black Admin首页弹窗配置迁移接入客户端（小红）.md
+- raw_data/知识库/site_632691935/V8.3.0版本（2_26上线）.md
+- raw_data/知识库/site_632691935/V8.4.0版本（3_11上线）/V8.4.0 Web 需求/【P1】功能新增：Airbrush web 增加AI丰胸功能（曾曾).md
+- raw_data/知识库/site_632691935/V8.4.0版本（3_11上线）/V8.4.0 Web 需求/【P1】功能新增：Airbrush web 增加去眩光功能（Jamie）.md
+- raw_data/知识库/site_632691935/V8.4.0版本（3_11上线）/V8.4.0 Web 需求.md
+- raw_data/知识库/site_632691935/V8.4.0版本（3_11上线）/V8.4.0 底层先行/【P0】功能新增：Airbrush AI Retouch新增AI五官-底层先行 （曾曾）.md
+- raw_data/知识库/site_632691935/V8.4.0版本（3_11上线）/V8.4.0 底层先行/【P1】体验优化：Airbrush Retouch 多人支持效果单人实现 - 底层先行（Jamie）.md
+- raw_data/知识库/site_632691935/V8.4.0版本（3_11上线）/V8.4.0 底层先行/【P1】功能新增：Airbrush Eraser 新增「杂物消除」（Jamie）- 底层先行.md
+- raw_data/知识库/site_632691935/V8.4.0版本（3_11上线）/V8.4.0 底层先行.md
+- raw_data/知识库/site_632691935/V8.4.0版本（3_11上线）/V8.4.0技术需求/【P0】运营：Firebase SDK 升级 - iOS（再润）.md
+- raw_data/知识库/site_632691935/V8.4.0版本（3_11上线）/V8.4.0技术需求/【P1】技术：Airbrush Face底层改造MTImageKit - 长线（顺达）.md
+- raw_data/知识库/site_632691935/V8.4.0版本（3_11上线）/V8.4.0技术需求/【P2】技术：功能内存占用数据上报（顺达）.md
+- raw_data/知识库/site_632691935/V8.4.0版本（3_11上线）/V8.4.0技术需求/【P2】技术：用户日志回捞配置（再润）.md
+- raw_data/知识库/site_632691935/V8.4.0版本（3_11上线）/V8.4.0技术需求.md
+- raw_data/知识库/site_632691935/V8.4.0版本（3_11上线）/【P0】AB实验：Airbrush Body 新增模块实验优化（Jamie）.md
+- raw_data/知识库/site_632691935/V8.4.0版本（3_11上线）/【P0】功能新增：Airbrush Body 新增 S Line 功能（Jamie) -- 长线.md
+- raw_data/知识库/site_632691935/V8.4.0版本（3_11上线）/【P0】功能新增：Airbrush Eraser 新增「镜面去污」（Jamie）/【预研】Eraser 镜面去污与杂物消除 - 工程执行稿.md
+- raw_data/知识库/site_632691935/V8.4.0版本（3_11上线）/【P0】功能新增：Airbrush Eraser 新增「镜面去污」（Jamie）.md
+- raw_data/知识库/site_632691935/V8.4.0版本（3_11上线）/【P1】体验优化：Airbrush Retouch效果优化（Jamie）.md
+- raw_data/知识库/site_632691935/V8.4.0版本（3_11上线）/【P1】其他：Airbrush进入视频模块增加视频更新弹窗（曾曾）.md
+- raw_data/知识库/site_632691935/V8.4.0版本（3_11上线）/【P2】 代码删除：Airbrush AI Replace 算法优化实验（Jamie）.md
+- raw_data/知识库/site_632691935/V8.4.0版本（3_11上线）/【P2】 代码删除：Airbrush AI Retouch 缩略图优化实验（Jamie）.md
+- raw_data/知识库/site_632691935/V8.4.0版本（3_11上线）/【P2】 代码删除：Airbrush 去眩光 算法优化实验（Jamie）.md
+- raw_data/知识库/site_632691935/V8.4.0版本（3_11上线）/【P2】体验优化：Airbrush relight 小气泡优先级调整（Jamie）.md
+- raw_data/知识库/site_632691935/V8.4.0版本（3_11上线）.md
+- raw_data/知识库/site_632691935/V8.5.0版本（3_25上线）/8.5.0 web需求.md
+- raw_data/知识库/site_632691935/V8.5.0版本（3_25上线）/Magic保存埋点（钰静）.md
+- raw_data/知识库/site_632691935/V8.5.0版本（3_25上线）/V8.5.0 底层先行.md
+- raw_data/知识库/site_632691935/V8.5.0版本（3_25上线）/V8.5.0需求复盘/AI Replace 主体识别需求复盘.md
+- raw_data/知识库/site_632691935/V8.5.0版本（3_25上线）/V8.5.0需求复盘/Enhance 入口需求复盘.md
+- raw_data/知识库/site_632691935/V8.5.0版本（3_25上线）/V8.5.0需求复盘.md
+- raw_data/知识库/site_632691935/V8.5.0版本（3_25上线）/v8.5.0技术需求/【P0】更新广告SDK v8.1版本.md
+- raw_data/知识库/site_632691935/V8.5.0版本（3_25上线）/v8.5.0技术需求/【P1】技术：Airbrush Face效果资源去重（顺达）.md
+- raw_data/知识库/site_632691935/V8.5.0版本（3_25上线）/v8.5.0技术需求/【P1】技术：Duffle素材接入Airbrush业务素材下发服务.md
+- raw_data/知识库/site_632691935/V8.5.0版本（3_25上线）/v8.5.0技术需求/【P1】技术：灵问 SDK oci升级.md
+- raw_data/知识库/site_632691935/V8.5.0版本（3_25上线）/v8.5.0技术需求.md
+- raw_data/知识库/site_632691935/V8.5.0版本（3_25上线）/【P0】体验优化：Airbrush 主编辑器 保存按钮旁新增「Enhance」入口（Jamie）.md
+- raw_data/知识库/site_632691935/V8.5.0版本（3_25上线）/【P0】订阅页更新AB实验（忻恬）——长线.md
+- raw_data/知识库/site_632691935/V8.5.0版本（3_25上线）/【P1】AB实验：Airbrush AI任务创建时机调整（曾曾）.md
+- raw_data/知识库/site_632691935/V8.5.0版本（3_25上线）/【P1】体验优化：Airbrush Retouch 切换人脸效果不固化  （Jamie）.md
+- raw_data/知识库/site_632691935/V8.5.0版本（3_25上线）/【P1】功能新增：Airbrush AI Replace新增「主体识别」能力（Jamie）.md
+- raw_data/知识库/site_632691935/V8.5.0版本（3_25上线）/【P1】功能新增：Airbrush AI Retouch新增AI五官 （曾曾）.md
+- raw_data/知识库/site_632691935/V8.5.0版本（3_25上线）/【P2】代码删除：Airbrush face 模糊画质优化实验（Jamie）.md
+- raw_data/知识库/site_632691935/V8.5.0版本（3_25上线）/【P2】代碼刪除：Airbrush AI Repair 算法优化实验（Jamie）.md
+- raw_data/知识库/site_632691935/V8.5.0版本（3_25上线）/【P2】体验优化：Airbrush 弹窗组件优化（Jamie）.md
+- raw_data/知识库/site_632691935/V8.5.0版本（3_25上线）.md
+- raw_data/知识库/site_632691935/V8.6.0版本（4_8上线）/V8.6.0 底层先行/【P0】体验优化：Airbrush Magic新增多人识别（曾曾）底层先行.md
+- raw_data/知识库/site_632691935/V8.6.0版本（4_8上线）/V8.6.0 底层先行/【P0】技术：Airbrush 多族裔 retouch 依赖库接入（Jamie）.md
+- raw_data/知识库/site_632691935/V8.6.0版本（4_8上线）/V8.6.0 底层先行/【P1】功能新增：Airbrush 新增「智能修图模式」1期（Jamie）- 底层先行.md
+- raw_data/知识库/site_632691935/V8.6.0版本（4_8上线）/V8.6.0 底层先行.md
+- raw_data/知识库/site_632691935/V8.6.0版本（4_8上线）/V8.6.0需求复盘/Repair 交互优化需求复盘.md
+- raw_data/知识库/site_632691935/V8.6.0版本（4_8上线）/V8.6.0需求复盘.md
+- raw_data/知识库/site_632691935/V8.6.0版本（4_8上线）/v8.6.0技术需求/【P1】技术：Airbrush Text底层改造MTImageKit（顺达）.md
+- raw_data/知识库/site_632691935/V8.6.0版本（4_8上线）/v8.6.0技术需求/【P1】技术：_v1_sd_async 算法切换为配方调用（木保）.md
+- raw_data/知识库/site_632691935/V8.6.0版本（4_8上线）/v8.6.0技术需求.md
+- raw_data/知识库/site_632691935/V8.6.0版本（4_8上线）/【P0】俄罗斯广告解锁能力下线AB实验（忻恬）.md
+- raw_data/知识库/site_632691935/V8.6.0版本（4_8上线）/【P1】AB实验：Airbrush Edit 排序优化 AB 实验（Jamie）-上个迭代未进版.md
+- raw_data/知识库/site_632691935/V8.6.0版本（4_8上线）/【P1】AB实验：Airbrush Relight 动态缩略图（Jamie）.md
+- raw_data/知识库/site_632691935/V8.6.0版本（4_8上线）/【P1】AB实验：Airbrush Repair 交互优化 AAB 实验（Jamie）.md
+- raw_data/知识库/site_632691935/V8.6.0版本（4_8上线）/【P1】AB实验：Airbrush首页单功能排序调整AB实验（可乐）.md
+- raw_data/知识库/site_632691935/V8.6.0版本（4_8上线）/【P1】功能新增：Airbrush Eraser 新增文字（水印）消除（Jamie）.md
+- raw_data/知识库/site_632691935/V8.6.0版本（4_8上线）/【P1】功能新增：Airbrush Eraser 新增杂物消除（Jamie）.md
+- raw_data/知识库/site_632691935/V8.6.0版本（4_8上线）/【P1】功能新增：Airbrush Makeup新增Freckles（曾曾）.md
+- raw_data/知识库/site_632691935/V8.6.0版本（4_8上线）/【P2】 代码删除：Airbrush Hair 发质发量合并实验（曾曾）.md
+- raw_data/知识库/site_632691935/V8.6.0版本（4_8上线）.md
+- raw_data/知识库/site_632691935/V8.6.5（小版本，4_13上线）/【P0】AB实验：Airbrush Reshape位置调整AB实验（可乐）.md
+- raw_data/知识库/site_632691935/V8.6.5（小版本，4_13上线）/【P0】功能新增：Airbrush body 新增多人识别（Jamie）.md
+- raw_data/知识库/site_632691935/V8.6.5（小版本，4_13上线）/【P2】其他：Airbrush新增live相关打点（可乐）.md
+- raw_data/知识库/site_632691935/V8.6.5（小版本，4_13上线）.md
+- raw_data/知识库/site_632691935/V8.7.0版本（4_22上线 延至4_24）/v8.7.0 web需求.md
+- raw_data/知识库/site_632691935/V8.7.0版本（4_22上线 延至4_24）/v8.7.0技术需求/【P1】技术：Airbrush Reshape、Resize底层改造MTImageKit - 底层先行（顺达）.md
+- raw_data/知识库/site_632691935/V8.7.0版本（4_22上线 延至4_24）/v8.7.0技术需求/【P1】技术：Airbrush hair底层改造MTImageKit - 底层先行（顺达）.md
+- raw_data/知识库/site_632691935/V8.7.0版本（4_22上线 延至4_24）/v8.7.0技术需求/【P1】技术：datafinder & 统计SDK升级 - Android.md
+- raw_data/知识库/site_632691935/V8.7.0版本（4_22上线 延至4_24）/v8.7.0技术需求/【P1】技术：图片编辑器内runSync调用全面改造治理 -- 仅Android（paolo）.md
+- raw_data/知识库/site_632691935/V8.7.0版本（4_22上线 延至4_24）/v8.7.0技术需求.md
+- raw_data/知识库/site_632691935/V8.7.0版本（4_22上线 延至4_24）/【P0】取消支付挽留优惠价格调整AB实验 （晉羽）.md
+- raw_data/知识库/site_632691935/V8.7.0版本（4_22上线 延至4_24）/【P1】AB实验：Airbrush 编辑器下载按钮 AAB 实验（Jamie）.md
+- raw_data/知识库/site_632691935/V8.7.0版本（4_22上线 延至4_24）/【P1】AB实验：Airbrush新手引导流程优化AB实验（可乐）.md
+- raw_data/知识库/site_632691935/V8.7.0版本（4_22上线 延至4_24）/【P1】体验优化：Airbrush Magic新增多人识别（曾曾）.md
+- raw_data/知识库/site_632691935/V8.7.0版本（4_22上线 延至4_24）/【P1】体验优化：Airbrush评分弹窗优化（曾曾）.md
+- raw_data/知识库/site_632691935/V8.7.0版本（4_22上线 延至4_24）/【P1】功能新增：Airbrush 新增「智能修图模式」1期（Jamie）.md
+- raw_data/知识库/site_632691935/V8.7.0版本（4_22上线 延至4_24）/【P1】技术：Airbrush 人脸库 更新 人种识别版本（Jamie）.md
+- raw_data/知识库/site_632691935/V8.7.0版本（4_22上线 延至4_24）/【P1】支持会员兑换码（忻恬）.md
+- raw_data/知识库/site_632691935/V8.7.0版本（4_22上线 延至4_24）/【P2】AB实验：Airbrush 安装包体积优化（曾曾）.md
+- raw_data/知识库/site_632691935/V8.7.0版本（4_22上线 延至4_24）/【P2】AB实验：Airbrush保分页Camera按钮调整为推荐位实验（小红）.md
+- raw_data/知识库/site_632691935/V8.7.0版本（4_22上线 延至4_24）/【P2】AB实验：功能不打勾小问券（小红）.md
+- raw_data/知识库/site_632691935/V8.7.0版本（4_22上线 延至4_24）/【P2】iOS TestFlight包新增订阅提示（忻恬）.md
+- raw_data/知识库/site_632691935/V8.7.0版本（4_22上线 延至4_24）/【P2】体验优化：Airbrush首页project弹窗删除（可乐）.md
+- raw_data/知识库/site_632691935/V8.7.0版本（4_22上线 延至4_24）/遗留需求/【P1】功能新增：Airbrush接入视频中台- 一期（曾曾）/编辑器云处理功能限免支持预览模式（忻恬）.md
+- raw_data/知识库/site_632691935/V8.7.0版本（4_22上线 延至4_24）/遗留需求/【P1】功能新增：Airbrush接入视频中台- 一期（曾曾）.md
+- raw_data/知识库/site_632691935/V8.7.0版本（4_22上线 延至4_24）/遗留需求/【P2】其他：Airbrush视频更新弹窗删除（曾曾）.md
+- raw_data/知识库/site_632691935/V8.7.0版本（4_22上线 延至4_24）/遗留需求/【P2】技术：Airbrush 视频接入智枢（曾曾）.md
+- raw_data/知识库/site_632691935/V8.7.0版本（4_22上线 延至4_24）/遗留需求.md
+- raw_data/知识库/site_632691935/V8.7.0版本（4_22上线 延至4_24）.md
+- raw_data/知识库/site_632691935/V8.7.5（小版本 五一前4_27发版）/【P0】AB实验：Airbrush激励广告策略调整AB实验（可乐）.md
+- raw_data/知识库/site_632691935/V8.7.5（小版本 五一前4_27发版）.md
+- raw_data/知识库/site_632691935/V8.8.0版本（5.7上线 ）/V8.8.0 底层先行/【P1】技术：Airbrush Stamp底层改造MTImageKit - 底层先行（顺达）.md
+- raw_data/知识库/site_632691935/V8.8.0版本（5.7上线 ）/V8.8.0 底层先行.md
+- raw_data/知识库/site_632691935/V8.8.0版本（5.7上线 ）/v8.8.0技术需求/【P1】技术：datafinder & 统计SDK升级 - iOS.md
+- raw_data/知识库/site_632691935/V8.8.0版本（5.7上线 ）/v8.8.0技术需求/【P2】其他：Eraser 新增子功能进入埋点（Jamie）.md
+- raw_data/知识库/site_632691935/V8.8.0版本（5.7上线 ）/v8.8.0技术需求/【P2】技术：pix画像接口迁移（再润）.md
+- raw_data/知识库/site_632691935/V8.8.0版本（5.7上线 ）/v8.8.0技术需求.md
+- raw_data/知识库/site_632691935/V8.8.0版本（5.7上线 ）/【P0】AB实验：Airbrush对“特定人群”提供face限免福利AB实验（可乐）.md
+- raw_data/知识库/site_632691935/V8.8.0版本（5.7上线 ）/【P0】iOS增加订阅页主动曝光AB实验（忻恬）.md
+- raw_data/知识库/site_632691935/V8.8.0版本（5.7上线 ）/【P1】AB实验：Airbrush Filter 默认值优化＆本地记忆实验（Jamie）.md
+- raw_data/知识库/site_632691935/V8.8.0版本（5.7上线 ）/【P1】Firebase 部分埋点下线需求(钰静）.md
+- raw_data/知识库/site_632691935/V8.8.0版本（5.7上线 ）/【P1】代码删除：新版订阅页全量+实验代码删除（忻恬）.md
+- raw_data/知识库/site_632691935/V8.8.0版本（5.7上线 ）/【P1】体验优化：Airbrush Retouch 线上效果新增滑杆（Jamie）.md
+- raw_data/知识库/site_632691935/V8.8.0版本（5.7上线 ）/【P1】体验优化：Airbrush 首页 Repair 替换功能（Jamie）.md
+- raw_data/知识库/site_632691935/V8.8.0版本（5.7上线 ）/【P1】功能新增：Airbrush Face新增小项（曾曾）.md
+- raw_data/知识库/site_632691935/V8.8.0版本（5.7上线 ）/【P1】功能新增：Airbrush Hair新增增发量Pro（曾曾）.md
+- raw_data/知识库/site_632691935/V8.8.0版本（5.7上线 ）/【P2】代碼刪除：Airbrush Adjust 优化效果应用顺序（Jamie）.md
+- raw_data/知识库/site_632691935/V8.8.0版本（5.7上线 ）/【P2】代碼刪除：Airbrush Tattoo交互优化实验（Jamie）.md
+- raw_data/知识库/site_632691935/V8.8.0版本（5.7上线 ）/【P2】体验优化：Airbrush enhance按钮去除tips（Jamie）.md
+- raw_data/知识库/site_632691935/V8.8.0版本（5.7上线 ）.md
+- raw_data/知识库/site_632691935/V8.9.0版本（5_20上线）/V8.9.0 Web 需求/【P1】体验优化：Airbrush Web 落地页改版（Zac）.md
+- raw_data/知识库/site_632691935/V8.9.0版本（5_20上线）/V8.9.0 Web 需求.md
+- raw_data/知识库/site_632691935/V8.9.0版本（5_20上线）/V8.9.0技术需求/【P1】技术：Airbrush Reshape、Resize底层改造MTImageKit（顺达）.md
+- raw_data/知识库/site_632691935/V8.9.0版本（5_20上线）/V8.9.0技术需求/【P1】技术：Airbrush baseline profile 启动优化 - Android（paolo）.md
+- raw_data/知识库/site_632691935/V8.9.0版本（5_20上线）/V8.9.0技术需求.md
+- raw_data/知识库/site_632691935/V8.9.0版本（5_20上线）/【P0】订阅横幅改造AB实验（忻恬）.md
+- raw_data/知识库/site_632691935/V8.9.0版本（5_20上线）/【P0】订阅策略接入用户分层能力AB实验（忻恬）.md
+- raw_data/知识库/site_632691935/V8.9.0版本（5_20上线）/【P1】AB实验：Airbrush Makeup付费密度降低（曾曾）.md
+- raw_data/知识库/site_632691935/V8.9.0版本（5_20上线）/【P1】AI限免能力改造（忻恬）——长线.md
+- raw_data/知识库/site_632691935/V8.9.0版本（5_20上线）/【P1】代码删除：Airbrush 新手引导流程调整实验代码删除（可乐）.md
+- raw_data/知识库/site_632691935/V8.9.0版本（5_20上线）/【P1】代码删除：Airbrush首页单功能排序调整AB实验代码删除（可乐）.md
+- raw_data/知识库/site_632691935/V8.9.0版本（5_20上线）/【P1】体验优化：Airbrush Hair新增多人识别（曾曾)--底层先行.md
+- raw_data/知识库/site_632691935/V8.9.0版本（5_20上线）/【P1】体验优化：Airbrush Reshape 新增 body 引导（Jamie）.md
+- raw_data/知识库/site_632691935/V8.9.0版本（5_20上线）/【P1】功能新增：Airbrush Retouch 新增多族裔效果（Jamie）.md
+- raw_data/知识库/site_632691935/V8.9.0版本（5_20上线）/【P1】功能新增：Airbrush Tattoo 新增纹身分割（Jamie）.md
+- raw_data/知识库/site_632691935/V8.9.0版本（5_20上线）/【P1】埋点：云处理成本与收入打通（赟晖）.md
+- raw_data/知识库/site_632691935/V8.9.0版本（5_20上线）/【P2】代码刪除：Airbrush body 新增多人识别（Jamie）.md
+- raw_data/知识库/site_632691935/V8.9.0版本（5_20上线）/【P2】代码刪除：Airbrush magic算法升级实验（曾曾）.md
+- raw_data/知识库/site_632691935/V8.9.0版本（5_20上线）/【P2】代码刪除：Airbrush makeup眼妆合并实验（曾曾）.md
+- raw_data/知识库/site_632691935/V8.9.0版本（5_20上线）/【P2】其他：黑后台配置分发逻辑调整（小红）.md
+- raw_data/知识库/site_632691935/V8.9.0版本（5_20上线）.md

@@ -1,0 +1,14 @@
+[
+  {"launch": "20260617", "feature": "Hair", "name": "Hair新增多人识别", "desc": "Hair 新增多人识别"},
+  {"launch": "20260617", "feature": "Hair", "name": "Hair loading组件统一", "desc": "Hair loading 组件统一"},
+  {"launch": "20260617", "feature": "Teeth", "name": "Teeth新增去牙渍", "desc": "Teeth 新增去牙渍"},
+  {"launch": "20260617", "feature": "Face", "name": "Retouch&Face新增3D骨相还原", "desc": "Retouch&Face 新增 3D 骨相还原"},
+  {"launch": "20260617", "feature": "Face", "name": "Face新增提拉Pro", "desc": "Face 新增提拉 Pro"},
+  {"launch": "20260617", "feature": "AI Repair", "name": "Repair支持批量", "desc": "Repair 支持批量"},
+  {"launch": "20260701", "feature": "Skin", "name": "磨皮效果新增", "desc": "磨皮效果新增"},
+  {"launch": "20260701", "feature": "Body", "name": "Body新增曲线功能", "desc": "Body 新增曲线功能"},
+  {"launch": "20260708", "feature": "Hair", "name": "Hair新增去碎发", "desc": "Hair 新增去碎发"},
+  {"launch": "20260708", "feature": "Skin", "name": "Skin新增Clean Skin", "desc": "Skin 新增 Clean Skin"},
+  {"launch": "20260722", "feature": "Retouch", "name": "Retouch效果新增", "desc": "Retouch 效果新增"},
+  {"launch": "20260722", "feature": "Skin", "name": "Skin新增Redness Fix", "desc": "Skin 新增 Redness Fix"}
+]

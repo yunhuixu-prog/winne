@@ -1,0 +1,12 @@
+with source_data as (
+ select 
+date,  count(*) cnt
+ from 
+`beautyplus-bc0ed.sub_dataset.beauty_plus_advert` 
+ where date = date_sub(current_date , interval 1 day)
+ and theme in ('机内推送') 
+ group by 1
+ order by 1 desc,2
+)
+select if((select cnt from source_data) > 0, 'Okay',
+    ERROR('table is not update to date'))

@@ -1,0 +1,37 @@
+
+select event_date,platform
+from `beautyplus-bc0ed.analytics.ods_dz_events_tv`('2023-09-23','2023-09-24')
+where app_info.version>='7.6.030'
+limit 10
+
+select event_date_hk,platform
+from `dataintegration-265403.stat.stat_active_advice_detail_d`
+limit 10
+
+select distinct event_date
+from `beautyplus-bc0ed.event_dataset.dwd_search_behavior`
+where event_date = '2023-09-21' 
+order by material_type,imp_cnt desc 
+
+select distinct event_date
+from `beautyplus-bc0ed.event_dataset.dwd_search_behavior_trending`
+
+select *,round(uv/uv_total,3)
+select distinct end_dates
+from `beautyplus-bc0ed.event_dataset.dwd_search_behavior_searching`
+where end_dates = '2023-09-14' and country = 'Japan' and material_type = 'sticker'
+order by uv_rank
+select event_date,sum(search_uv),sum(search_pv)
+select event_date,FORMAT_TIMESTAMP("%Y-%m-%d",timestamp_sub(event_date, interval 6 day)),
+substr(cast(timestamp_sub(event_date, interval 6 day) as string),1,10)
+select *
+from `beautyplus-bc0ed.event_dataset.dwd_search_behavior_overall`
+where event_date = '2023-09-21'
+group by event_date
+
+
+select sum(search_uv)/count(distinct event_date)
+from `beautyplus-bc0ed.event_dataset.dwd_search_behavior_overall`
+
+drop table `beautyplus-bc0ed.event_dataset.dwd_search_event_xyh_test`
+

@@ -1,0 +1,106 @@
+﻿event_id,event_name,event_desc,param_count,param_keys,requirement_count,versions,requirement_ids
+account_logout_success,退出登录成功,用户确认退出登录且退出成功时触发,1,account_id,1,8.13.5,6409
+ai_func_delivery,请求ai算法,请求（是否拦截）的时候上报（缓存不报）,11,"category_id,first_func,fourth_func,func,is_create_task,material_id,material_name,pic_num,second_func,theme_type,third_func",24,"8.1.0,8.1.5,8.2.0,8.3.0,8.4.0,8.5.0,8.6.0,8.8.0,8.9.0,8.10.0,8.11.0,8.11.5,8.12.0,8.13.0","6155,6157,6170,6173,6174,6176,6177,6194,6195,6204,6205,6207,6217,6239,6240,6289,6302,6325,6326,6327,6339,6344,6365,6396"
+ai_func_use_result,使用ai算法请求结果返回,使用ai算法请求结果返回时触发,17,"category_id,first_func,fourth_func,func,is_generate_again,is_recommend,is_retry,is_success,material_id,material_name,pic_num,second_func,task_id,theme_type,third_func,time,trace",30,"8.1.0,8.1.5,8.2.0,8.3.0,8.4.0,8.5.0,8.6.0,8.8.0,8.9.0,8.10.0,8.11.0,8.11.5,8.12.0,8.13.0","6153,6155,6156,6157,6170,6173,6174,6176,6177,6194,6195,6204,6205,6207,6217,6224,6226,6239,6240,6283,6289,6302,6325,6326,6327,6339,6344,6365,6396,6404"
+appstore_pay_fail,付费失败,付费失败时上报,3,"current_sku,prf_fail_reason,trace_info",3,"8.1.0,8.7.0,8.13.5","6147,6255,6409"
+button_click,按钮点击,enhance按钮点击上报,3,"language_name,name,pic_num",6,"8.5.0,8.7.0,8.11.0,8.11.5,8.13.0","6226,6271,6344,6366,6378,6407"
+button_show,按钮曝光,smart&classic按钮曝光,1,name,1,8.11.0,6348
+click_onboarding,点击onboarding 页面按钮,点击onboarding 页面按钮时上报,2,"buttom,page",1,8.7.0,6268
+cloudfilter_per_show,图片云处理权限弹窗点击,,2,"function,port",14,"8.1.0,8.2.0,8.3.0,8.4.0,8.5.0,8.6.0,8.8.0,8.9.0,8.11.0,8.11.5","6157,6174,6177,6195,6204,6205,6207,6217,6226,6240,6283,6304,6325,6339"
+cloudfilter_per_show_ok,图片云处理权限弹窗点击,云服务弹窗点击ok,4,"function,port,type,version",14,"8.1.0,8.2.0,8.3.0,8.4.0,8.5.0,8.6.0,8.8.0,8.9.0,8.11.0,8.11.5","6157,6174,6177,6195,6204,6205,6207,6217,6226,6240,6283,6304,6325,6339"
+connected_account_fail,第三方账号连接失败,第三方账号绑定当前 Airbrush account_id 失败时触发,2,"connect_type,fail_reason",1,8.13.5,6409
+connected_account_success,第三方账号连接成功,第三方账号成功绑定到当前 Airbrush account_id 时触发,2,"account_id,connect_type",1,8.13.5,6409
+contact_us_enter,客服入口点击,客服入口点击时上报,1,from,1,8.10.0,6334
+edit_banner_click,编辑器内横幅点击,编辑器内横幅点击「let us know」时上报,3,"button_type,func,type",2,"8.7.0,8.9.0","6242,6303"
+edit_banner_show,编辑器内横幅曝光,编辑器内横幅曝光时上报,2,"func,type",2,"8.7.0,8.9.0","6242,6303"
+edit_button_click,编辑器按钮点击,,2,"button_type,first_func",1,8.1.5,6170
+edit_enter,进入编辑页,进入编辑页时触发,4,"edit_enter_from,first_source,is_live,second_source",6,"8.0.0,8.1.0,8.6.5,8.7.0,8.8.0","6131,6148,6253,6268,6269,6295"
+edit_save,编辑保存,结束编辑最终保存时触发,13,"enhance_quality,is_upload,mids_category_id,mids_material_id,mod,prf_first_func,prf_material_type,prf_second_func,prf_theme_type,prf_third_func,tab,type,unlock_func",31,"7.23.0,8.0.0,8.1.0,8.1.5,8.2.0,8.3.0,8.4.0,8.5.0,8.7.0,8.8.0,8.9.0,8.10.0,8.11.0,8.11.5,8.12.0,8.13.0","6131,6140,6146,6156,6157,6163,6170,6173,6174,6177,6178,6193,6194,6195,6205,6223,6226,6265,6271,6283,6289,6304,6305,6323,6325,6339,6342,6364,6365,6366,6402"
+editor_race_detect,进入编辑页,获得人种结果时上报,3,"age,gender,race",3,"8.7.0,8.12.0,8.13.0","6231,6372,6398"
+enter_onboarding,进入onboarding 页面,进入onboarding 页面时上报(时机延迟到同意后上报),1,page,1,8.7.0,6268
+first_func_enter,点击一级功能页面,点击一级功能页面时上报,4,"first_func,is_tag,mod,tab",6,"8.1.0,8.7.0,8.10.0,8.11.5,8.13.0","6131,6271,6307,6323,6364,6402"
+first_func_exposure,一级功能曝光,,1,is_tag,1,8.10.0,6307
+first_func_save,一级功能保存,一级relight保存,2,"first_func,presets_selection",1,8.11.5,6364
+first_func_use,一级功能使用,一级功能使用时触发,4,"first_func,mod,prf_func_added,tab",7,"7.23.0,8.2.0,8.7.0,8.8.0,8.10.0,8.11.5,8.13.0","6140,6173,6271,6289,6323,6364,6402"
+first_mykit_redirect,,,1,func_redirected,1,7.23.0,6140
+first_start,启动app,冷启动上报一次,1,isTestFlight,1,8.3.0,6196
+fourth_func_click,四级功能点击,四级功能点击时触发,8,"first_func,fourth_func,from,is_tag,mod,second_func,tab,third_func",4,"8.7.0,8.8.0,8.10.0,8.11.0","6271,6283,6307,6339"
+fourth_func_enter,,,4,"fourth_func,is_tag,second_func,third_func",3,"8.3.0,8.10.0,8.11.5","6195,6307,6325"
+fourth_func_exposure,四级功能曝光,四级功能曝光,1,is_tag,1,8.10.0,6307
+func_use_video_body,打勾视频body,视频body打勾时触发,12,"by_arm_value,by_auto_value,by_breast_value,by_head_value,by_hips_value,by_legs_value,by_length_value,by_neck_value,by_shoulders_value,by_slim_value,by_square_shoulders,by_waist_value",1,8.6.0,6210
+func_use_video_contour,应用视频五官立体功能,应用视频五官立体功能时触发,7,"cheeks_mod,chin_mod,eyebrows_mod,eyes_mod,forehead_mod,lips_mod,nose_mod",1,8.6.0,6210
+func_use_video_plump,打勾视频plump,视频plump打勾时上报,11,"is_auto,pl_chin_value,pl_contour_value,pl_eyes_value,pl_forehead_value,pl_medial_malar_value,pl_middle_value,pl_mouth_value,pl_nasal_base_value,pl_sockets_value,pl_troughs_value",1,8.6.0,6210
+func_use_video_sculpt,应用video五官重塑功能,应用video五官重塑功能时触发,6,"prf_eye_mod,prf_eyebrow_mod,prf_face_mod,prf_lip_mod,prf_mouth_mod,prf_nose_mod",1,8.6.0,6210
+func_video_enter,进入video编辑功能,进入video编辑功能时触发,1,func,1,8.6.0,6210
+func_video_use,video功能打钩确认,应用video功能时触发(打钩确认),1,func,1,8.6.0,6210
+h5_page_button_clk,Maigc Studio页面点击事件,Maigc Studio页面点击时上报,6,"button_type,photo_num,project,save_type,theme,theme_type",1,8.1.5,6170
+homepage_func_click,点击首页模块内功能按钮,点击首页模块内功能按钮时触发该事件(点击按钮上报),2,"func,position",5,"8.0.0,8.3.0,8.6.0,8.12.0","6149,6151,6190,6241,6369"
+homepage_func_show,首页功能按钮曝光,首页功能按钮曝光时上报(曝光触发场景参考素材曝光，用户看到曝光),2,"func,position",5,"8.0.0,8.3.0,8.6.0,8.12.0","6149,6151,6190,6241,6369"
+homepage_view,主页展示,主页展示时触发,1,tab,1,8.1.0,6131
+icon_click,ai replace点击选区icon,ai replace点击选区icon,2,"function,icon",1,8.5.0,6207
+label_click,ai replace 功能label点击,ai replace 功能label点击时上报,1,label_id,1,8.5.0,6207
+limited_banner_click,限免保存横幅点击,限免保存横幅点击时上报,6,"first_func,position,remain,remain_time,second_func,type",1,8.8.0,6287
+limited_banner_show,限免保存横幅展示,限免保存横幅展示时上报,5,"first_func,position,remain,remain_time,second_func",1,8.8.0,6287
+livex_ai_agent_show,LiveX AI Agent对话弹出,LiveX AI Agent对话弹出时上报,1,type,1,8.1.0,6147
+livex_ai_agent_sub_click,点击LiveX推荐的SKU的continue,点击LiveX推荐SKU的continue时上报,3,"content,sku,type",1,8.1.0,6147
+livex_ai_agent_sub_fail,通过LiveX推荐的SKU订阅失败,通过LiveX推荐的SKU订阅失败时上报,4,"content,prf_fail_reason,sku,type",1,8.1.0,6147
+livex_ai_agent_sub_success,通过LiveX推荐的SKU订阅成功,通过LiveX推荐的SKU订阅成功时上报，注意原本的订阅事件w_subscription_success仍需上报,4,"content,order_id,sku,type",1,8.1.0,6147
+login_page_fail,登录失败,用户邮箱登录或三方登录失败时触发,2,"fail_reason,source",1,8.13.5,6409
+login_page_show,登录/注册弹窗曝光,登录/注册弹窗曝光时上报,1,scene,1,8.13.5,6409
+login_page_success,登录/注册成功,登录/注册成功时触发,3,"account_id,is_register,login_type",1,8.13.5,6409
+material_check,素材打勾,应用功能时触发,15,"ai_retouch_value,bw,default_value_source,filters_value,hair_dye_value,is_ai,is_upload,makeup_value,material_type,mids_category_id,mids_material_id,mod,module,panel_state,theme_type",26,"7.23.0,8.0.0,8.1.0,8.1.5,8.2.0,8.3.0,8.5.0,8.6.0,8.7.0,8.8.0,8.9.0,8.10.0,8.11.0,8.12.0,8.13.0","6134,6146,6155,6157,6170,6173,6177,6194,6210,6217,6243,6271,6286,6288,6289,6301,6302,6304,6305,6323,6327,6328,6339,6365,6396,6407"
+material_click,素材点击,素材点击时触发,8,"category_id,is_ai,material_id,material_type,mod,module,panel_state,theme_type",22,"8.0.0,8.1.0,8.1.5,8.2.0,8.3.0,8.5.0,8.6.0,8.7.0,8.8.0,8.9.0,8.10.0,8.11.0,8.12.0,8.13.0","6146,6155,6157,6170,6173,6177,6194,6210,6217,6243,6271,6289,6301,6302,6305,6323,6327,6328,6339,6365,6396,6407"
+material_collection,长按素材收藏,长按素材收藏时上报,4,"category_id,material_id,material_type,module",1,8.6.0,6243
+material_exposure,素材曝光,素材曝光时触发,8,"category_id,is_ai,material_id,material_type,mod,module,panel_state,theme_type",22,"8.0.0,8.1.0,8.1.5,8.2.0,8.3.0,8.5.0,8.6.0,8.7.0,8.8.0,8.9.0,8.10.0,8.11.0,8.12.0,8.13.0","6146,6155,6157,6170,6173,6177,6194,6210,6217,6243,6271,6289,6301,6302,6305,6323,6327,6328,6339,6365,6396,6407"
+model_download_result,功能模型下载返回结果,下载功能模型返回结果时出发,2,"is_success,time",1,8.7.0,6266
+obtain_privacy_policy,隐私协议设置,"进入onboarding 后按不同区域接受的权限，上报0和1；
+进入设置页面-个性化和数据后，用户选择接受或拒绝并退出时，同时上报4个权限接受和拒绝状态；",4,"feedback_communication,personalized_ads,product_analytics,sell_my_information",1,8.7.0,6268
+popup_click,点击popup弹窗confirm  button,"点击popup弹窗confirm  button触发
+(不包括评分弹窗)",7,"first_func,fourth_func,page_name,pop_id,pop_name,second_func,third_func",19,"7.23.0,8.1.0,8.2.0,8.3.0,8.4.0,8.5.0,8.7.0,8.8.0,8.9.0,8.11.5,8.13.0,8.13.5","6143,6155,6174,6176,6190,6194,6195,6196,6204,6205,6208,6225,6226,6264,6287,6302,6325,6403,6413"
+popup_show,popup弹窗出现,popup弹窗出现时触发(不包括评分弹窗),7,"first_func,fourth_func,page_name,pop_id,pop_name,second_func,third_func",19,"7.23.0,8.1.0,8.2.0,8.3.0,8.4.0,8.5.0,8.7.0,8.8.0,8.9.0,8.11.5,8.13.0,8.13.5","6143,6155,6174,6176,6190,6194,6195,6196,6204,6205,6208,6225,6226,6264,6287,6302,6325,6403,6413"
+pro_banner_click,编辑器Pro横幅/悬浮标识点击,非会员应用Pro效果后上方Pro横幅/右上角Pro悬浮标识点击时上报,2,"first_func,second_func",1,8.9.0,6298
+pro_banner_show,编辑器Pro横幅/悬浮标识曝光,非会员应用Pro效果后上方展示Pro横幅/右上角Pro悬浮标识展示时上报,2,"first_func,second_func",1,8.9.0,6298
+pro_halfsheet_click,付费功能提示半窗点击,非会员点击右上角Pro悬浮标识后，底部付费功能提示半窗点击时上报,4,"button_type,feature_nums,first_func,second_func",1,8.9.0,6298
+pro_halfsheet_show,付费功能提示半窗曝光,非会员点击右上角Pro悬浮标识后，底部付费功能提示半窗展示时上报,3,"feature_nums,first_func,second_func",1,8.9.0,6298
+question_pop_show,问卷曝光,问卷曝光时上报,1,type,1,8.1.0,6147
+question_pop_sub_success,通过问卷触发的优惠订阅成功,通过问卷触发的优惠，且最终订阅成功。注意原本的订阅成功事件也需要上报,5,"content,order_id,rest_of_time,sku,type",3,"8.1.0,8.7.0,8.11.5","6147,6255,6363"
+question_pop_submit,选择答案后提交,选择答案后提交时上报,2,"content,type",1,8.1.0,6147
+question_proplan_show,提交问卷后优惠方案弹窗曝光,提交问卷后优惠方案弹窗曝光,2,"content,type",2,"8.1.0,8.11.5","6147,6363"
+restore_purchase_click,用户点击恢复购买,用户点击恢复购买时触发,1,type,1,8.13.0,6413
+restore_purchase_success,用户成功恢复购买,用户成功恢复购买时触发,1,type,1,8.13.0,6413
+rewards_apply,用户兑换成功,用户兑换成功时触发,1,type,1,8.7.0,6263
+save_share_page_click,保存分享页面banner 的 try now点击,保存分享页面banner 的 try now点击,1,button,1,8.0.0,6148
+score_popup_click,提交评分弹窗分数,点击评分弹窗触发,3,"button_type,content,content_other",1,8.7.0,6267
+second_func_enter,点击二级功能页面,点击二级功能页面时上报,10,"age,first_func,from,gender,is_tag,mod,race,second_func,second_func_order,tab",31,"7.23.0,8.0.0,8.1.0,8.2.0,8.3.0,8.5.0,8.6.0,8.7.0,8.8.0,8.9.0,8.10.0,8.11.5,8.13.0","6131,6139,6140,6152,6153,6156,6174,6178,6193,6194,6207,6238,6239,6243,6256,6268,6271,6287,6295,6301,6303,6307,6325,6326,6327,6364,6370,6398,6399,6400,6402"
+second_func_exposure,二级功能曝光,功能icon曝光,3,"first_func,is_tag,second_func",4,"7.23.0,8.1.0,8.10.0,8.13.0","6140,6156,6307,6402"
+second_func_save,二级功能保存,保存edit下的二级功能,52,"adjust_selection,ai_auto,ambient_value,auto_icon,by_ai_shape,by_arm_value,by_auto_value,by_breast,by_buttock_value,by_head_value,by_hips_value,by_legs_value,by_length_value,by_neck_value,by_necklength_value,by_neckwidth_value,by_shoulders_value,by_slim_value,by_square_shoulders,by_tummy_value,by_waist_value,deglare,direction_value,first_func,flash,is_adjust_background_protect,is_ai_eraser,is_auto,is_background_protect,is_batch,is_mirror_stains,is_objects,is_passersby,is_recomend_text,is_spot_remover,is_text,magic_selection,material_name,natural_value,plump_selection,presets_selection,prf_eye_mod,prf_eyebrow_mod,prf_face_mod,prf_jaw_mod,prf_lip_mod,prf_nose_mod,prf_text,second_func,single_side_used,teeth_selection,waist",27,"7.23.0,8.1.0,8.2.0,8.3.0,8.4.0,8.5.0,8.6.0,8.7.0,8.8.0,8.9.0,8.10.0,8.11.0,8.11.5,8.12.0,8.13.0","6140,6153,6155,6156,6174,6192,6193,6195,6204,6205,6207,6223,6240,6265,6283,6287,6295,6302,6325,6326,6339,6342,6344,6371,6396,6398,6400"
+second_func_use,二级功能打勾,应用edit下的二级功能时触发,84,"adjust_count,ambient_value,auto_icon,bm_brighten_stat,bm_chin_value,bm_contouring_value,bm_dark_circles_stat,bm_enlarge_stat,bm_lip_size_value,bm_nose_size_value,bm_red_eye_stat,bm_slim_stat,bm_smooth_value,bm_tint_value,bm_whiten_stat,bm_whiten_value,by_ buttock_value,by_ necklength_value,by_ neckwidth_value,by_ tummy_value,by_ai_shape,by_arm_value,by_auto_value,by_breast,by_breast_value,by_buttock_value,by_head_value,by_hips_value,by_legs_value,by_length_value,by_neck_value,by_necklength_value,by_neckwidth_value,by_shoulders_value,by_slim_value,by_square_shoulders,by_value,by_waist,by_waist_value,deglare_stat,direction_value,first_func,func,horizontal,is_adjust_auto,is_adjust_background_protect,is_ai_eraser,is_auto,is_background_protect,is_batch,is_effect,is_mirror_stains,is_objects,is_passersby,is_recomend_text,is_spot_remover,is_text,material_name,mod,natural_value,pl_chin_value,pl_contour_value,pl_eyes_value,pl_forehead_value,pl_medial_malar_value,pl_middle_value,pl_mouth_value,pl_nasal_base_value,pl_sockets_value,pl_troughs_value,presets_selection,prf_eye_mod,prf_eyebrow_mod,prf_face_mod,prf_jaw_mod,prf_lip_mod,prf_nose_mod,prf_text,second_func,single_side_used,tab,teeth_selection,value,vertical",36,"7.23.0,8.0.0,8.1.0,8.2.0,8.3.0,8.4.0,8.5.0,8.6.0,8.6.5,8.7.0,8.8.0,8.9.0,8.10.0,8.11.0,8.11.5,8.12.0,8.13.0","6140,6146,6153,6155,6156,6163,6174,6178,6192,6193,6194,6195,6204,6205,6207,6239,6240,6243,6254,6265,6271,6283,6287,6295,6301,6302,6325,6326,6327,6339,6342,6344,6371,6396,6398,6400"
+setting_page_click,设置页面按钮（开关）点击,设置页面按钮（开关）点击时上报,1,name,1,8.13.5,6409
+smart_area_click,smart_area_click,smart模式选区点击,3,"first_tab,from,second_area",2,"8.7.0,8.11.0","6271,6348"
+smart_area_exposure,smart_area_exposure,smart模式选区曝光,3,"first_tab,from,second_area",2,"8.7.0,8.11.0","6271,6348"
+smart_tab_click,smart_tab_click,智能选区tab点击,2,"first_tab,from",2,"8.7.0,8.11.0","6271,6348"
+smart_tab_exposure,smart_tab_exposure,智能选区tab曝光,2,"first_tab,from",2,"8.7.0,8.11.0","6271,6348"
+sp_bodybeauty_tab_click,视频_身材美型子项选择,视频_身材美型子项选择,1,subfunction,1,8.6.0,6228
+sp_bodybeauty_yes,身材美型打勾,身材美型打勾,14,"angular_shoulder,arm,body,breast_enhancement,firm_breast_pro,haunch,head,leg,neck_length,neck_thickness,shoulder,swan_neck,thinleg,waist",1,8.6.0,6228
+sp_enter,进入组件,进入组件,3,"enter_from,first_source,second_source",1,8.6.0,6228
+sp_homesave,保存,保存（仅记录是否使用功能，不记录子项）,1,icon_name,1,8.6.0,6228
+sp_picture_quality_click,视频_画质修复入口点击,视频_画质修复入口点击,3,"from,icon_name,target_type",2,"8.6.0,8.8.0","6228,6295"
+sp_picture_quality_yes,视频_画质修复打勾,视频_画质修复打勾,1,tab_name,2,"8.6.0,8.8.0","6228,6295"
+sp_quality_apply_save,画质修复_应用效果保存,画质修复_应用效果保存,2,"portrait_level,slide_range",1,8.6.0,6228
+strategy_popup_click,策略弹窗点击,策略弹窗点击时上报,2,"pop_type,strategy_name",2,"8.5.0,8.11.0","6206,6349"
+strategy_popup_show,策略弹窗曝光,策略弹窗出现时触发,2,"pop_type,strategy_name",2,"8.5.0,8.11.0","6206,6349"
+strategy_popup_sub_success,通过「订阅优惠策略」点击 continue 后调起支付页面并订阅成功,「新手优惠策略」点击 continue 后调起支付页面并订阅年sku成功；点击首页横幅并订阅年sku成功；通过其他场景进入订阅页面但被新手付费策略触达且订阅年sku成功,2,"pop_type,strategy_name",2,"8.5.0,8.11.0","6206,6349"
+third_func_enter,点击三级功能页面,点击三级功能页面时上报,8,"first_func,from,is_tag,mod,second_func,tab,third_func,third_func_order",23,"8.1.0,8.2.0,8.3.0,8.4.0,8.7.0,8.7.5,8.8.0,8.10.0,8.11.0,8.11.5,8.12.0,8.13.0","6131,6153,6156,6163,6174,6178,6192,6205,6271,6275,6283,6294,6307,6325,6326,6340,6342,6367,6368,6370,6371,6397,6401"
+third_func_exposure,三级功能曝光,三级功能曝光时上报,4,"first_func,is_tag,second_func,third_func",9,"8.1.0,8.7.5,8.10.0,8.11.0,8.11.5,8.12.0,8.13.0","6156,6275,6307,6340,6342,6367,6370,6397,6401"
+third_func_save,三级功能保存,三级功能保存时上报,6,"first_func,mode,second_func,smooth_mode,third_func,value",9,"8.7.5,8.11.0,8.11.5,8.12.0,8.13.0","6275,6340,6342,6366,6367,6368,6370,6397,6401"
+third_func_use,三级功能使用,三级功能使用时触发,19,"breast,breast_lite,breast_plus,classic_mod,first_func,hot_value,hourglass,hourglass_value,is_effect,mod,mode,muscular_value,nature_mod,second_func,slender_value,tab,third_func,value,waist",12,"8.6.5,8.7.0,8.7.5,8.11.0,8.11.5,8.12.0,8.13.0","6254,6271,6275,6325,6340,6342,6366,6367,6368,6370,6397,6401"
+user_vip_status,会员身份情况,用户启动app时上报,11,"gid,is_platform_vip,is_tripartite_vip,is_turn_on,is_vip,otid,platform_time,reason,saasid,tripartite_time,uid",1,8.3.0,6191
+video_album_enter,进入视频相册,进入视频相册触发,1,enter_from,2,8.6.0,"6210,6228"
+video_face_identify_success,视频人脸识别成功,视频人脸识别成功时触发,2,"face_time,video_time",2,8.6.0,"6210,6228"
+video_magic_status,一键美颜开启关闭,一键美颜开启关闭时上报,1,status,1,8.6.0,6210
+video_save,视频导出成功,视频导出成功时触发,9,"face_num,face_time,framerate,mids_makeup_id,mids_makeup_tag_id,prf_func_saved,resolution,save_time,video_time",1,8.6.0,6210
+video_save_cancel,导出视频时未完成点击取消,导出视频时未完成点击取消触发该事件,6,"face_num,face_time,framerate,resolution,video_time,wait_time",1,8.6.0,6210
+video_start_edit,选择视频相册后开始,选择视频相册后开始编辑触发,4,"enter_from,first_source,is_live,second_source",3,"8.6.0,8.6.5,8.8.0","6210,6253,6295"
+w_subscription_click,订阅页点击订阅按钮,选中某个plan并点击订阅按钮时上报,14,"SKU,duration,is_ai,is_open_trial,mids_category_id,mids_material_id,sale_status,source_0,source_1,source_2,source_module,trace_info,trial_days,type_id",59,"7.23.0,8.0.0,8.1.0,8.1.5,8.2.0,8.3.0,8.4.0,8.5.0,8.6.0,8.7.0,8.7.5,8.8.0,8.9.0,8.10.0,8.11.0,8.11.5,8.12.0,8.13.0,8.13.5","6131,6140,6145,6146,6147,6150,6153,6154,6155,6156,6157,6170,6173,6174,6175,6176,6177,6193,6194,6195,6204,6205,6206,6207,6210,6217,6226,6228,6239,6240,6243,6255,6268,6275,6283,6285,6289,6298,6301,6302,6324,6325,6326,6339,6340,6341,6342,6349,6361,6363,6365,6366,6367,6396,6397,6401,6407,6409,6410"
+w_subscription_enter,进入订阅页,成功订阅时上报成功付费时上报,12,"SKU,duration,is_ai,mids_category_id,mids_material_id,sale_status,source_0,source_1,source_2,source_module,trace_info,type_id",53,"7.23.0,8.0.0,8.1.0,8.1.5,8.2.0,8.3.0,8.4.0,8.5.0,8.6.0,8.7.0,8.7.5,8.8.0,8.9.0,8.10.0,8.11.0,8.11.5,8.12.0,8.13.0,8.13.5","6131,6140,6146,6147,6150,6153,6154,6155,6156,6157,6170,6173,6174,6175,6176,6177,6193,6194,6195,6204,6205,6206,6207,6210,6217,6226,6228,6239,6240,6243,6255,6268,6275,6283,6285,6289,6298,6301,6302,6324,6325,6326,6339,6340,6342,6349,6365,6366,6367,6396,6397,6401,6409"
+w_subscription_success,订阅成功,进入订阅页时上报,15,"SKU,duration,is_ai,is_open_trial,mids_category_id,mids_material_id,order_id,sale_status,source_0,source_1,source_2,source_module,trace_info,trial_days,type_id",60,"7.23.0,8.0.0,8.1.0,8.1.5,8.2.0,8.3.0,8.4.0,8.5.0,8.6.0,8.7.0,8.7.5,8.8.0,8.9.0,8.10.0,8.11.0,8.11.5,8.12.0,8.13.0,8.13.5","6131,6140,6145,6146,6147,6150,6153,6154,6155,6156,6157,6170,6173,6174,6175,6176,6177,6178,6193,6194,6195,6204,6205,6206,6207,6210,6217,6226,6228,6239,6240,6243,6255,6268,6275,6283,6285,6289,6298,6301,6302,6324,6325,6326,6339,6340,6341,6342,6349,6361,6363,6365,6366,6367,6396,6397,6401,6407,6409,6410"

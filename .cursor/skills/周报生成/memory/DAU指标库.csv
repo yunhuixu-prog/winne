@@ -1,0 +1,7 @@
+层级,指标,数据来源,指标对应值,取数口径
+1,整体 DAU,raw_data/dau.csv,DAU,渠道自然=整体，国家=整体，平台=整体，新老=整体
+1.1,新用户 DAU,raw_data/dau.csv,DAU,渠道自然=整体，国家=整体，平台=整体，新老=New
+1.2,老用户 DAU,raw_data/dau.csv,DAU,渠道自然=整体，国家=整体，平台=整体，新老=Old
+1.2.x,x（某 国家 值） DAU,raw_data/dau.csv,DAU,渠道自然=整体，国家=x（非整体），平台=整体，新老=Old
+1.2.x.1,iOS DAU,raw_data/dau.csv,DAU,渠道自然=整体，国家=x（非整体），平台=iOS，新老=Old
+1.2.x.2,Android DAU,raw_data/dau.csv,DAU,渠道自然=整体，国家=x（非整体），平台=Android，新老=Old

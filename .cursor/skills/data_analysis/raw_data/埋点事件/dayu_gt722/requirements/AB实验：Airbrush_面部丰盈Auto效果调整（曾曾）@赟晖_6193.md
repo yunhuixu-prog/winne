@@ -1,0 +1,27 @@
+| 需求类型 | 事件来源 | 事件类型 | *事件id | *事件名称 | 参数 | 参数名称 | 参数类型 | 参数值类型 | 参数口径 | 参数值 | 参数值名称 | 参数值口径 | *统计口径 | 备注说明 | 事件分组 | 标签 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 影响事件 | 0 | 1 | second_func_enter | 点击二级功能页面 | second_func | 二级功能参数 | 普通参数 | string |  | plump |  |  | 点击二级功能页面时上报 |  |  |  |
+| 影响事件 | 0 | 1 | second_func_enter | 点击二级功能页面 | first_func | 一级功能参数 | 普通参数 | string |  | retouch |  |  | 点击二级功能页面时上报 |  |  |  |
+| 影响事件 | 0 | 1 | second_func_use | 二级功能打勾 | second_func | 二级功能参数 | 普通参数 | string |  | plump |  |  | 应用edit下的二级功能时触发 |  |  |  |
+| 影响事件 | 0 | 1 | second_func_use | 二级功能打勾 | first_func | 一级功能参数 | 普通参数 | string |  | retouch |  |  | 应用edit下的二级功能时触发 |  |  |  |
+| 影响事件 | 0 | 1 | second_func_use | 二级功能打勾 | pl_contour_value |  | 普通参数 | string | 滑杆值，没用该子功能不报该参数，下同；多人脸用英文逗号隔开，下同 |  |  |  | 应用edit下的二级功能时触发 |  |  |  |
+| 影响事件 | 0 | 1 | second_func_use | 二级功能打勾 | pl_forehead_value |  | 普通参数 | string | 滑杆值 |  |  |  | 应用edit下的二级功能时触发 |  |  |  |
+| 影响事件 | 0 | 1 | second_func_use | 二级功能打勾 | pl_sockets_value |  | 普通参数 | string | 滑杆值 |  |  |  | 应用edit下的二级功能时触发 |  |  |  |
+| 影响事件 | 0 | 1 | second_func_use | 二级功能打勾 | pl_eyes_value |  | 普通参数 | string | 滑杆值 |  |  |  | 应用edit下的二级功能时触发 |  |  |  |
+| 影响事件 | 0 | 1 | second_func_use | 二级功能打勾 | pl_troughs_value |  | 普通参数 | string | 滑杆值 |  |  |  | 应用edit下的二级功能时触发 |  |  |  |
+| 影响事件 | 0 | 1 | second_func_use | 二级功能打勾 | pl_medial_malar_value |  | 普通参数 | string | 滑杆值 |  |  |  | 应用edit下的二级功能时触发 |  |  |  |
+| 影响事件 | 0 | 1 | second_func_use | 二级功能打勾 | pl_middle_value |  | 普通参数 | string | 滑杆值 |  |  |  | 应用edit下的二级功能时触发 |  |  |  |
+| 影响事件 | 0 | 1 | second_func_use | 二级功能打勾 | pl_nasal_base_value |  | 普通参数 | string | 滑杆值 |  |  |  | 应用edit下的二级功能时触发 |  |  |  |
+| 影响事件 | 0 | 1 | second_func_use | 二级功能打勾 | pl_mouth_value |  | 普通参数 | string | 滑杆值 |  |  |  | 应用edit下的二级功能时触发 |  |  |  |
+| 影响事件 | 0 | 1 | second_func_use | 二级功能打勾 | pl_chin_value |  | 普通参数 | string | 滑杆值 |  |  |  | 应用edit下的二级功能时触发 |  |  |  |
+| 影响事件 | 0 | 1 | second_func_use | 二级功能打勾 | is_auto |  | 普通参数 | string | 没用报0，有用报1 |  |  |  | 应用edit下的二级功能时触发 |  |  |  |
+| 影响事件 | 0 | 1 | second_func_save | 二级功能保存 | second_func |  | 普通参数 | string | plump | plump |  |  | 保存edit下的二级功能 |  |  |  |
+| 影响事件 | 0 | 1 | second_func_save | 二级功能保存 | is_auto |  | 普通参数 | string | 没有报0，有报1 |  |  |  | 保存edit下的二级功能 |  |  |  |
+| 影响事件 | 0 | 1 | second_func_save | 二级功能保存 | plump_selection |  | 普通参数 | string | 用哪个报哪个英文功能名（功能名有空格的用下划线代替），英文逗号隔开；多次打勾应用上效果的拼接上报 |  |  |  | 保存edit下的二级功能 |  |  |  |
+| 影响事件 | 0 | 1 | edit_save | 编辑保存 | prf_second_func | 二级功能参数 | 普通参数 | string | makeup | plump |  |  | 结束编辑最终保存时触发 |  |  |  |
+| 影响事件 | 0 | 1 | w_subscription_click | 订阅页点击订阅按钮 | source_module | 进入订阅页来源模块 | 普通参数 | string |  | p_edit |  |  | 选中某个plan并点击订阅按钮时上报 |  |  |  |
+| 影响事件 | 0 | 1 | w_subscription_click | 订阅页点击订阅按钮 | source_0 | 进入订阅页来源-0 | 普通参数 | string |  | f_plump |  |  | 选中某个plan并点击订阅按钮时上报 |  |  |  |
+| 影响事件 | 0 | 1 | w_subscription_success | 订阅成功 | source_module | 进入订阅页来源模块 | 普通参数 | string |  | p_edit |  |  | 进入订阅页时上报 |  |  |  |
+| 影响事件 | 0 | 1 | w_subscription_success | 订阅成功 | source_0 | 进入订阅页来源-0 | 普通参数 | string |  | f_plump |  |  | 进入订阅页时上报 |  |  |  |
+| 影响事件 | 0 | 1 | w_subscription_enter | 进入订阅页 | source_module | 进入订阅页来源模块 | 普通参数 | string |  | p_edit |  |  | 成功订阅时上报成功付费时上报 |  |  |  |
+| 影响事件 | 0 | 1 | w_subscription_enter | 进入订阅页 | source_0 | 进入订阅页来源-0 | 普通参数 | string |  | f_plump |  |  | 成功订阅时上报成功付费时上报 |  |  |  |

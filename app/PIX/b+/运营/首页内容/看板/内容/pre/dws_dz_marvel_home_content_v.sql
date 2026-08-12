@@ -1,0 +1,53 @@
+WITH t2format AS (
+  SELECT
+    x.event_date,
+    x.app_name,
+    x.app_version,
+    x.platform,
+    x.country,
+    x.is_new,
+    x.is_ua,
+    x.module,
+    x.module_id,
+    x.content_id,
+    [STRUCT( 'pv' AS data_type,
+      impression_pv AS exposure,
+      click_pv AS click,
+      use_pv AS `check`,
+      save_pv AS `save`,
+      IFNULL(subscription, 0) AS sub,
+      IFNULL(sub2paid, 0) AS sub_to_paid,
+      IFNULL(paid_amounts, 0) AS revenue ),
+    STRUCT( 'uv' AS data_type,
+      impression_uv AS exposure,
+      click_uv AS click,
+      use_uv AS `check`,
+      save_uv AS `save`,
+      IFNULL(subscription, 0) AS sub,
+      IFNULL(sub2paid, 0) AS sub_to_paid,
+      IFNULL(paid_amounts, 0) AS revenue) ] AS upv,
+  FROM
+    `dataintegration-265403.duffle_fin.dws_dz_marvel_home_content` x
+)
+SELECT
+  event_date,
+  app_name,
+  app_version,
+  platform,
+  country,
+  is_new,
+  is_ua,
+  module,
+  module_id,
+  content_id,
+  v.data_type,
+  v.exposure,
+  v.click,
+  v.check,
+  v.save,
+  v.sub,
+  v.sub_to_paid,
+  v.revenue
+FROM
+  t2format,
+  UNNEST(t2format.upv) v

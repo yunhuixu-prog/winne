@@ -1,0 +1,35 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+*.swp
+*.swo
+
+# Secrets
+.env
+.env.*
+*.pem
+credentials.json
+
+# Large / generated outputs (Cloud Agent 从仓库拉代码，不追踪本地跑数产物)
+outputs/
+.codex-tmp/
+.codex-tmp-*/
+
+# 周报 skill 本地跑数中间产物（raw_data CSV 保留，便于 Agent 复现）
+.cursor/skills/周报生成/output/
+
+# 知识库 wiki 可由 INGEST 重建；raw_data 保留 Confluence 快照
+# （若需减小仓库体积，可取消下一行注释）
+# .cursor/skills/知识库/raw_data/
+
+# Cursor 本地状态（非 skill）
+.cursor/projects/

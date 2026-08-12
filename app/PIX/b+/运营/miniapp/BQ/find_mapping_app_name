@@ -1,0 +1,32 @@
+-- 找sub_miniapp
+select distinct category2
+from 
+    `beautyplus-bc0ed.sub_dataset.ads_spm_trial_subscription_pre_v5_abtest` ,unnest(agg) k
+where 
+    date between '2023-09-01' and '2023-09-27'
+    -- date between '2023-08-10' and date_sub(current_date,interval'1'day)
+    -- date between '{{ (execution_date + macros.timedelta(hours=8) - macros.timedelta(days=3)).strftime("%Y-%m-%d") }}' and '{{ (execution_date + macros.timedelta(hours=8) - macros.timedelta(days=0)).strftime("%Y-%m-%d") }}'
+    and k.category1='H5'
+    and event_name='subscription_try_suc';
+
+-- 找buried_miniapp
+with event_pre as
+(     
+    select event_name,event_params,
+        func.getParams(event_params,'project').string_value project
+    from
+        `beautyplus-bc0ed.analytics.ods_dz_events_tv`('2023-10-16', '2023-10-17') 
+    where event_name in ('home_content_show_f_bd','home_content_clk_bd','h5_page_event_bd','h5_effect_page_clk_bd','h5_home_page_clk_bd','h5_page_button_clk_bd','h5_page_clk_bd','h5_preview_save_bd','h5_result_share_bd','h5_credit_consume_bd')       
+)
+
+select distinct project
+from event_pre
+where 
+    case    when event_name in ('home_content_show_f_bd','home_content_clk_bd') then func.getParams(event_params,'模块类型').   string_value='miniapp' 
+            when event_name='h5_page_event_bd' then func.getParams(event_params,'page_id').string_value in('home_page_view','style_page_view','confirm_page_view','video_confirm_page_view')
+            when event_name in ('h5_effect_page_clk_bd','h5_home_page_clk_bd','h5_page_button_clk_bd','h5_page_clk_bd') then func.getParams(event_params,'button_type').string_value in ('save','save_poster','save_video','material_save','save_collection','save_all','material_share','homepage_share','share','generate')
+                else 1=1
+                end;
+
+-- 找miniapp
+两张表一致就行了吧

@@ -1,0 +1,1746 @@
+{
+  "outputDir": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements",
+  "count": 124,
+  "mode": "expanded",
+  "exports": [
+    {
+      "requirementName": "AIGC SDK",
+      "requirementId": "6142",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6142&appId=282&platformAgg=APP",
+      "rowCount": 0,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AIGC_SDK_6142.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AIGC_SDK_6142.md"
+    },
+    {
+      "requirementName": "Airbrush 去眩光功能位置、小气泡调整（Jamie）@赟晖",
+      "requirementId": "6139",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6139&appId=282&platformAgg=APP",
+      "rowCount": 3,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Airbrush_去眩光功能位置、小气泡调整（Jamie）@赟晖_6139.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Airbrush_去眩光功能位置、小气泡调整（Jamie）@赟晖_6139.md"
+    },
+    {
+      "requirementName": "Airbrush 新增删除用户资料按钮&交互优化（Jamie）@赟晖",
+      "requirementId": "6143",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6143&appId=282&platformAgg=APP",
+      "rowCount": 2,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Airbrush_新增删除用户资料按钮&交互优化（Jamie）@赟晖_6143.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Airbrush_新增删除用户资料按钮&交互优化（Jamie）@赟晖_6143.md"
+    },
+    {
+      "requirementName": "个人信息收集@钰静",
+      "requirementId": "6141",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6141&appId=282&platformAgg=APP",
+      "rowCount": 5,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/个人信息收集@钰静_6141.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/个人信息收集@钰静_6141.md"
+    },
+    {
+      "requirementName": "滤镜滑杆@钰静",
+      "requirementId": "6134",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6134&appId=282&platformAgg=APP",
+      "rowCount": 5,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/滤镜滑杆@钰静_6134.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/滤镜滑杆@钰静_6134.md"
+    },
+    {
+      "requirementName": "面部丰盈@钰静",
+      "requirementId": "6140",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6140&appId=282&platformAgg=APP",
+      "rowCount": 27,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/面部丰盈@钰静_6140.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/面部丰盈@钰静_6140.md"
+    },
+    {
+      "requirementName": "Android新安装用户降低订阅页弹出频率（忻恬）@赟晖",
+      "requirementId": "6150",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6150&appId=282&platformAgg=APP",
+      "rowCount": 9,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Android新安装用户降低订阅页弹出频率（忻恬）@赟晖_6150.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Android新安装用户降低订阅页弹出频率（忻恬）@赟晖_6150.md"
+    },
+    {
+      "requirementName": "makeup眼妆合并@史钰静",
+      "requirementId": "6146",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6146&appId=282&platformAgg=APP",
+      "rowCount": 25,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/makeup眼妆合并@史钰静_6146.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/makeup眼妆合并@史钰静_6146.md"
+    },
+    {
+      "requirementName": "保分页@史钰静",
+      "requirementId": "6148",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6148&appId=282&platformAgg=APP",
+      "rowCount": 3,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/保分页@史钰静_6148.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/保分页@史钰静_6148.md"
+    },
+    {
+      "requirementName": "连续包周SKU实验（忻恬）@赟晖",
+      "requirementId": "6145",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6145&appId=282&platformAgg=APP",
+      "rowCount": 10,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/连续包周SKU实验（忻恬）@赟晖_6145.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/连续包周SKU实验（忻恬）@赟晖_6145.md"
+    },
+    {
+      "requirementName": "面部丰盈小气泡埋点",
+      "requirementId": "6152",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6152&appId=282&platformAgg=APP",
+      "rowCount": 2,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/面部丰盈小气泡埋点_6152.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/面部丰盈小气泡埋点_6152.md"
+    },
+    {
+      "requirementName": "首页分国家配置优化",
+      "requirementId": "6151",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6151&appId=282&platformAgg=APP",
+      "rowCount": 5,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/首页分国家配置优化_6151.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/首页分国家配置优化_6151.md"
+    },
+    {
+      "requirementName": "首页金刚位@钰静",
+      "requirementId": "6149",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6149&appId=282&platformAgg=APP",
+      "rowCount": 4,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/首页金刚位@钰静_6149.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/首页金刚位@钰静_6149.md"
+    },
+    {
+      "requirementName": "接入LiveX支付挽留AB实验（忻恬）@赟晖",
+      "requirementId": "6147",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6147&appId=282&platformAgg=APP",
+      "rowCount": 45,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/接入LiveX支付挽留AB实验（忻恬）@赟晖_6147.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/接入LiveX支付挽留AB实验（忻恬）@赟晖_6147.md"
+    },
+    {
+      "requirementName": "P0事件必测",
+      "requirementId": "6131",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6131&appId=282&platformAgg=APP",
+      "rowCount": 36,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/P0事件必测_6131.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/P0事件必测_6131.md"
+    },
+    {
+      "requirementName": "功能新增：Airbrush body模块功能新增（富桂、Jamie）@赟晖",
+      "requirementId": "6163",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6163&appId=282&platformAgg=APP",
+      "rowCount": 13,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/功能新增：Airbrush_body模块功能新增（富桂、Jamie）@赟晖_6163.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/功能新增：Airbrush_body模块功能新增（富桂、Jamie）@赟晖_6163.md"
+    },
+    {
+      "requirementName": "功能新增：Airbrush新增 AI retouch 效果（Jamie）@赟晖",
+      "requirementId": "6155",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6155&appId=282&platformAgg=APP",
+      "rowCount": 54,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/功能新增：Airbrush新增_AI_retouch_效果（Jamie）@赟晖_6155.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/功能新增：Airbrush新增_AI_retouch_效果（Jamie）@赟晖_6155.md"
+    },
+    {
+      "requirementName": "防截屏录屏策略优化（忻恬）@赟晖",
+      "requirementId": "6154",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6154&appId=282&platformAgg=APP",
+      "rowCount": 10,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/防截屏录屏策略优化（忻恬）@赟晖_6154.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/防截屏录屏策略优化（忻恬）@赟晖_6154.md"
+    },
+    {
+      "requirementName": "AI 滤镜@史钰静",
+      "requirementId": "6157",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6157&appId=282&platformAgg=APP",
+      "rowCount": 28,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AI_滤镜@史钰静_6157.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AI_滤镜@史钰静_6157.md"
+    },
+    {
+      "requirementName": "Airbrush 去眩光算法优化（Jamie）@赟晖",
+      "requirementId": "6153",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6153&appId=282&platformAgg=APP",
+      "rowCount": 34,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Airbrush_去眩光算法优化（Jamie）@赟晖_6153.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Airbrush_去眩光算法优化（Jamie）@赟晖_6153.md"
+    },
+    {
+      "requirementName": "Glowup新增@史钰静",
+      "requirementId": "6156",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6156&appId=282&platformAgg=APP",
+      "rowCount": 21,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Glowup新增@史钰静_6156.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Glowup新增@史钰静_6156.md"
+    },
+    {
+      "requirementName": "Airbrush AI image支持双人效果（曾曾）@赟晖",
+      "requirementId": "6170",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6170&appId=282&platformAgg=APP",
+      "rowCount": 71,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Airbrush_AI_image支持双人效果（曾曾）@赟晖_6170.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Airbrush_AI_image支持双人效果（曾曾）@赟晖_6170.md"
+    },
+    {
+      "requirementName": "relight新增四款光效@史钰静",
+      "requirementId": "6174",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6174&appId=282&platformAgg=APP",
+      "rowCount": 35,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/relight新增四款光效@史钰静_6174.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/relight新增四款光效@史钰静_6174.md"
+    },
+    {
+      "requirementName": "新用户D1-D30优惠价格调整AB实验 （晉羽）@赟晖",
+      "requirementId": "6175",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6175&appId=282&platformAgg=APP",
+      "rowCount": 14,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/新用户D1-D30优惠价格调整AB实验_（晉羽）@赟晖_6175.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/新用户D1-D30优惠价格调整AB实验_（晉羽）@赟晖_6175.md"
+    },
+    {
+      "requirementName": "AI Image付费模式调整AB实验（忻恬）@赟晖",
+      "requirementId": "6176",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6176&appId=282&platformAgg=APP",
+      "rowCount": 36,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AI_Image付费模式调整AB实验（忻恬）@赟晖_6176.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AI_Image付费模式调整AB实验（忻恬）@赟晖_6176.md"
+    },
+    {
+      "requirementName": "AI Makeup",
+      "requirementId": "6177",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6177&appId=282&platformAgg=APP",
+      "rowCount": 42,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AI_Makeup_6177.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AI_Makeup_6177.md"
+    },
+    {
+      "requirementName": "AI Repair",
+      "requirementId": "6178",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6178&appId=282&platformAgg=APP",
+      "rowCount": 6,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AI_Repair_6178.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AI_Repair_6178.md"
+    },
+    {
+      "requirementName": "Body滑杆",
+      "requirementId": "6179",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6179&appId=282&platformAgg=APP",
+      "rowCount": 0,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Body滑杆_6179.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Body滑杆_6179.md"
+    },
+    {
+      "requirementName": "Hair优化@史钰静",
+      "requirementId": "6173",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6173&appId=282&platformAgg=APP",
+      "rowCount": 50,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Hair优化@史钰静_6173.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Hair优化@史钰静_6173.md"
+    },
+    {
+      "requirementName": "AB实验：Airbrush 面部丰盈Auto效果调整（曾曾）@赟晖",
+      "requirementId": "6193",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6193&appId=282&platformAgg=APP",
+      "rowCount": 25,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AB实验：Airbrush_面部丰盈Auto效果调整（曾曾）@赟晖_6193.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AB实验：Airbrush_面部丰盈Auto效果调整（曾曾）@赟晖_6193.md"
+    },
+    {
+      "requirementName": "会员状态兜底开关优化（忻恬）@赟晖",
+      "requirementId": "6191",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6191&appId=282&platformAgg=APP",
+      "rowCount": 12,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/会员状态兜底开关优化（忻恬）@赟晖_6191.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/会员状态兜底开关优化（忻恬）@赟晖_6191.md"
+    },
+    {
+      "requirementName": "公测用户弹窗@史钰静",
+      "requirementId": "6196",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6196&appId=282&platformAgg=APP",
+      "rowCount": 5,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/公测用户弹窗@史钰静_6196.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/公测用户弹窗@史钰静_6196.md"
+    },
+    {
+      "requirementName": "首页配置迁移@史钰静",
+      "requirementId": "6190",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6190&appId=282&platformAgg=APP",
+      "rowCount": 6,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/首页配置迁移@史钰静_6190.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/首页配置迁移@史钰静_6190.md"
+    },
+    {
+      "requirementName": "AB实验：Airbrush Adjust 优化效果应用顺序（Jamie）@赟晖",
+      "requirementId": "6192",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6192&appId=282&platformAgg=APP",
+      "rowCount": 14,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AB实验：Airbrush_Adjust_优化效果应用顺序（Jamie）@赟晖_6192.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AB实验：Airbrush_Adjust_优化效果应用顺序（Jamie）@赟晖_6192.md"
+    },
+    {
+      "requirementName": "AB实验：Airbrush Tattoo 体验优化 AB 实验（Jamie）@赟晖",
+      "requirementId": "6194",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6194&appId=282&platformAgg=APP",
+      "rowCount": 50,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AB实验：Airbrush_Tattoo_体验优化_AB_实验（Jamie）@赟晖_6194.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AB实验：Airbrush_Tattoo_体验优化_AB_实验（Jamie）@赟晖_6194.md"
+    },
+    {
+      "requirementName": "body新增S line@史钰静",
+      "requirementId": "6195",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6195&appId=282&platformAgg=APP",
+      "rowCount": 47,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/body新增S_line@史钰静_6195.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/body新增S_line@史钰静_6195.md"
+    },
+    {
+      "requirementName": "AB实验：Airbrush Body 新增模块实验优化（Jamie）@赟晖",
+      "requirementId": "6205",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6205&appId=282&platformAgg=APP",
+      "rowCount": 81,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AB实验：Airbrush_Body_新增模块实验优化（Jamie）@赟晖_6205.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AB实验：Airbrush_Body_新增模块实验优化（Jamie）@赟晖_6205.md"
+    },
+    {
+      "requirementName": "其他：Airbrush进入视频模块增加视频更新弹窗（曾曾）@赟晖",
+      "requirementId": "6208",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6208&appId=282&platformAgg=APP",
+      "rowCount": 4,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/其他：Airbrush进入视频模块增加视频更新弹窗（曾曾）@赟晖_6208.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/其他：Airbrush进入视频模块增加视频更新弹窗（曾曾）@赟晖_6208.md"
+    },
+    {
+      "requirementName": "功能新增：Airbrush Eraser 新增「镜面去污」（Jamie）@赟晖",
+      "requirementId": "6204",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6204&appId=282&platformAgg=APP",
+      "rowCount": 54,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/功能新增：Airbrush_Eraser_新增「镜面去污」（Jamie）@赟晖_6204.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/功能新增：Airbrush_Eraser_新增「镜面去污」（Jamie）@赟晖_6204.md"
+    },
+    {
+      "requirementName": "成本埋点",
+      "requirementId": "6209",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6209&appId=282&platformAgg=APP",
+      "rowCount": 0,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/成本埋点_6209.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/成本埋点_6209.md"
+    },
+    {
+      "requirementName": "功能新增：Airbrush AI Replace新增「主体识别」能力（Jamie）@赟晖",
+      "requirementId": "6207",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6207&appId=282&platformAgg=APP",
+      "rowCount": 57,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/功能新增：Airbrush_AI_Replace新增「主体识别」能力（Jamie）@赟晖_6207.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/功能新增：Airbrush_AI_Replace新增「主体识别」能力（Jamie）@赟晖_6207.md"
+    },
+    {
+      "requirementName": "AB实验：Airbrush AI Repair任务创建时机调整（曾曾）@赟晖",
+      "requirementId": "6224",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6224&appId=282&platformAgg=APP",
+      "rowCount": 9,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AB实验：Airbrush_AI_Repair任务创建时机调整（曾曾）@赟晖_6224.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AB实验：Airbrush_AI_Repair任务创建时机调整（曾曾）@赟晖_6224.md"
+    },
+    {
+      "requirementName": "AI Retouch新增AI 五官@钰静",
+      "requirementId": "6217",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6217&appId=282&platformAgg=APP",
+      "rowCount": 29,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AI_Retouch新增AI_五官@钰静_6217.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AI_Retouch新增AI_五官@钰静_6217.md"
+    },
+    {
+      "requirementName": "Enhance@钰静",
+      "requirementId": "6226",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6226&appId=282&platformAgg=APP",
+      "rowCount": 21,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Enhance@钰静_6226.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Enhance@钰静_6226.md"
+    },
+    {
+      "requirementName": "Magic保存埋点@钰静",
+      "requirementId": "6223",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6223&appId=282&platformAgg=APP",
+      "rowCount": 3,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Magic保存埋点@钰静_6223.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Magic保存埋点@钰静_6223.md"
+    },
+    {
+      "requirementName": "体验优化：Airbrush 弹窗组件优化（Jamie）@赟晖",
+      "requirementId": "6225",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6225&appId=282&platformAgg=APP",
+      "rowCount": 6,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/体验优化：Airbrush_弹窗组件优化（Jamie）@赟晖_6225.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/体验优化：Airbrush_弹窗组件优化（Jamie）@赟晖_6225.md"
+    },
+    {
+      "requirementName": "订阅页更新AB实验（忻恬）@赟晖",
+      "requirementId": "6206",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6206&appId=282&platformAgg=APP",
+      "rowCount": 39,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/订阅页更新AB实验（忻恬）@赟晖_6206.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/订阅页更新AB实验（忻恬）@赟晖_6206.md"
+    },
+    {
+      "requirementName": "AB实验：Airbrush Edit 排序优化 AB 实验（Jamie）@赟晖",
+      "requirementId": "6238",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6238&appId=282&platformAgg=APP",
+      "rowCount": 3,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AB实验：Airbrush_Edit_排序优化_AB_实验（Jamie）@赟晖_6238.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AB实验：Airbrush_Edit_排序优化_AB_实验（Jamie）@赟晖_6238.md"
+    },
+    {
+      "requirementName": "AB实验：Airbrush Repair 交互优化 AAB 实验（Jamie）@赟晖",
+      "requirementId": "6239",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6239&appId=282&platformAgg=APP",
+      "rowCount": 29,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AB实验：Airbrush_Repair_交互优化_AAB_实验（Jamie）@赟晖_6239.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AB实验：Airbrush_Repair_交互优化_AAB_实验（Jamie）@赟晖_6239.md"
+    },
+    {
+      "requirementName": "Airbrush Makeup新增Freckles（曾曾）@赟晖",
+      "requirementId": "6243",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6243&appId=282&platformAgg=APP",
+      "rowCount": 33,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Airbrush_Makeup新增Freckles（曾曾）@赟晖_6243.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Airbrush_Makeup新增Freckles（曾曾）@赟晖_6243.md"
+    },
+    {
+      "requirementName": "Airbrush首页单功能排序调整AB实验（可乐）@赟晖",
+      "requirementId": "6241",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6241&appId=282&platformAgg=APP",
+      "rowCount": 4,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Airbrush首页单功能排序调整AB实验（可乐）@赟晖_6241.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Airbrush首页单功能排序调整AB实验（可乐）@赟晖_6241.md"
+    },
+    {
+      "requirementName": "接入视频中台",
+      "requirementId": "6210",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6210&appId=282&platformAgg=APP",
+      "rowCount": 114,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/接入视频中台_6210.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/接入视频中台_6210.md"
+    },
+    {
+      "requirementName": "功能新增：Airbrush Eraser 新增「杂物消除」「文字消除」（Jamie）@赟晖",
+      "requirementId": "6240",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6240&appId=282&platformAgg=APP",
+      "rowCount": 70,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/功能新增：Airbrush_Eraser_新增「杂物消除」「文字消除」（Jamie）@赟晖_6240.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/功能新增：Airbrush_Eraser_新增「杂物消除」「文字消除」（Jamie）@赟晖_6240.md"
+    },
+    {
+      "requirementName": "视频 ing(看excel)",
+      "requirementId": "6228",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6228&appId=282&platformAgg=APP",
+      "rowCount": 56,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/视频_ing(看excel)_6228.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/视频_ing(看excel)_6228.md"
+    },
+    {
+      "requirementName": "Body多人",
+      "requirementId": "6254",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6254&appId=282&platformAgg=APP",
+      "rowCount": 27,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Body多人_6254.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Body多人_6254.md"
+    },
+    {
+      "requirementName": "格式埋点",
+      "requirementId": "6253",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6253&appId=282&platformAgg=APP",
+      "rowCount": 4,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/格式埋点_6253.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/格式埋点_6253.md"
+    },
+    {
+      "requirementName": "支持会员兑换码（忻恬）@赟晖",
+      "requirementId": "6263",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6263&appId=282&platformAgg=APP",
+      "rowCount": 3,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/支持会员兑换码（忻恬）@赟晖_6263.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/支持会员兑换码（忻恬）@赟晖_6263.md"
+    },
+    {
+      "requirementName": "AB实验：Airbrush Reshape位置调整AB实验（可乐）",
+      "requirementId": "6256",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6256&appId=282&platformAgg=APP",
+      "rowCount": 4,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AB实验：Airbrush_Reshape位置调整AB实验（可乐）_6256.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AB实验：Airbrush_Reshape位置调整AB实验（可乐）_6256.md"
+    },
+    {
+      "requirementName": "AB实验：Airbrush 安装包体积优化（曾曾）@赟晖",
+      "requirementId": "6266",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6266&appId=282&platformAgg=APP",
+      "rowCount": 3,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AB实验：Airbrush_安装包体积优化（曾曾）@赟晖_6266.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AB实验：Airbrush_安装包体积优化（曾曾）@赟晖_6266.md"
+    },
+    {
+      "requirementName": "iOS TestFlight包新增订阅提示（忻恬）@赟晖",
+      "requirementId": "6264",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6264&appId=282&platformAgg=APP",
+      "rowCount": 6,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/iOS_TestFlight包新增订阅提示（忻恬）@赟晖_6264.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/iOS_TestFlight包新增订阅提示（忻恬）@赟晖_6264.md"
+    },
+    {
+      "requirementName": "Magic多人脸@钰静",
+      "requirementId": "6265",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6265&appId=282&platformAgg=APP",
+      "rowCount": 17,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Magic多人脸@钰静_6265.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Magic多人脸@钰静_6265.md"
+    },
+    {
+      "requirementName": "人种@史钰静",
+      "requirementId": "6231",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6231&appId=282&platformAgg=APP",
+      "rowCount": 1,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/人种@史钰静_6231.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/人种@史钰静_6231.md"
+    },
+    {
+      "requirementName": "体验优化：Airbrush评分弹窗优化（曾曾）@赟晖",
+      "requirementId": "6267",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6267&appId=282&platformAgg=APP",
+      "rowCount": 5,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/体验优化：Airbrush评分弹窗优化（曾曾）@赟晖_6267.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/体验优化：Airbrush评分弹窗优化（曾曾）@赟晖_6267.md"
+    },
+    {
+      "requirementName": "保分页Camera@钰静",
+      "requirementId": "6269",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6269&appId=282&platformAgg=APP",
+      "rowCount": 1,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/保分页Camera@钰静_6269.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/保分页Camera@钰静_6269.md"
+    },
+    {
+      "requirementName": "功能不打勾小问券（小红）@赟晖",
+      "requirementId": "6242",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6242&appId=282&platformAgg=APP",
+      "rowCount": 8,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/功能不打勾小问券（小红）@赟晖_6242.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/功能不打勾小问券（小红）@赟晖_6242.md"
+    },
+    {
+      "requirementName": "取消支付挽留优惠价格调整AB实验 （晉羽）@赟晖",
+      "requirementId": "6255",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6255&appId=282&platformAgg=APP",
+      "rowCount": 14,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/取消支付挽留优惠价格调整AB实验_（晉羽）@赟晖_6255.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/取消支付挽留优惠价格调整AB实验_（晉羽）@赟晖_6255.md"
+    },
+    {
+      "requirementName": "新手引导流程@钰静",
+      "requirementId": "6268",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6268&appId=282&platformAgg=APP",
+      "rowCount": 18,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/新手引导流程@钰静_6268.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/新手引导流程@钰静_6268.md"
+    },
+    {
+      "requirementName": "智能修图@钰静",
+      "requirementId": "6271",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6271&appId=282&platformAgg=APP",
+      "rowCount": 38,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/智能修图@钰静_6271.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/智能修图@钰静_6271.md"
+    },
+    {
+      "requirementName": "AB实验：Airbrush激励广告策略调整AB实验（可乐）@赟晖",
+      "requirementId": "6275",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6275&appId=282&platformAgg=APP",
+      "rowCount": 33,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AB实验：Airbrush激励广告策略调整AB实验（可乐）@赟晖_6275.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AB实验：Airbrush激励广告策略调整AB实验（可乐）@赟晖_6275.md"
+    },
+    {
+      "requirementName": "【P0】AB实验：Airbrush对“特定人群”提供face限免福利AB实验（可乐）@赟晖",
+      "requirementId": "6287",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6287&appId=282&platformAgg=APP",
+      "rowCount": 24,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P0】AB实验：Airbrush对“特定人群”提供face限免福利AB实验（可乐）@赟晖_6287.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P0】AB实验：Airbrush对“特定人群”提供face限免福利AB实验（可乐）@赟晖_6287.md"
+    },
+    {
+      "requirementName": "【P1】功能新增：Airbrush Face新增小项（曾曾）@赟晖",
+      "requirementId": "6283",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6283&appId=282&platformAgg=APP",
+      "rowCount": 51,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P1】功能新增：Airbrush_Face新增小项（曾曾）@赟晖_6283.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P1】功能新增：Airbrush_Face新增小项（曾曾）@赟晖_6283.md"
+    },
+    {
+      "requirementName": "AI Retouch 线上效果新增滑杆@钰静",
+      "requirementId": "6286",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6286&appId=282&platformAgg=APP",
+      "rowCount": 2,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AI_Retouch_线上效果新增滑杆@钰静_6286.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AI_Retouch_线上效果新增滑杆@钰静_6286.md"
+    },
+    {
+      "requirementName": "Filter 默认值优化＆本地记忆实验@钰静",
+      "requirementId": "6288",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6288&appId=282&platformAgg=APP",
+      "rowCount": 2,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Filter_默认值优化＆本地记忆实验@钰静_6288.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Filter_默认值优化＆本地记忆实验@钰静_6288.md"
+    },
+    {
+      "requirementName": "iOS增加订阅页主动曝光AB实验（忻恬）@赟晖",
+      "requirementId": "6285",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6285&appId=282&platformAgg=APP",
+      "rowCount": 9,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/iOS增加订阅页主动曝光AB实验（忻恬）@赟晖_6285.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/iOS增加订阅页主动曝光AB实验（忻恬）@赟晖_6285.md"
+    },
+    {
+      "requirementName": "Hair新增发量Pro@赟晖",
+      "requirementId": "6289",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6289&appId=282&platformAgg=APP",
+      "rowCount": 37,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Hair新增发量Pro@赟晖_6289.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Hair新增发量Pro@赟晖_6289.md"
+    },
+    {
+      "requirementName": "Eraser新增子功能进入@钰静",
+      "requirementId": "6294",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6294&appId=282&platformAgg=APP",
+      "rowCount": 7,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Eraser新增子功能进入@钰静_6294.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Eraser新增子功能进入@钰静_6294.md"
+    },
+    {
+      "requirementName": "首页AI Repair@钰静",
+      "requirementId": "6295",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6295&appId=282&platformAgg=APP",
+      "rowCount": 9,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/首页AI_Repair@钰静_6295.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/首页AI_Repair@钰静_6295.md"
+    },
+    {
+      "requirementName": "【P0】订阅横幅改造AB实验（忻恬）@赟晖",
+      "requirementId": "6298",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6298&appId=282&platformAgg=APP",
+      "rowCount": 29,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P0】订阅横幅改造AB实验（忻恬）@赟晖_6298.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P0】订阅横幅改造AB实验（忻恬）@赟晖_6298.md"
+    },
+    {
+      "requirementName": "【P1】AB实验：Airbrush Makeup付费密度降低（曾曾）@赟晖",
+      "requirementId": "6301",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6301&appId=282&platformAgg=APP",
+      "rowCount": 28,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P1】AB实验：Airbrush_Makeup付费密度降低（曾曾）@赟晖_6301.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P1】AB实验：Airbrush_Makeup付费密度降低（曾曾）@赟晖_6301.md"
+    },
+    {
+      "requirementName": "【P1】体验优化：Airbrush Reshape 新增 body 引导（Jamie）@赟晖",
+      "requirementId": "6303",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6303&appId=282&platformAgg=APP",
+      "rowCount": 9,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P1】体验优化：Airbrush_Reshape_新增_body_引导（Jamie）@赟晖_6303.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P1】体验优化：Airbrush_Reshape_新增_body_引导（Jamie）@赟晖_6303.md"
+    },
+    {
+      "requirementName": "功能新增：Airbrush Retouch 新增多族裔效果（Jamie）@赟晖",
+      "requirementId": "6302",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6302&appId=282&platformAgg=APP",
+      "rowCount": 50,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/功能新增：Airbrush_Retouch_新增多族裔效果（Jamie）@赟晖_6302.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/功能新增：Airbrush_Retouch_新增多族裔效果（Jamie）@赟晖_6302.md"
+    },
+    {
+      "requirementName": "Hair多人识别",
+      "requirementId": "6305",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6305&appId=282&platformAgg=APP",
+      "rowCount": 12,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Hair多人识别_6305.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Hair多人识别_6305.md"
+    },
+    {
+      "requirementName": "Tattoo",
+      "requirementId": "6304",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6304&appId=282&platformAgg=APP",
+      "rowCount": 9,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Tattoo_6304.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Tattoo_6304.md"
+    },
+    {
+      "requirementName": "【P1】功能新增：Airbrush Relight 支持法线打光（Jamie）",
+      "requirementId": "6326",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6326&appId=282&platformAgg=APP",
+      "rowCount": 37,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P1】功能新增：Airbrush_Relight_支持法线打光（Jamie）_6326.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P1】功能新增：Airbrush_Relight_支持法线打光（Jamie）_6326.md"
+    },
+    {
+      "requirementName": "AB实验：Airbrush AI Retouch 缩略图替换（Jamie）",
+      "requirementId": "6327",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6327&appId=282&platformAgg=APP",
+      "rowCount": 28,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AB实验：Airbrush_AI_Retouch_缩略图替换（Jamie）_6327.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AB实验：Airbrush_AI_Retouch_缩略图替换（Jamie）_6327.md"
+    },
+    {
+      "requirementName": "其他：Zendesk迁移集团客服中台（Mia）",
+      "requirementId": "6334",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6334&appId=282&platformAgg=APP",
+      "rowCount": 1,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/其他：Zendesk迁移集团客服中台（Mia）_6334.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/其他：Zendesk迁移集团客服中台（Mia）_6334.md"
+    },
+    {
+      "requirementName": "功能新增：Airbrush 局部妆支持AI能力（曾曾）",
+      "requirementId": "6328",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6328&appId=282&platformAgg=APP",
+      "rowCount": 15,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/功能新增：Airbrush_局部妆支持AI能力（曾曾）_6328.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/功能新增：Airbrush_局部妆支持AI能力（曾曾）_6328.md"
+    },
+    {
+      "requirementName": "小红点",
+      "requirementId": "6307",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6307&appId=282&platformAgg=APP",
+      "rowCount": 18,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/小红点_6307.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/小红点_6307.md"
+    },
+    {
+      "requirementName": "视频二期",
+      "requirementId": "6306",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6306&appId=282&platformAgg=APP",
+      "rowCount": 0,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/视频二期_6306.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/视频二期_6306.md"
+    },
+    {
+      "requirementName": "【P0】Onboarding订阅页优化AB实验（忻恬）",
+      "requirementId": "6324",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6324&appId=282&platformAgg=APP",
+      "rowCount": 12,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P0】Onboarding订阅页优化AB实验（忻恬）_6324.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P0】Onboarding订阅页优化AB实验（忻恬）_6324.md"
+    },
+    {
+      "requirementName": "【P0】体验优化：Airbrush Hair新增多人识别（曾曾)-长线",
+      "requirementId": "6323",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6323&appId=282&platformAgg=APP",
+      "rowCount": 18,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P0】体验优化：Airbrush_Hair新增多人识别（曾曾)-长线_6323.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P0】体验优化：Airbrush_Hair新增多人识别（曾曾)-长线_6323.md"
+    },
+    {
+      "requirementName": "Retouch & Face 3D骨相还原 和Face lift pro",
+      "requirementId": "6339",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6339&appId=282&platformAgg=APP",
+      "rowCount": 54,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Retouch_&_Face_3D骨相还原_和Face_lift_pro_6339.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Retouch_&_Face_3D骨相还原_和Face_lift_pro_6339.md"
+    },
+    {
+      "requirementName": "Repair批量",
+      "requirementId": "6344",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6344&appId=282&platformAgg=APP",
+      "rowCount": 14,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Repair批量_6344.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Repair批量_6344.md"
+    },
+    {
+      "requirementName": "【P0】AB实验：Airbrush激励广告策略调整AB实验-2期（可乐）",
+      "requirementId": "6340",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6340&appId=282&platformAgg=APP",
+      "rowCount": 27,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P0】AB实验：Airbrush激励广告策略调整AB实验-2期（可乐）_6340.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P0】AB实验：Airbrush激励广告策略调整AB实验-2期（可乐）_6340.md"
+    },
+    {
+      "requirementName": "精细化分层优惠——已过期会员AB实验（忻恬）",
+      "requirementId": "6349",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6349&appId=282&platformAgg=APP",
+      "rowCount": 40,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/精细化分层优惠——已过期会员AB实验（忻恬）_6349.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/精细化分层优惠——已过期会员AB实验（忻恬）_6349.md"
+    },
+    {
+      "requirementName": "Teeth去牙渍",
+      "requirementId": "6342",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6342&appId=282&platformAgg=APP",
+      "rowCount": 32,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Teeth去牙渍_6342.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Teeth去牙渍_6342.md"
+    },
+    {
+      "requirementName": "smart模式补充埋点",
+      "requirementId": "6348",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6348&appId=282&platformAgg=APP",
+      "rowCount": 6,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/smart模式补充埋点_6348.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/smart模式补充埋点_6348.md"
+    },
+    {
+      "requirementName": "安卓用户分层优惠不展示季卡（晋羽）",
+      "requirementId": "6341",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6341&appId=282&platformAgg=APP",
+      "rowCount": 6,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/安卓用户分层优惠不展示季卡（晋羽）_6341.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/安卓用户分层优惠不展示季卡（晋羽）_6341.md"
+    },
+    {
+      "requirementName": "Body新增ai shape",
+      "requirementId": "6325",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6325&appId=282&platformAgg=APP",
+      "rowCount": 58,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Body新增ai_shape_6325.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Body新增ai_shape_6325.md"
+    },
+    {
+      "requirementName": "切换语言",
+      "requirementId": "6378",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6378&appId=282&platformAgg=APP",
+      "rowCount": 2,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/切换语言_6378.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/切换语言_6378.md"
+    },
+    {
+      "requirementName": "【P1】功能新增：Airbrush 磨皮效果新增（曾曾）",
+      "requirementId": "6366",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6366&appId=282&platformAgg=APP",
+      "rowCount": 15,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P1】功能新增：Airbrush_磨皮效果新增（曾曾）_6366.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P1】功能新增：Airbrush_磨皮效果新增（曾曾）_6366.md"
+    },
+    {
+      "requirementName": "Relight新增一级入口",
+      "requirementId": "6364",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6364&appId=282&platformAgg=APP",
+      "rowCount": 6,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Relight新增一级入口_6364.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Relight新增一级入口_6364.md"
+    },
+    {
+      "requirementName": "Airbrush Skin 功能顺序调整（Jamie）",
+      "requirementId": "6370",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6370&appId=282&platformAgg=APP",
+      "rowCount": 26,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Airbrush_Skin_功能顺序调整（Jamie）_6370.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Airbrush_Skin_功能顺序调整（Jamie）_6370.md"
+    },
+    {
+      "requirementName": "【P0】美国地区3天免费试用AB实验（忻恬）",
+      "requirementId": "6363",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6363&appId=282&platformAgg=APP",
+      "rowCount": 18,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P0】美国地区3天免费试用AB实验（忻恬）_6363.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P0】美国地区3天免费试用AB实验（忻恬）_6363.md"
+    },
+    {
+      "requirementName": "【P0】iOS年SKU月付AB实验（忻恬）",
+      "requirementId": "6361",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6361&appId=282&platformAgg=APP",
+      "rowCount": 10,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P0】iOS年SKU月付AB实验（忻恬）_6361.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P0】iOS年SKU月付AB实验（忻恬）_6361.md"
+    },
+    {
+      "requirementName": "Skin&Magic新增埋点",
+      "requirementId": "6368",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6368&appId=282&platformAgg=APP",
+      "rowCount": 6,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Skin&Magic新增埋点_6368.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Skin&Magic新增埋点_6368.md"
+    },
+    {
+      "requirementName": "性别检测",
+      "requirementId": "6372",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6372&appId=282&platformAgg=APP",
+      "rowCount": 1,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/性别检测_6372.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/性别检测_6372.md"
+    },
+    {
+      "requirementName": "Body 多族裔 Auto 参数（Jamie）",
+      "requirementId": "6371",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6371&appId=282&platformAgg=APP",
+      "rowCount": 19,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Body_多族裔_Auto_参数（Jamie）_6371.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Body_多族裔_Auto_参数（Jamie）_6371.md"
+    },
+    {
+      "requirementName": "banner分类新增字段",
+      "requirementId": "6369",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6369&appId=282&platformAgg=APP",
+      "rowCount": 2,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/banner分类新增字段_6369.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/banner分类新增字段_6369.md"
+    },
+    {
+      "requirementName": "【P2】效果新增：Airbrush Skin新增Clean Skin（曾曾）",
+      "requirementId": "6367",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6367&appId=282&platformAgg=APP",
+      "rowCount": 18,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P2】效果新增：Airbrush_Skin新增Clean_Skin（曾曾）_6367.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P2】效果新增：Airbrush_Skin新增Clean_Skin（曾曾）_6367.md"
+    },
+    {
+      "requirementName": "【P1】功能新增：Airbrush Hair新增去碎发（曾曾）",
+      "requirementId": "6365",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6365&appId=282&platformAgg=APP",
+      "rowCount": 36,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P1】功能新增：Airbrush_Hair新增去碎发（曾曾）_6365.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P1】功能新增：Airbrush_Hair新增去碎发（曾曾）_6365.md"
+    },
+    {
+      "requirementName": "Google Play支付确认中弹窗（忻恬）",
+      "requirementId": "6413",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6413&appId=282&platformAgg=APP",
+      "rowCount": 6,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Google_Play支付确认中弹窗（忻恬）_6413.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Google_Play支付确认中弹窗（忻恬）_6413.md"
+    },
+    {
+      "requirementName": "【P1】交互优化：Airbrush Relight 展示界面优化（Jamie）",
+      "requirementId": "6407",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6407&appId=282&platformAgg=APP",
+      "rowCount": 23,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P1】交互优化：Airbrush_Relight_展示界面优化（Jamie）_6407.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P1】交互优化：Airbrush_Relight_展示界面优化（Jamie）_6407.md"
+    },
+    {
+      "requirementName": "【P1】效果新增：Airbrush Skin新增Redness Fix（曾曾）",
+      "requirementId": "6397",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6397&appId=282&platformAgg=APP",
+      "rowCount": 20,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P1】效果新增：Airbrush_Skin新增Redness_Fix（曾曾）_6397.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P1】效果新增：Airbrush_Skin新增Redness_Fix（曾曾）_6397.md"
+    },
+    {
+      "requirementName": "【P1】AB实验：Airbrush Face 支持多族裔默认值（思思）",
+      "requirementId": "6398",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6398&appId=282&platformAgg=APP",
+      "rowCount": 22,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P1】AB实验：Airbrush_Face_支持多族裔默认值（思思）_6398.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P1】AB实验：Airbrush_Face_支持多族裔默认值（思思）_6398.md"
+    },
+    {
+      "requirementName": "Airbrush 新增AIGC云任务id埋点（Jamie）",
+      "requirementId": "6404",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6404&appId=282&platformAgg=APP",
+      "rowCount": 2,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Airbrush_新增AIGC云任务id埋点（Jamie）_6404.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/Airbrush_新增AIGC云任务id埋点（Jamie）_6404.md"
+    },
+    {
+      "requirementName": "【P2】AB实验：Airbrush Hair 默认选中发质 tab（Zac）",
+      "requirementId": "6402",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6402&appId=282&platformAgg=APP",
+      "rowCount": 12,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P2】AB实验：Airbrush_Hair_默认选中发质_tab（Zac）_6402.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P2】AB实验：Airbrush_Hair_默认选中发质_tab（Zac）_6402.md"
+    },
+    {
+      "requirementName": "【P2】AB实验：Airbrush Acne、Concealer 加入匀肤效果（帅王）",
+      "requirementId": "6401",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6401&appId=282&platformAgg=APP",
+      "rowCount": 25,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P2】AB实验：Airbrush_Acne、Concealer_加入匀肤效果（帅王）_6401.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P2】AB实验：Airbrush_Acne、Concealer_加入匀肤效果（帅王）_6401.md"
+    },
+    {
+      "requirementName": "【P1】AB实验：Airbrush Magic子项参数优化（思思）",
+      "requirementId": "6400",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6400&appId=282&platformAgg=APP",
+      "rowCount": 17,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P1】AB实验：Airbrush_Magic子项参数优化（思思）_6400.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P1】AB实验：Airbrush_Magic子项参数优化（思思）_6400.md"
+    },
+    {
+      "requirementName": "AB实验：Airbrush Glowup排序调整（帅王）",
+      "requirementId": "6399",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6399&appId=282&platformAgg=APP",
+      "rowCount": 3,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AB实验：Airbrush_Glowup排序调整（帅王）_6399.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/AB实验：Airbrush_Glowup排序调整（帅王）_6399.md"
+    },
+    {
+      "requirementName": "【P1】效果新增：Airbrush Retouch效果新增（曾曾）",
+      "requirementId": "6396",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6396&appId=282&platformAgg=APP",
+      "rowCount": 37,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P1】效果新增：Airbrush_Retouch效果新增（曾曾）_6396.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P1】效果新增：Airbrush_Retouch效果新增（曾曾）_6396.md"
+    },
+    {
+      "requirementName": "俄罗斯地区上线UID会员体系（忻恬）",
+      "requirementId": "6403",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6403&appId=282&platformAgg=APP",
+      "rowCount": 10,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/俄罗斯地区上线UID会员体系（忻恬）_6403.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/俄罗斯地区上线UID会员体系（忻恬）_6403.md"
+    },
+    {
+      "requirementName": "【P1】功能新增：AB 接入账号体系支持俄罗斯支付（Zac）",
+      "requirementId": "6409",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6409&appId=282&platformAgg=APP",
+      "rowCount": 30,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P1】功能新增：AB_接入账号体系支持俄罗斯支付（Zac）_6409.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/【P1】功能新增：AB_接入账号体系支持俄罗斯支付（Zac）_6409.md"
+    },
+    {
+      "requirementName": "俄罗斯地区接入DukPay支付订阅（忻恬）",
+      "requirementId": "6410",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6410&appId=282&platformAgg=APP",
+      "rowCount": 5,
+      "xlsx": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/俄罗斯地区接入DukPay支付订阅（忻恬）_6410.xlsx",
+      "markdown": "/Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements/俄罗斯地区接入DukPay支付订阅（忻恬）_6410.md"
+    }
+  ],
+  "exportSummaries": [
+    {
+      "mdFileName": "AIGC_SDK_6142.md",
+      "xlsxFileName": "AIGC_SDK_6142.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6142&appId=282&platformAgg=APP",
+      "requirementName": "AIGC SDK"
+    },
+    {
+      "mdFileName": "Airbrush_去眩光功能位置、小气泡调整（Jamie）@赟晖_6139.md",
+      "xlsxFileName": "Airbrush_去眩光功能位置、小气泡调整（Jamie）@赟晖_6139.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6139&appId=282&platformAgg=APP",
+      "requirementName": "Airbrush 去眩光功能位置、小气泡调整（Jamie）@赟晖"
+    },
+    {
+      "mdFileName": "Airbrush_新增删除用户资料按钮&交互优化（Jamie）@赟晖_6143.md",
+      "xlsxFileName": "Airbrush_新增删除用户资料按钮&交互优化（Jamie）@赟晖_6143.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6143&appId=282&platformAgg=APP",
+      "requirementName": "Airbrush 新增删除用户资料按钮&交互优化（Jamie）@赟晖"
+    },
+    {
+      "mdFileName": "个人信息收集@钰静_6141.md",
+      "xlsxFileName": "个人信息收集@钰静_6141.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6141&appId=282&platformAgg=APP",
+      "requirementName": "个人信息收集@钰静"
+    },
+    {
+      "mdFileName": "滤镜滑杆@钰静_6134.md",
+      "xlsxFileName": "滤镜滑杆@钰静_6134.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6134&appId=282&platformAgg=APP",
+      "requirementName": "滤镜滑杆@钰静"
+    },
+    {
+      "mdFileName": "面部丰盈@钰静_6140.md",
+      "xlsxFileName": "面部丰盈@钰静_6140.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6140&appId=282&platformAgg=APP",
+      "requirementName": "面部丰盈@钰静"
+    },
+    {
+      "mdFileName": "Android新安装用户降低订阅页弹出频率（忻恬）@赟晖_6150.md",
+      "xlsxFileName": "Android新安装用户降低订阅页弹出频率（忻恬）@赟晖_6150.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6150&appId=282&platformAgg=APP",
+      "requirementName": "Android新安装用户降低订阅页弹出频率（忻恬）@赟晖"
+    },
+    {
+      "mdFileName": "makeup眼妆合并@史钰静_6146.md",
+      "xlsxFileName": "makeup眼妆合并@史钰静_6146.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6146&appId=282&platformAgg=APP",
+      "requirementName": "makeup眼妆合并@史钰静"
+    },
+    {
+      "mdFileName": "保分页@史钰静_6148.md",
+      "xlsxFileName": "保分页@史钰静_6148.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6148&appId=282&platformAgg=APP",
+      "requirementName": "保分页@史钰静"
+    },
+    {
+      "mdFileName": "连续包周SKU实验（忻恬）@赟晖_6145.md",
+      "xlsxFileName": "连续包周SKU实验（忻恬）@赟晖_6145.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6145&appId=282&platformAgg=APP",
+      "requirementName": "连续包周SKU实验（忻恬）@赟晖"
+    },
+    {
+      "mdFileName": "面部丰盈小气泡埋点_6152.md",
+      "xlsxFileName": "面部丰盈小气泡埋点_6152.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6152&appId=282&platformAgg=APP",
+      "requirementName": "面部丰盈小气泡埋点"
+    },
+    {
+      "mdFileName": "首页分国家配置优化_6151.md",
+      "xlsxFileName": "首页分国家配置优化_6151.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6151&appId=282&platformAgg=APP",
+      "requirementName": "首页分国家配置优化"
+    },
+    {
+      "mdFileName": "首页金刚位@钰静_6149.md",
+      "xlsxFileName": "首页金刚位@钰静_6149.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6149&appId=282&platformAgg=APP",
+      "requirementName": "首页金刚位@钰静"
+    },
+    {
+      "mdFileName": "接入LiveX支付挽留AB实验（忻恬）@赟晖_6147.md",
+      "xlsxFileName": "接入LiveX支付挽留AB实验（忻恬）@赟晖_6147.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6147&appId=282&platformAgg=APP",
+      "requirementName": "接入LiveX支付挽留AB实验（忻恬）@赟晖"
+    },
+    {
+      "mdFileName": "P0事件必测_6131.md",
+      "xlsxFileName": "P0事件必测_6131.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6131&appId=282&platformAgg=APP",
+      "requirementName": "P0事件必测"
+    },
+    {
+      "mdFileName": "功能新增：Airbrush_body模块功能新增（富桂、Jamie）@赟晖_6163.md",
+      "xlsxFileName": "功能新增：Airbrush_body模块功能新增（富桂、Jamie）@赟晖_6163.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6163&appId=282&platformAgg=APP",
+      "requirementName": "功能新增：Airbrush body模块功能新增（富桂、Jamie）@赟晖"
+    },
+    {
+      "mdFileName": "功能新增：Airbrush新增_AI_retouch_效果（Jamie）@赟晖_6155.md",
+      "xlsxFileName": "功能新增：Airbrush新增_AI_retouch_效果（Jamie）@赟晖_6155.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6155&appId=282&platformAgg=APP",
+      "requirementName": "功能新增：Airbrush新增 AI retouch 效果（Jamie）@赟晖"
+    },
+    {
+      "mdFileName": "防截屏录屏策略优化（忻恬）@赟晖_6154.md",
+      "xlsxFileName": "防截屏录屏策略优化（忻恬）@赟晖_6154.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6154&appId=282&platformAgg=APP",
+      "requirementName": "防截屏录屏策略优化（忻恬）@赟晖"
+    },
+    {
+      "mdFileName": "AI_滤镜@史钰静_6157.md",
+      "xlsxFileName": "AI_滤镜@史钰静_6157.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6157&appId=282&platformAgg=APP",
+      "requirementName": "AI 滤镜@史钰静"
+    },
+    {
+      "mdFileName": "Airbrush_去眩光算法优化（Jamie）@赟晖_6153.md",
+      "xlsxFileName": "Airbrush_去眩光算法优化（Jamie）@赟晖_6153.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6153&appId=282&platformAgg=APP",
+      "requirementName": "Airbrush 去眩光算法优化（Jamie）@赟晖"
+    },
+    {
+      "mdFileName": "Glowup新增@史钰静_6156.md",
+      "xlsxFileName": "Glowup新增@史钰静_6156.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6156&appId=282&platformAgg=APP",
+      "requirementName": "Glowup新增@史钰静"
+    },
+    {
+      "mdFileName": "Airbrush_AI_image支持双人效果（曾曾）@赟晖_6170.md",
+      "xlsxFileName": "Airbrush_AI_image支持双人效果（曾曾）@赟晖_6170.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6170&appId=282&platformAgg=APP",
+      "requirementName": "Airbrush AI image支持双人效果（曾曾）@赟晖"
+    },
+    {
+      "mdFileName": "relight新增四款光效@史钰静_6174.md",
+      "xlsxFileName": "relight新增四款光效@史钰静_6174.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6174&appId=282&platformAgg=APP",
+      "requirementName": "relight新增四款光效@史钰静"
+    },
+    {
+      "mdFileName": "新用户D1-D30优惠价格调整AB实验_（晉羽）@赟晖_6175.md",
+      "xlsxFileName": "新用户D1-D30优惠价格调整AB实验_（晉羽）@赟晖_6175.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6175&appId=282&platformAgg=APP",
+      "requirementName": "新用户D1-D30优惠价格调整AB实验 （晉羽）@赟晖"
+    },
+    {
+      "mdFileName": "AI_Image付费模式调整AB实验（忻恬）@赟晖_6176.md",
+      "xlsxFileName": "AI_Image付费模式调整AB实验（忻恬）@赟晖_6176.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6176&appId=282&platformAgg=APP",
+      "requirementName": "AI Image付费模式调整AB实验（忻恬）@赟晖"
+    },
+    {
+      "mdFileName": "AI_Makeup_6177.md",
+      "xlsxFileName": "AI_Makeup_6177.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6177&appId=282&platformAgg=APP",
+      "requirementName": "AI Makeup"
+    },
+    {
+      "mdFileName": "AI_Repair_6178.md",
+      "xlsxFileName": "AI_Repair_6178.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6178&appId=282&platformAgg=APP",
+      "requirementName": "AI Repair"
+    },
+    {
+      "mdFileName": "Body滑杆_6179.md",
+      "xlsxFileName": "Body滑杆_6179.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6179&appId=282&platformAgg=APP",
+      "requirementName": "Body滑杆"
+    },
+    {
+      "mdFileName": "Hair优化@史钰静_6173.md",
+      "xlsxFileName": "Hair优化@史钰静_6173.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6173&appId=282&platformAgg=APP",
+      "requirementName": "Hair优化@史钰静"
+    },
+    {
+      "mdFileName": "AB实验：Airbrush_面部丰盈Auto效果调整（曾曾）@赟晖_6193.md",
+      "xlsxFileName": "AB实验：Airbrush_面部丰盈Auto效果调整（曾曾）@赟晖_6193.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6193&appId=282&platformAgg=APP",
+      "requirementName": "AB实验：Airbrush 面部丰盈Auto效果调整（曾曾）@赟晖"
+    },
+    {
+      "mdFileName": "会员状态兜底开关优化（忻恬）@赟晖_6191.md",
+      "xlsxFileName": "会员状态兜底开关优化（忻恬）@赟晖_6191.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6191&appId=282&platformAgg=APP",
+      "requirementName": "会员状态兜底开关优化（忻恬）@赟晖"
+    },
+    {
+      "mdFileName": "公测用户弹窗@史钰静_6196.md",
+      "xlsxFileName": "公测用户弹窗@史钰静_6196.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6196&appId=282&platformAgg=APP",
+      "requirementName": "公测用户弹窗@史钰静"
+    },
+    {
+      "mdFileName": "首页配置迁移@史钰静_6190.md",
+      "xlsxFileName": "首页配置迁移@史钰静_6190.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6190&appId=282&platformAgg=APP",
+      "requirementName": "首页配置迁移@史钰静"
+    },
+    {
+      "mdFileName": "AB实验：Airbrush_Adjust_优化效果应用顺序（Jamie）@赟晖_6192.md",
+      "xlsxFileName": "AB实验：Airbrush_Adjust_优化效果应用顺序（Jamie）@赟晖_6192.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6192&appId=282&platformAgg=APP",
+      "requirementName": "AB实验：Airbrush Adjust 优化效果应用顺序（Jamie）@赟晖"
+    },
+    {
+      "mdFileName": "AB实验：Airbrush_Tattoo_体验优化_AB_实验（Jamie）@赟晖_6194.md",
+      "xlsxFileName": "AB实验：Airbrush_Tattoo_体验优化_AB_实验（Jamie）@赟晖_6194.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6194&appId=282&platformAgg=APP",
+      "requirementName": "AB实验：Airbrush Tattoo 体验优化 AB 实验（Jamie）@赟晖"
+    },
+    {
+      "mdFileName": "body新增S_line@史钰静_6195.md",
+      "xlsxFileName": "body新增S_line@史钰静_6195.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6195&appId=282&platformAgg=APP",
+      "requirementName": "body新增S line@史钰静"
+    },
+    {
+      "mdFileName": "AB实验：Airbrush_Body_新增模块实验优化（Jamie）@赟晖_6205.md",
+      "xlsxFileName": "AB实验：Airbrush_Body_新增模块实验优化（Jamie）@赟晖_6205.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6205&appId=282&platformAgg=APP",
+      "requirementName": "AB实验：Airbrush Body 新增模块实验优化（Jamie）@赟晖"
+    },
+    {
+      "mdFileName": "其他：Airbrush进入视频模块增加视频更新弹窗（曾曾）@赟晖_6208.md",
+      "xlsxFileName": "其他：Airbrush进入视频模块增加视频更新弹窗（曾曾）@赟晖_6208.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6208&appId=282&platformAgg=APP",
+      "requirementName": "其他：Airbrush进入视频模块增加视频更新弹窗（曾曾）@赟晖"
+    },
+    {
+      "mdFileName": "功能新增：Airbrush_Eraser_新增「镜面去污」（Jamie）@赟晖_6204.md",
+      "xlsxFileName": "功能新增：Airbrush_Eraser_新增「镜面去污」（Jamie）@赟晖_6204.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6204&appId=282&platformAgg=APP",
+      "requirementName": "功能新增：Airbrush Eraser 新增「镜面去污」（Jamie）@赟晖"
+    },
+    {
+      "mdFileName": "成本埋点_6209.md",
+      "xlsxFileName": "成本埋点_6209.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6209&appId=282&platformAgg=APP",
+      "requirementName": "成本埋点"
+    },
+    {
+      "mdFileName": "功能新增：Airbrush_AI_Replace新增「主体识别」能力（Jamie）@赟晖_6207.md",
+      "xlsxFileName": "功能新增：Airbrush_AI_Replace新增「主体识别」能力（Jamie）@赟晖_6207.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6207&appId=282&platformAgg=APP",
+      "requirementName": "功能新增：Airbrush AI Replace新增「主体识别」能力（Jamie）@赟晖"
+    },
+    {
+      "mdFileName": "AB实验：Airbrush_AI_Repair任务创建时机调整（曾曾）@赟晖_6224.md",
+      "xlsxFileName": "AB实验：Airbrush_AI_Repair任务创建时机调整（曾曾）@赟晖_6224.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6224&appId=282&platformAgg=APP",
+      "requirementName": "AB实验：Airbrush AI Repair任务创建时机调整（曾曾）@赟晖"
+    },
+    {
+      "mdFileName": "AI_Retouch新增AI_五官@钰静_6217.md",
+      "xlsxFileName": "AI_Retouch新增AI_五官@钰静_6217.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6217&appId=282&platformAgg=APP",
+      "requirementName": "AI Retouch新增AI 五官@钰静"
+    },
+    {
+      "mdFileName": "Enhance@钰静_6226.md",
+      "xlsxFileName": "Enhance@钰静_6226.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6226&appId=282&platformAgg=APP",
+      "requirementName": "Enhance@钰静"
+    },
+    {
+      "mdFileName": "Magic保存埋点@钰静_6223.md",
+      "xlsxFileName": "Magic保存埋点@钰静_6223.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6223&appId=282&platformAgg=APP",
+      "requirementName": "Magic保存埋点@钰静"
+    },
+    {
+      "mdFileName": "体验优化：Airbrush_弹窗组件优化（Jamie）@赟晖_6225.md",
+      "xlsxFileName": "体验优化：Airbrush_弹窗组件优化（Jamie）@赟晖_6225.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6225&appId=282&platformAgg=APP",
+      "requirementName": "体验优化：Airbrush 弹窗组件优化（Jamie）@赟晖"
+    },
+    {
+      "mdFileName": "订阅页更新AB实验（忻恬）@赟晖_6206.md",
+      "xlsxFileName": "订阅页更新AB实验（忻恬）@赟晖_6206.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6206&appId=282&platformAgg=APP",
+      "requirementName": "订阅页更新AB实验（忻恬）@赟晖"
+    },
+    {
+      "mdFileName": "AB实验：Airbrush_Edit_排序优化_AB_实验（Jamie）@赟晖_6238.md",
+      "xlsxFileName": "AB实验：Airbrush_Edit_排序优化_AB_实验（Jamie）@赟晖_6238.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6238&appId=282&platformAgg=APP",
+      "requirementName": "AB实验：Airbrush Edit 排序优化 AB 实验（Jamie）@赟晖"
+    },
+    {
+      "mdFileName": "AB实验：Airbrush_Repair_交互优化_AAB_实验（Jamie）@赟晖_6239.md",
+      "xlsxFileName": "AB实验：Airbrush_Repair_交互优化_AAB_实验（Jamie）@赟晖_6239.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6239&appId=282&platformAgg=APP",
+      "requirementName": "AB实验：Airbrush Repair 交互优化 AAB 实验（Jamie）@赟晖"
+    },
+    {
+      "mdFileName": "Airbrush_Makeup新增Freckles（曾曾）@赟晖_6243.md",
+      "xlsxFileName": "Airbrush_Makeup新增Freckles（曾曾）@赟晖_6243.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6243&appId=282&platformAgg=APP",
+      "requirementName": "Airbrush Makeup新增Freckles（曾曾）@赟晖"
+    },
+    {
+      "mdFileName": "Airbrush首页单功能排序调整AB实验（可乐）@赟晖_6241.md",
+      "xlsxFileName": "Airbrush首页单功能排序调整AB实验（可乐）@赟晖_6241.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6241&appId=282&platformAgg=APP",
+      "requirementName": "Airbrush首页单功能排序调整AB实验（可乐）@赟晖"
+    },
+    {
+      "mdFileName": "接入视频中台_6210.md",
+      "xlsxFileName": "接入视频中台_6210.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6210&appId=282&platformAgg=APP",
+      "requirementName": "接入视频中台"
+    },
+    {
+      "mdFileName": "功能新增：Airbrush_Eraser_新增「杂物消除」「文字消除」（Jamie）@赟晖_6240.md",
+      "xlsxFileName": "功能新增：Airbrush_Eraser_新增「杂物消除」「文字消除」（Jamie）@赟晖_6240.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6240&appId=282&platformAgg=APP",
+      "requirementName": "功能新增：Airbrush Eraser 新增「杂物消除」「文字消除」（Jamie）@赟晖"
+    },
+    {
+      "mdFileName": "视频_ing(看excel)_6228.md",
+      "xlsxFileName": "视频_ing(看excel)_6228.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6228&appId=282&platformAgg=APP",
+      "requirementName": "视频 ing(看excel)"
+    },
+    {
+      "mdFileName": "Body多人_6254.md",
+      "xlsxFileName": "Body多人_6254.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6254&appId=282&platformAgg=APP",
+      "requirementName": "Body多人"
+    },
+    {
+      "mdFileName": "格式埋点_6253.md",
+      "xlsxFileName": "格式埋点_6253.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6253&appId=282&platformAgg=APP",
+      "requirementName": "格式埋点"
+    },
+    {
+      "mdFileName": "支持会员兑换码（忻恬）@赟晖_6263.md",
+      "xlsxFileName": "支持会员兑换码（忻恬）@赟晖_6263.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6263&appId=282&platformAgg=APP",
+      "requirementName": "支持会员兑换码（忻恬）@赟晖"
+    },
+    {
+      "mdFileName": "AB实验：Airbrush_Reshape位置调整AB实验（可乐）_6256.md",
+      "xlsxFileName": "AB实验：Airbrush_Reshape位置调整AB实验（可乐）_6256.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6256&appId=282&platformAgg=APP",
+      "requirementName": "AB实验：Airbrush Reshape位置调整AB实验（可乐）"
+    },
+    {
+      "mdFileName": "AB实验：Airbrush_安装包体积优化（曾曾）@赟晖_6266.md",
+      "xlsxFileName": "AB实验：Airbrush_安装包体积优化（曾曾）@赟晖_6266.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6266&appId=282&platformAgg=APP",
+      "requirementName": "AB实验：Airbrush 安装包体积优化（曾曾）@赟晖"
+    },
+    {
+      "mdFileName": "iOS_TestFlight包新增订阅提示（忻恬）@赟晖_6264.md",
+      "xlsxFileName": "iOS_TestFlight包新增订阅提示（忻恬）@赟晖_6264.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6264&appId=282&platformAgg=APP",
+      "requirementName": "iOS TestFlight包新增订阅提示（忻恬）@赟晖"
+    },
+    {
+      "mdFileName": "Magic多人脸@钰静_6265.md",
+      "xlsxFileName": "Magic多人脸@钰静_6265.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6265&appId=282&platformAgg=APP",
+      "requirementName": "Magic多人脸@钰静"
+    },
+    {
+      "mdFileName": "人种@史钰静_6231.md",
+      "xlsxFileName": "人种@史钰静_6231.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6231&appId=282&platformAgg=APP",
+      "requirementName": "人种@史钰静"
+    },
+    {
+      "mdFileName": "体验优化：Airbrush评分弹窗优化（曾曾）@赟晖_6267.md",
+      "xlsxFileName": "体验优化：Airbrush评分弹窗优化（曾曾）@赟晖_6267.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6267&appId=282&platformAgg=APP",
+      "requirementName": "体验优化：Airbrush评分弹窗优化（曾曾）@赟晖"
+    },
+    {
+      "mdFileName": "保分页Camera@钰静_6269.md",
+      "xlsxFileName": "保分页Camera@钰静_6269.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6269&appId=282&platformAgg=APP",
+      "requirementName": "保分页Camera@钰静"
+    },
+    {
+      "mdFileName": "功能不打勾小问券（小红）@赟晖_6242.md",
+      "xlsxFileName": "功能不打勾小问券（小红）@赟晖_6242.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6242&appId=282&platformAgg=APP",
+      "requirementName": "功能不打勾小问券（小红）@赟晖"
+    },
+    {
+      "mdFileName": "取消支付挽留优惠价格调整AB实验_（晉羽）@赟晖_6255.md",
+      "xlsxFileName": "取消支付挽留优惠价格调整AB实验_（晉羽）@赟晖_6255.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6255&appId=282&platformAgg=APP",
+      "requirementName": "取消支付挽留优惠价格调整AB实验 （晉羽）@赟晖"
+    },
+    {
+      "mdFileName": "新手引导流程@钰静_6268.md",
+      "xlsxFileName": "新手引导流程@钰静_6268.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6268&appId=282&platformAgg=APP",
+      "requirementName": "新手引导流程@钰静"
+    },
+    {
+      "mdFileName": "智能修图@钰静_6271.md",
+      "xlsxFileName": "智能修图@钰静_6271.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6271&appId=282&platformAgg=APP",
+      "requirementName": "智能修图@钰静"
+    },
+    {
+      "mdFileName": "AB实验：Airbrush激励广告策略调整AB实验（可乐）@赟晖_6275.md",
+      "xlsxFileName": "AB实验：Airbrush激励广告策略调整AB实验（可乐）@赟晖_6275.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6275&appId=282&platformAgg=APP",
+      "requirementName": "AB实验：Airbrush激励广告策略调整AB实验（可乐）@赟晖"
+    },
+    {
+      "mdFileName": "【P0】AB实验：Airbrush对“特定人群”提供face限免福利AB实验（可乐）@赟晖_6287.md",
+      "xlsxFileName": "【P0】AB实验：Airbrush对“特定人群”提供face限免福利AB实验（可乐）@赟晖_6287.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6287&appId=282&platformAgg=APP",
+      "requirementName": "【P0】AB实验：Airbrush对“特定人群”提供face限免福利AB实验（可乐）@赟晖"
+    },
+    {
+      "mdFileName": "【P1】功能新增：Airbrush_Face新增小项（曾曾）@赟晖_6283.md",
+      "xlsxFileName": "【P1】功能新增：Airbrush_Face新增小项（曾曾）@赟晖_6283.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6283&appId=282&platformAgg=APP",
+      "requirementName": "【P1】功能新增：Airbrush Face新增小项（曾曾）@赟晖"
+    },
+    {
+      "mdFileName": "AI_Retouch_线上效果新增滑杆@钰静_6286.md",
+      "xlsxFileName": "AI_Retouch_线上效果新增滑杆@钰静_6286.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6286&appId=282&platformAgg=APP",
+      "requirementName": "AI Retouch 线上效果新增滑杆@钰静"
+    },
+    {
+      "mdFileName": "Filter_默认值优化＆本地记忆实验@钰静_6288.md",
+      "xlsxFileName": "Filter_默认值优化＆本地记忆实验@钰静_6288.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6288&appId=282&platformAgg=APP",
+      "requirementName": "Filter 默认值优化＆本地记忆实验@钰静"
+    },
+    {
+      "mdFileName": "iOS增加订阅页主动曝光AB实验（忻恬）@赟晖_6285.md",
+      "xlsxFileName": "iOS增加订阅页主动曝光AB实验（忻恬）@赟晖_6285.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6285&appId=282&platformAgg=APP",
+      "requirementName": "iOS增加订阅页主动曝光AB实验（忻恬）@赟晖"
+    },
+    {
+      "mdFileName": "Hair新增发量Pro@赟晖_6289.md",
+      "xlsxFileName": "Hair新增发量Pro@赟晖_6289.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6289&appId=282&platformAgg=APP",
+      "requirementName": "Hair新增发量Pro@赟晖"
+    },
+    {
+      "mdFileName": "Eraser新增子功能进入@钰静_6294.md",
+      "xlsxFileName": "Eraser新增子功能进入@钰静_6294.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6294&appId=282&platformAgg=APP",
+      "requirementName": "Eraser新增子功能进入@钰静"
+    },
+    {
+      "mdFileName": "首页AI_Repair@钰静_6295.md",
+      "xlsxFileName": "首页AI_Repair@钰静_6295.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6295&appId=282&platformAgg=APP",
+      "requirementName": "首页AI Repair@钰静"
+    },
+    {
+      "mdFileName": "【P0】订阅横幅改造AB实验（忻恬）@赟晖_6298.md",
+      "xlsxFileName": "【P0】订阅横幅改造AB实验（忻恬）@赟晖_6298.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6298&appId=282&platformAgg=APP",
+      "requirementName": "【P0】订阅横幅改造AB实验（忻恬）@赟晖"
+    },
+    {
+      "mdFileName": "【P1】AB实验：Airbrush_Makeup付费密度降低（曾曾）@赟晖_6301.md",
+      "xlsxFileName": "【P1】AB实验：Airbrush_Makeup付费密度降低（曾曾）@赟晖_6301.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6301&appId=282&platformAgg=APP",
+      "requirementName": "【P1】AB实验：Airbrush Makeup付费密度降低（曾曾）@赟晖"
+    },
+    {
+      "mdFileName": "【P1】体验优化：Airbrush_Reshape_新增_body_引导（Jamie）@赟晖_6303.md",
+      "xlsxFileName": "【P1】体验优化：Airbrush_Reshape_新增_body_引导（Jamie）@赟晖_6303.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6303&appId=282&platformAgg=APP",
+      "requirementName": "【P1】体验优化：Airbrush Reshape 新增 body 引导（Jamie）@赟晖"
+    },
+    {
+      "mdFileName": "功能新增：Airbrush_Retouch_新增多族裔效果（Jamie）@赟晖_6302.md",
+      "xlsxFileName": "功能新增：Airbrush_Retouch_新增多族裔效果（Jamie）@赟晖_6302.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6302&appId=282&platformAgg=APP",
+      "requirementName": "功能新增：Airbrush Retouch 新增多族裔效果（Jamie）@赟晖"
+    },
+    {
+      "mdFileName": "Hair多人识别_6305.md",
+      "xlsxFileName": "Hair多人识别_6305.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6305&appId=282&platformAgg=APP",
+      "requirementName": "Hair多人识别"
+    },
+    {
+      "mdFileName": "Tattoo_6304.md",
+      "xlsxFileName": "Tattoo_6304.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6304&appId=282&platformAgg=APP",
+      "requirementName": "Tattoo"
+    },
+    {
+      "mdFileName": "【P1】功能新增：Airbrush_Relight_支持法线打光（Jamie）_6326.md",
+      "xlsxFileName": "【P1】功能新增：Airbrush_Relight_支持法线打光（Jamie）_6326.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6326&appId=282&platformAgg=APP",
+      "requirementName": "【P1】功能新增：Airbrush Relight 支持法线打光（Jamie）"
+    },
+    {
+      "mdFileName": "AB实验：Airbrush_AI_Retouch_缩略图替换（Jamie）_6327.md",
+      "xlsxFileName": "AB实验：Airbrush_AI_Retouch_缩略图替换（Jamie）_6327.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6327&appId=282&platformAgg=APP",
+      "requirementName": "AB实验：Airbrush AI Retouch 缩略图替换（Jamie）"
+    },
+    {
+      "mdFileName": "其他：Zendesk迁移集团客服中台（Mia）_6334.md",
+      "xlsxFileName": "其他：Zendesk迁移集团客服中台（Mia）_6334.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6334&appId=282&platformAgg=APP",
+      "requirementName": "其他：Zendesk迁移集团客服中台（Mia）"
+    },
+    {
+      "mdFileName": "功能新增：Airbrush_局部妆支持AI能力（曾曾）_6328.md",
+      "xlsxFileName": "功能新增：Airbrush_局部妆支持AI能力（曾曾）_6328.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6328&appId=282&platformAgg=APP",
+      "requirementName": "功能新增：Airbrush 局部妆支持AI能力（曾曾）"
+    },
+    {
+      "mdFileName": "小红点_6307.md",
+      "xlsxFileName": "小红点_6307.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6307&appId=282&platformAgg=APP",
+      "requirementName": "小红点"
+    },
+    {
+      "mdFileName": "视频二期_6306.md",
+      "xlsxFileName": "视频二期_6306.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6306&appId=282&platformAgg=APP",
+      "requirementName": "视频二期"
+    },
+    {
+      "mdFileName": "【P0】Onboarding订阅页优化AB实验（忻恬）_6324.md",
+      "xlsxFileName": "【P0】Onboarding订阅页优化AB实验（忻恬）_6324.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6324&appId=282&platformAgg=APP",
+      "requirementName": "【P0】Onboarding订阅页优化AB实验（忻恬）"
+    },
+    {
+      "mdFileName": "【P0】体验优化：Airbrush_Hair新增多人识别（曾曾)-长线_6323.md",
+      "xlsxFileName": "【P0】体验优化：Airbrush_Hair新增多人识别（曾曾)-长线_6323.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6323&appId=282&platformAgg=APP",
+      "requirementName": "【P0】体验优化：Airbrush Hair新增多人识别（曾曾)-长线"
+    },
+    {
+      "mdFileName": "Retouch_&_Face_3D骨相还原_和Face_lift_pro_6339.md",
+      "xlsxFileName": "Retouch_&_Face_3D骨相还原_和Face_lift_pro_6339.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6339&appId=282&platformAgg=APP",
+      "requirementName": "Retouch & Face 3D骨相还原 和Face lift pro"
+    },
+    {
+      "mdFileName": "Repair批量_6344.md",
+      "xlsxFileName": "Repair批量_6344.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6344&appId=282&platformAgg=APP",
+      "requirementName": "Repair批量"
+    },
+    {
+      "mdFileName": "【P0】AB实验：Airbrush激励广告策略调整AB实验-2期（可乐）_6340.md",
+      "xlsxFileName": "【P0】AB实验：Airbrush激励广告策略调整AB实验-2期（可乐）_6340.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6340&appId=282&platformAgg=APP",
+      "requirementName": "【P0】AB实验：Airbrush激励广告策略调整AB实验-2期（可乐）"
+    },
+    {
+      "mdFileName": "精细化分层优惠——已过期会员AB实验（忻恬）_6349.md",
+      "xlsxFileName": "精细化分层优惠——已过期会员AB实验（忻恬）_6349.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6349&appId=282&platformAgg=APP",
+      "requirementName": "精细化分层优惠——已过期会员AB实验（忻恬）"
+    },
+    {
+      "mdFileName": "Teeth去牙渍_6342.md",
+      "xlsxFileName": "Teeth去牙渍_6342.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6342&appId=282&platformAgg=APP",
+      "requirementName": "Teeth去牙渍"
+    },
+    {
+      "mdFileName": "smart模式补充埋点_6348.md",
+      "xlsxFileName": "smart模式补充埋点_6348.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6348&appId=282&platformAgg=APP",
+      "requirementName": "smart模式补充埋点"
+    },
+    {
+      "mdFileName": "安卓用户分层优惠不展示季卡（晋羽）_6341.md",
+      "xlsxFileName": "安卓用户分层优惠不展示季卡（晋羽）_6341.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6341&appId=282&platformAgg=APP",
+      "requirementName": "安卓用户分层优惠不展示季卡（晋羽）"
+    },
+    {
+      "mdFileName": "Body新增ai_shape_6325.md",
+      "xlsxFileName": "Body新增ai_shape_6325.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6325&appId=282&platformAgg=APP",
+      "requirementName": "Body新增ai shape"
+    },
+    {
+      "mdFileName": "切换语言_6378.md",
+      "xlsxFileName": "切换语言_6378.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6378&appId=282&platformAgg=APP",
+      "requirementName": "切换语言"
+    },
+    {
+      "mdFileName": "【P1】功能新增：Airbrush_磨皮效果新增（曾曾）_6366.md",
+      "xlsxFileName": "【P1】功能新增：Airbrush_磨皮效果新增（曾曾）_6366.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6366&appId=282&platformAgg=APP",
+      "requirementName": "【P1】功能新增：Airbrush 磨皮效果新增（曾曾）"
+    },
+    {
+      "mdFileName": "Relight新增一级入口_6364.md",
+      "xlsxFileName": "Relight新增一级入口_6364.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6364&appId=282&platformAgg=APP",
+      "requirementName": "Relight新增一级入口"
+    },
+    {
+      "mdFileName": "Airbrush_Skin_功能顺序调整（Jamie）_6370.md",
+      "xlsxFileName": "Airbrush_Skin_功能顺序调整（Jamie）_6370.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6370&appId=282&platformAgg=APP",
+      "requirementName": "Airbrush Skin 功能顺序调整（Jamie）"
+    },
+    {
+      "mdFileName": "【P0】美国地区3天免费试用AB实验（忻恬）_6363.md",
+      "xlsxFileName": "【P0】美国地区3天免费试用AB实验（忻恬）_6363.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6363&appId=282&platformAgg=APP",
+      "requirementName": "【P0】美国地区3天免费试用AB实验（忻恬）"
+    },
+    {
+      "mdFileName": "【P0】iOS年SKU月付AB实验（忻恬）_6361.md",
+      "xlsxFileName": "【P0】iOS年SKU月付AB实验（忻恬）_6361.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6361&appId=282&platformAgg=APP",
+      "requirementName": "【P0】iOS年SKU月付AB实验（忻恬）"
+    },
+    {
+      "mdFileName": "Skin&Magic新增埋点_6368.md",
+      "xlsxFileName": "Skin&Magic新增埋点_6368.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6368&appId=282&platformAgg=APP",
+      "requirementName": "Skin&Magic新增埋点"
+    },
+    {
+      "mdFileName": "性别检测_6372.md",
+      "xlsxFileName": "性别检测_6372.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6372&appId=282&platformAgg=APP",
+      "requirementName": "性别检测"
+    },
+    {
+      "mdFileName": "Body_多族裔_Auto_参数（Jamie）_6371.md",
+      "xlsxFileName": "Body_多族裔_Auto_参数（Jamie）_6371.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6371&appId=282&platformAgg=APP",
+      "requirementName": "Body 多族裔 Auto 参数（Jamie）"
+    },
+    {
+      "mdFileName": "banner分类新增字段_6369.md",
+      "xlsxFileName": "banner分类新增字段_6369.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6369&appId=282&platformAgg=APP",
+      "requirementName": "banner分类新增字段"
+    },
+    {
+      "mdFileName": "【P2】效果新增：Airbrush_Skin新增Clean_Skin（曾曾）_6367.md",
+      "xlsxFileName": "【P2】效果新增：Airbrush_Skin新增Clean_Skin（曾曾）_6367.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6367&appId=282&platformAgg=APP",
+      "requirementName": "【P2】效果新增：Airbrush Skin新增Clean Skin（曾曾）"
+    },
+    {
+      "mdFileName": "【P1】功能新增：Airbrush_Hair新增去碎发（曾曾）_6365.md",
+      "xlsxFileName": "【P1】功能新增：Airbrush_Hair新增去碎发（曾曾）_6365.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6365&appId=282&platformAgg=APP",
+      "requirementName": "【P1】功能新增：Airbrush Hair新增去碎发（曾曾）"
+    },
+    {
+      "mdFileName": "Google_Play支付确认中弹窗（忻恬）_6413.md",
+      "xlsxFileName": "Google_Play支付确认中弹窗（忻恬）_6413.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6413&appId=282&platformAgg=APP",
+      "requirementName": "Google Play支付确认中弹窗（忻恬）"
+    },
+    {
+      "mdFileName": "【P1】交互优化：Airbrush_Relight_展示界面优化（Jamie）_6407.md",
+      "xlsxFileName": "【P1】交互优化：Airbrush_Relight_展示界面优化（Jamie）_6407.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6407&appId=282&platformAgg=APP",
+      "requirementName": "【P1】交互优化：Airbrush Relight 展示界面优化（Jamie）"
+    },
+    {
+      "mdFileName": "【P1】效果新增：Airbrush_Skin新增Redness_Fix（曾曾）_6397.md",
+      "xlsxFileName": "【P1】效果新增：Airbrush_Skin新增Redness_Fix（曾曾）_6397.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6397&appId=282&platformAgg=APP",
+      "requirementName": "【P1】效果新增：Airbrush Skin新增Redness Fix（曾曾）"
+    },
+    {
+      "mdFileName": "【P1】AB实验：Airbrush_Face_支持多族裔默认值（思思）_6398.md",
+      "xlsxFileName": "【P1】AB实验：Airbrush_Face_支持多族裔默认值（思思）_6398.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6398&appId=282&platformAgg=APP",
+      "requirementName": "【P1】AB实验：Airbrush Face 支持多族裔默认值（思思）"
+    },
+    {
+      "mdFileName": "Airbrush_新增AIGC云任务id埋点（Jamie）_6404.md",
+      "xlsxFileName": "Airbrush_新增AIGC云任务id埋点（Jamie）_6404.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6404&appId=282&platformAgg=APP",
+      "requirementName": "Airbrush 新增AIGC云任务id埋点（Jamie）"
+    },
+    {
+      "mdFileName": "【P2】AB实验：Airbrush_Hair_默认选中发质_tab（Zac）_6402.md",
+      "xlsxFileName": "【P2】AB实验：Airbrush_Hair_默认选中发质_tab（Zac）_6402.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6402&appId=282&platformAgg=APP",
+      "requirementName": "【P2】AB实验：Airbrush Hair 默认选中发质 tab（Zac）"
+    },
+    {
+      "mdFileName": "【P2】AB实验：Airbrush_Acne、Concealer_加入匀肤效果（帅王）_6401.md",
+      "xlsxFileName": "【P2】AB实验：Airbrush_Acne、Concealer_加入匀肤效果（帅王）_6401.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6401&appId=282&platformAgg=APP",
+      "requirementName": "【P2】AB实验：Airbrush Acne、Concealer 加入匀肤效果（帅王）"
+    },
+    {
+      "mdFileName": "【P1】AB实验：Airbrush_Magic子项参数优化（思思）_6400.md",
+      "xlsxFileName": "【P1】AB实验：Airbrush_Magic子项参数优化（思思）_6400.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6400&appId=282&platformAgg=APP",
+      "requirementName": "【P1】AB实验：Airbrush Magic子项参数优化（思思）"
+    },
+    {
+      "mdFileName": "AB实验：Airbrush_Glowup排序调整（帅王）_6399.md",
+      "xlsxFileName": "AB实验：Airbrush_Glowup排序调整（帅王）_6399.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6399&appId=282&platformAgg=APP",
+      "requirementName": "AB实验：Airbrush Glowup排序调整（帅王）"
+    },
+    {
+      "mdFileName": "【P1】效果新增：Airbrush_Retouch效果新增（曾曾）_6396.md",
+      "xlsxFileName": "【P1】效果新增：Airbrush_Retouch效果新增（曾曾）_6396.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6396&appId=282&platformAgg=APP",
+      "requirementName": "【P1】效果新增：Airbrush Retouch效果新增（曾曾）"
+    },
+    {
+      "mdFileName": "俄罗斯地区上线UID会员体系（忻恬）_6403.md",
+      "xlsxFileName": "俄罗斯地区上线UID会员体系（忻恬）_6403.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6403&appId=282&platformAgg=APP",
+      "requirementName": "俄罗斯地区上线UID会员体系（忻恬）"
+    },
+    {
+      "mdFileName": "【P1】功能新增：AB_接入账号体系支持俄罗斯支付（Zac）_6409.md",
+      "xlsxFileName": "【P1】功能新增：AB_接入账号体系支持俄罗斯支付（Zac）_6409.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6409&appId=282&platformAgg=APP",
+      "requirementName": "【P1】功能新增：AB 接入账号体系支持俄罗斯支付（Zac）"
+    },
+    {
+      "mdFileName": "俄罗斯地区接入DukPay支付订阅（忻恬）_6410.md",
+      "xlsxFileName": "俄罗斯地区接入DukPay支付订阅（忻恬）_6410.xlsx",
+      "shareLink": "https://dayu-voyager.pix-int.com/requirement/requirement?fullScreen=true&id=6410&appId=282&platformAgg=APP",
+      "requirementName": "俄罗斯地区接入DukPay支付订阅（忻恬）"
+    }
+  ],
+  "notice": "All exported files are saved in: /Users/xuyunhui/Documents/项目/.cursor/skills/data_analysis/raw_data/埋点事件/dayu_gt722/requirements"
+}

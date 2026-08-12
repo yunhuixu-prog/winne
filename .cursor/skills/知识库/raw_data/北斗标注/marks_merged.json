@@ -1,0 +1,214 @@
+{
+  "10015816": {
+    "89122": [
+      {
+        "dashboardId": "10015816",
+        "chartId": "89122",
+        "date": "20260608",
+        "content": "6月9日-6月17日iOS部分日志丢失，大数据已修复底层活跃表和新增表，但其他功能埋点丢失",
+        "userName": "郭庆丽",
+        "type": "markLine",
+        "id": "0c65052d-c3a0-45b8-8708-33e737564f09",
+        "createTime": 1781776968519,
+        "updateTime": 1783404624636,
+        "name": "DAU"
+      },
+      {
+        "dashboardId": "10015816",
+        "chartId": "89122",
+        "date": "20260509",
+        "content": "母亲节",
+        "userName": "郭庆丽",
+        "type": "markLine",
+        "id": "8fdf420d-833e-4cb2-8d2d-a4423ac20289",
+        "createTime": 1779174799053,
+        "updateTime": 1779174803263,
+        "name": "DAU"
+      },
+      {
+        "dashboardId": "10015816",
+        "chartId": "89122",
+        "date": "20260423",
+        "content": "尼日利亚smooth功能带动",
+        "userName": "郭庆丽",
+        "type": "markLine",
+        "id": "b1db6b06-c839-4536-823c-ead50e668d1b",
+        "createTime": 1777257134051,
+        "updateTime": 1777257141920,
+        "name": "DAU"
+      }
+    ],
+    "90629": [
+      {
+        "dashboardId": "10015816",
+        "chartId": "90629",
+        "date": "20260509",
+        "content": "母亲节",
+        "userName": "郭庆丽",
+        "type": "markLine",
+        "id": "8fdf420d-833e-4cb2-8d2d-a4423ac20289",
+        "createTime": 1779174799053,
+        "updateTime": 1779174803263,
+        "name": "活跃次留"
+      },
+      {
+        "dashboardId": "10015816",
+        "chartId": "90629",
+        "date": "20260423",
+        "content": "尼日利亚smooth功能带动",
+        "userName": "郭庆丽",
+        "type": "markLine",
+        "id": "b1db6b06-c839-4536-823c-ead50e668d1b",
+        "createTime": 1777257134051,
+        "updateTime": 1777257141920,
+        "name": "活跃次留"
+      }
+    ]
+  },
+  "10015834": {
+    "89255": [
+      {
+        "dashboardId": "10015834",
+        "chartId": "89255",
+        "date": "20260708",
+        "content": "陆续关停巴西和墨西哥用于补量的campaign（因留存表现较差）",
+        "userName": "郭庆丽",
+        "type": "markLine",
+        "id": "ff2afa8b-d5cc-48e3-a541-d5e520a1f92a",
+        "createTime": 1784541107255,
+        "updateTime": 1784541146859,
+        "name": "DNU"
+      },
+      {
+        "dashboardId": "10015834",
+        "chartId": "89255",
+        "date": "20260624",
+        "content": "6.26-7.5日，美国KOL推广relight有带动自然新增",
+        "userName": "郭庆丽",
+        "type": "markLine",
+        "id": "ef81beab-a050-4896-af9d-ad08d23dce50",
+        "createTime": 1784205133614,
+        "updateTime": 1784205150588,
+        "name": "DNU"
+      },
+      {
+        "dashboardId": "10015834",
+        "chartId": "89255",
+        "date": "20260602",
+        "content": "relight带动意大利、马来西亚、美国新增",
+        "userName": "郭庆丽",
+        "type": "markLine",
+        "id": "af733253-3398-4a64-9f46-518664d38b83",
+        "createTime": 1780540805422,
+        "updateTime": 1780540842129,
+        "name": "DNU"
+      },
+      {
+        "dashboardId": "10015834",
+        "chartId": "89255",
+        "date": "20260521",
+        "content": "relight带动乌克兰、哈萨克斯坦、白俄罗斯、波兰、德国新增",
+        "userName": "郭庆丽",
+        "type": "markLine",
+        "id": "44f8bfab-fcda-4a1e-84b0-90a0db81ca3d",
+        "createTime": 1779671976670,
+        "updateTime": 1779672005042,
+        "name": "DNU"
+      },
+      {
+        "dashboardId": "10015834",
+        "chartId": "89255",
+        "date": "20260423",
+        "content": "尼日利亚smooth功能带动",
+        "userName": "郭庆丽",
+        "type": "markLine",
+        "id": "a0e359b6-95c7-4c11-8f02-ac1e96deabfe",
+        "createTime": 1777257157111,
+        "updateTime": 1777257159884,
+        "name": "DNU"
+      },
+      {
+        "dashboardId": "10015834",
+        "chartId": "89255",
+        "date": "20260417",
+        "content": "relight🔥带动荷兰iOS冲榜第1",
+        "userName": "郭庆丽",
+        "type": "markLine",
+        "id": "33a7f5f9-f2e4-46b9-9bd6-7ca7a937386a",
+        "createTime": 1776735215102,
+        "updateTime": 1776735249984,
+        "name": "DNU"
+      }
+    ],
+    "90267": [
+      {
+        "dashboardId": "10015834",
+        "chartId": "90267",
+        "date": "20260521",
+        "content": "relight带动乌克兰、哈萨克斯坦、白俄罗斯、波兰、德国新增",
+        "userName": "郭庆丽",
+        "type": "markLine",
+        "id": "44f8bfab-fcda-4a1e-84b0-90a0db81ca3d",
+        "createTime": 1779671976670,
+        "updateTime": 1779672005042,
+        "name": "新增次留"
+      },
+      {
+        "dashboardId": "10015834",
+        "chartId": "90267",
+        "date": "20260423",
+        "content": "尼日利亚smooth功能带动",
+        "userName": "郭庆丽",
+        "type": "markLine",
+        "id": "a0e359b6-95c7-4c11-8f02-ac1e96deabfe",
+        "createTime": 1777257157111,
+        "updateTime": 1777257159884,
+        "name": "新增次留"
+      },
+      {
+        "dashboardId": "10015834",
+        "chartId": "90267",
+        "date": "20260417",
+        "content": "relight🔥带动荷兰iOS冲榜第1",
+        "userName": "郭庆丽",
+        "type": "markLine",
+        "id": "33a7f5f9-f2e4-46b9-9bd6-7ca7a937386a",
+        "createTime": 1776735215102,
+        "updateTime": 1776735249984,
+        "name": "新增次留"
+      }
+    ]
+  },
+  "10015810": {
+    "89046": [
+      {
+        "dashboardId": "10015810",
+        "chartId": "89046",
+        "date": "20260331",
+        "content": "俄罗斯iOS支付限制升级",
+        "userName": "郭庆丽",
+        "type": "markLine",
+        "id": "cf83bdf1-a3b0-4c34-8ef2-8baaff8c3a51",
+        "createTime": 1776826329129,
+        "updateTime": 1776826356656,
+        "name": "日均订阅毛利"
+      }
+    ]
+  },
+  "10015697": {
+    "88125": [
+      {
+        "dashboardId": "10015697",
+        "chartId": "88125",
+        "date": "20260609",
+        "content": "上报埋点丢失",
+        "userName": "许赟晖",
+        "type": "markLine",
+        "id": "b3f4a857-ec95-48e5-85f8-90cfac0bc195",
+        "createTime": 1782184734071,
+        "updateTime": 1782184757580,
+        "name": "保存UV"
+      }
+    ]
+  }
+}

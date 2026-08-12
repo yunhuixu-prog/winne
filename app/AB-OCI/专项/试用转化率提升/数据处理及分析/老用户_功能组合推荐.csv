@@ -1,0 +1,146 @@
+﻿入口来源,功能组合,样本量,付费率,lift,入口基准
+AI Repair,AI Repair + Glowup,116,21.55%,4.68%,16.88%
+AI Repair,AI Repair + Relight,474,20.46%,3.59%,16.88%
+AI Repair,AI Repair + AI Replace,135,20.00%,3.12%,16.88%
+AI Repair,AI Repair + Magic,538,19.89%,3.01%,16.88%
+AI Replace,AI Replace + Blur,104,19.23%,3.49%,15.74%
+AI Retouch,AI Retouch + Background,117,27.35%,6.23%,21.12%
+AI Retouch,AI Retouch + Muscle,129,27.13%,6.01%,21.12%
+AI Retouch,AI Retouch + AI Expand,118,24.58%,3.46%,21.12%
+Adjust,Adjust + Filters,214,28.97%,5.54%,23.43%
+Adjust,Adjust + Makeup,138,28.26%,4.83%,23.43%
+Adjust,Adjust + Face,107,28.04%,4.61%,23.43%
+Adjust,Adjust + Reshape,153,26.80%,3.37%,23.43%
+Body,Body + AI Repair,195,25.13%,4.24%,20.89%
+Body,Body + Stretch,514,24.51%,3.62%,20.89%
+Eraser,Eraser + Muscle,122,27.05%,9.29%,17.76%
+Eraser,Eraser + Glowup,300,23.33%,5.57%,17.76%
+Eraser,Eraser + Face Fix,109,22.94%,5.17%,17.76%
+Eraser,Eraser + Resize,521,22.65%,4.89%,17.76%
+Eraser,Eraser + Magic,2216,21.53%,3.76%,17.76%
+Eraser,Eraser + Bokeh,184,21.20%,3.43%,17.76%
+Eraser,Eraser + Adjust,1444,20.84%,3.08%,17.76%
+Expression,Expression + Skin,101,23.76%,5.50%,18.26%
+Face Fix,Face Fix + Reshape,102,18.63%,4.64%,13.98%
+Glowup,Glowup + Body,119,31.09%,7.61%,23.48%
+Glowup,Glowup + Magic,164,26.83%,3.35%,23.48%
+Hair,Hair + Glowup,209,20.57%,6.68%,13.90%
+Hair,Hair + Resize,123,19.51%,5.61%,13.90%
+Hair,Hair + Skin,962,18.61%,4.71%,13.90%
+Hair,Hair + Magic,532,17.11%,3.21%,13.90%
+Hair,Hair + Relight,236,16.95%,3.05%,13.90%
+Magic,Magic + AI Repair,150,27.33%,4.05%,23.28%
+Makeup,Makeup + AI Repair,111,24.32%,3.91%,20.42%
+Makeup,Makeup + Resize,202,23.76%,3.35%,20.42%
+Onboarding,Magic + Stretch,131,22.90%,8.99%,13.91%
+Onboarding,Filters + Resize,145,21.38%,7.47%,13.91%
+Onboarding,Blur + Body,114,21.05%,7.14%,13.91%
+Onboarding,Face Fix + Makeup,136,20.59%,6.68%,13.91%
+Onboarding,Glowup + Resize,102,20.59%,6.68%,13.91%
+Onboarding,AI Retouch + Resize,167,19.76%,5.85%,13.91%
+Onboarding,Body + Resize,256,19.53%,5.62%,13.91%
+Onboarding,Adjust + Blur,113,19.47%,5.56%,13.91%
+Onboarding,Body + Expression,119,19.33%,5.42%,13.91%
+Onboarding,Magic + Resize,198,19.19%,5.28%,13.91%
+Onboarding,Glowup + Reshape,298,19.13%,5.22%,13.91%
+Onboarding,Resize + Stretch,108,18.52%,4.61%,13.91%
+Onboarding,Body + Stretch,168,18.45%,4.54%,13.91%
+Onboarding,Body + Relight,369,18.43%,4.52%,13.91%
+Onboarding,Face + Stretch,163,18.40%,4.49%,13.91%
+Onboarding,AI Repair + Glowup,125,18.40%,4.49%,13.91%
+Onboarding,Face + Resize,316,18.35%,4.44%,13.91%
+Onboarding,Body + Face Fix,104,18.27%,4.36%,13.91%
+Onboarding,AI Retouch + Face Fix,181,18.23%,4.32%,13.91%
+Onboarding,Face Fix + Hair,122,18.03%,4.12%,13.91%
+Onboarding,Face Fix + Filters,129,17.83%,3.92%,13.91%
+Onboarding,Expression + Filters,101,17.82%,3.91%,13.91%
+Onboarding,AI Retouch + Expression,152,17.76%,3.85%,13.91%
+Onboarding,AI Repair + Eraser,226,17.70%,3.79%,13.91%
+Onboarding,Body + Glowup,312,17.63%,3.72%,13.91%
+Onboarding,AI Repair + Filters,233,17.60%,3.69%,13.91%
+Onboarding,Blur + Filters,154,17.53%,3.62%,13.91%
+Onboarding,Filters + Reshape,458,17.47%,3.56%,13.91%
+Onboarding,Body + Skin,843,17.44%,3.53%,13.91%
+Onboarding,AI Retouch + Blur,115,17.39%,3.48%,13.91%
+Onboarding,Body + Muscle,161,17.39%,3.48%,13.91%
+Onboarding,Resize + Skin,335,17.31%,3.40%,13.91%
+Onboarding,AI Retouch + Makeup,717,17.29%,3.38%,13.91%
+Onboarding,Blur + Relight,145,17.24%,3.33%,13.91%
+Onboarding,Reshape + Stretch,203,17.24%,3.33%,13.91%
+Onboarding,Blur + Face,180,17.22%,3.31%,13.91%
+Onboarding,AI Retouch + Body,538,17.10%,3.19%,13.91%
+Onboarding,Blur + Crop,123,17.07%,3.16%,13.91%
+Onboarding,Skin + Stretch,170,17.06%,3.15%,13.91%
+Onboarding,AI Repair + Body,182,17.03%,3.12%,13.91%
+Onboarding,Filters + Magic,822,17.03%,3.12%,13.91%
+Onboarding,Preset + Skin,100,17.00%,3.09%,13.91%
+Onboarding,AI Retouch + Skin,1137,16.97%,3.06%,13.91%
+Plump,Plump + Magic,209,21.05%,3.24%,17.81%
+Relight,Relight + Magic,816,23.53%,3.04%,20.49%
+Reshape,Reshape + Face Fix,129,31.78%,6.29%,25.50%
+Reshape,Reshape + Magic,1797,29.05%,3.55%,25.50%
+Reshape,Reshape + Blur,504,28.77%,3.27%,25.50%
+Resize,Resize + Glowup,101,33.66%,8.03%,25.64%
+Resize,Resize + Magic,364,31.59%,5.96%,25.64%
+Resize,Resize + Face,366,29.23%,3.60%,25.64%
+Skin,Skin + Expression,108,28.70%,7.12%,21.58%
+Skin,Skin + Face Fix,112,25.89%,4.31%,21.58%
+Update First Launch,Crop + Skin,269,38.29%,9.45%,28.84%
+Update First Launch,Crop + Makeup,123,37.40%,8.56%,28.84%
+Update First Launch,Magic + Resize,166,36.75%,7.91%,28.84%
+Update First Launch,Adjust + Eraser,152,36.18%,7.35%,28.84%
+Update First Launch,Adjust + Crop,168,35.71%,6.88%,28.84%
+Update First Launch,Crop + Magic,229,35.37%,6.54%,28.84%
+Update First Launch,Adjust + Body,118,34.75%,5.91%,28.84%
+Update First Launch,Crop + Relight,176,34.09%,5.26%,28.84%
+Update First Launch,AI Repair + Body,100,34.00%,5.16%,28.84%
+Update First Launch,Resize + Skin,258,33.72%,4.89%,28.84%
+Update First Launch,Filters + Resize,126,33.33%,4.50%,28.84%
+Update First Launch,Crop + Eraser,196,33.16%,4.33%,28.84%
+Update First Launch,Face + Resize,218,33.03%,4.19%,28.84%
+Update First Launch,Adjust + Skin,279,32.97%,4.14%,28.84%
+Update First Launch,Body + Plump,104,32.69%,3.86%,28.84%
+Update First Launch,AI Repair + Magic,205,32.68%,3.85%,28.84%
+Update First Launch,AI Retouch + Plump,135,32.59%,3.76%,28.84%
+Update First Launch,Magic + Plump,179,32.40%,3.57%,28.84%
+Update First Launch,Relight + Reshape,204,32.35%,3.52%,28.84%
+Update First Launch,Eraser + Relight,217,32.26%,3.42%,28.84%
+Update First Launch,Crop + Face,239,32.22%,3.38%,28.84%
+Update First Launch,Crop + Reshape,181,32.04%,3.21%,28.84%
+Update First Launch,AI Retouch + Reshape,284,32.04%,3.21%,28.84%
+Update First Launch,Magic + Skin,1023,31.96%,3.13%,28.84%
+无三级,AI Replace + Magic,100,30.00%,9.47%,20.53%
+无三级,AI Replace + Filters,116,28.45%,7.92%,20.53%
+无三级,AI Replace + Skin,171,26.90%,6.37%,20.53%
+无三级,AI Repair + AI Replace,112,26.79%,6.25%,20.53%
+无三级,Crop + Plump,131,26.72%,6.19%,20.53%
+无三级,AI Retouch + Resize,176,26.70%,6.17%,20.53%
+无三级,AI Replace + Relight,106,26.42%,5.88%,20.53%
+无三级,AI Replace + Reshape,107,26.17%,5.64%,20.53%
+无三级,Filters + Resize,277,25.99%,5.46%,20.53%
+无三级,Filters + Skin,1436,25.70%,5.16%,20.53%
+无三级,Magic + Resize,312,25.64%,5.11%,20.53%
+无三级,Plump + Relight,160,25.62%,5.09%,20.53%
+无三级,AI Retouch + Expression,106,25.47%,4.94%,20.53%
+无三级,Expression + Magic,130,25.38%,4.85%,20.53%
+无三级,Crop + Skin,902,24.83%,4.30%,20.53%
+无三级,AI Expand + AI Repair,121,24.79%,4.26%,20.53%
+无三级,Crop + Filters,704,24.57%,4.04%,20.53%
+无三级,Magic + Relight,761,24.44%,3.91%,20.53%
+无三级,Face Fix + Magic,152,24.34%,3.81%,20.53%
+无三级,Magic + Skin,1918,24.30%,3.76%,20.53%
+无三级,Glowup + Resize,120,24.17%,3.63%,20.53%
+无三级,Reshape + Skin,2221,24.04%,3.51%,20.53%
+无三级,Crop + Resize,200,24.00%,3.47%,20.53%
+无三级,Plump + Resize,100,24.00%,3.47%,20.53%
+无三级,Adjust + Skin,934,23.98%,3.45%,20.53%
+无三级,AI Repair + Magic,368,23.91%,3.38%,20.53%
+无三级,Filters + Magic,1061,23.85%,3.31%,20.53%
+无三级,Muscle + Skin,164,23.78%,3.25%,20.53%
+无三级,Bokeh + Filters,101,23.76%,3.23%,20.53%
+无三级,Blur + Magic,261,23.75%,3.22%,20.53%
+无三级,Face Fix + Skin,160,23.75%,3.22%,20.53%
+无三级,Hair + Resize,139,23.74%,3.21%,20.53%
+无三级,AI Repair + Reshape,254,23.62%,3.09%,20.53%
+无三级,Face + Skin,2566,23.58%,3.05%,20.53%
+无三级,Expression + Skin,174,23.56%,3.03%,20.53%

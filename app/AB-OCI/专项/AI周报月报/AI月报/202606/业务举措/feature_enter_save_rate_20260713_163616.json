@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Face新增3D骨相还原",
+    "desc": "Face下新增3D骨相还原",
+    "launch": "20260617",
+    "feature_requested": "Face",
+    "feature_resolved": "Face",
+    "level1": "图片编辑",
+    "before_start": "20260603",
+    "before_end": "20260616",
+    "after_start": "20260617",
+    "after_end": "20260630",
+    "before_avg_enter_save_rate": 0.474342,
+    "after_avg_enter_save_rate": 0.464435,
+    "relative_change": -0.020886,
+    "relative_change_pct": -2.09,
+    "summary_eligible": false,
+    "status": "波动不足10%",
+    "note": "Face 进入保存率相对变动 -2.1% (47.4%→46.4%)，未达总结入选门槛",
+    "before_days": 14,
+    "after_days": 14
+  }
+]

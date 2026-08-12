@@ -1,0 +1,28 @@
+# Cursor Automation 草稿 · 周二 10:30
+# Cron（本地 10:30 周二）：30 10 * * 2
+
+name: "AirBrush 周二-周报刷新(含周日次留)"
+description: "每周二 10:30：强制北斗取数并重跑上周周报全流程，覆盖周一初版"
+
+workflow:
+  triggers:
+    - cron:
+        cron: "30 10 * * 2"
+  actions: []
+  prompts:
+    - |
+      你是 AirBrush 数据周报 Agent。本任务为「周二刷新」：补全上周日次留后覆盖周一版周报。
+
+      1. **不要**跑知识库全量更新（除非用户另行要求）。
+      2. 读取 `.cursor/skills/周报生成/SKILL.md`，执行默认完整流水线：
+         - Phase A: `cd .cursor/skills/周报生成 && python3 run_weekly_report.py --recent`（强制取数）
+         - 输出目录: `app/AB-OCI/专项/AI周报月报/AI周报/{周期}/`（覆盖周一产物）
+         - Phase B/D/C/E 全量重跑
+      3. 详细步骤见 `app/AB-OCI/专项/AI周报月报/定时任务/prompts/tuesday-weekly-refresh.md`
+      4. 重点核对活跃次留、新增次留（含分析周周日）；终审删除「待周二刷新」占位。
+
+      完成后汇报：周期、相对周一版的 diff 摘要、最终 v3 路径。
+  model: ""
+  agentOptions:
+    skipInstall: false
+  memoryEnabled: true

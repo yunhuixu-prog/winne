@@ -1,0 +1,4 @@
+interface:
+  display_name: "大禹需求查询及导出"
+  short_description: "拉取大禹需求并导出为 xlsx 与 Markdown 文件"
+  default_prompt: "使用 $dayu-requirement-query 拉取 大禹埋点平台 需求并导出 xlsx 与 Markdown。"

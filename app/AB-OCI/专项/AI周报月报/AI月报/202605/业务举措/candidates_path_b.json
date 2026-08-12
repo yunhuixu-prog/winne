@@ -1,0 +1,9 @@
+[
+  {"launch": "20260424", "feature": "Magic", "name": "Magic新增多人识别", "desc": "Magic 新增多人识别"},
+  {"launch": "20260507", "feature": "Hair", "name": "Hair新增增发量Pro", "desc": "Hair 新增增发量 Pro"},
+  {"launch": "20260507", "feature": "Face", "name": "Face新增小项", "desc": "Face 新增小项（鼻/下巴等）"},
+  {"launch": "20260507", "feature": "Retouch", "name": "Retouch线上效果新增滑杆", "desc": "Retouch 线上效果新增滑杆"},
+  {"launch": "20260507", "feature": "AI Repair", "name": "首页Repair替换功能", "desc": "首页 Repair 入口替换为新增强算法"},
+  {"launch": "20260520", "feature": "Retouch", "name": "Retouch新增多族裔效果", "desc": "Retouch 新增多族裔效果"},
+  {"launch": "20260520", "feature": "Tattoo", "name": "Tattoo新增纹身分割", "desc": "Tattoo 新增纹身分割"}
+]

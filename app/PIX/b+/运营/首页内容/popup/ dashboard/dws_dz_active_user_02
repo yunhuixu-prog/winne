@@ -1,0 +1,11 @@
+with source_data as (
+ select 
+event_date,  count(*) cnt
+ from 
+`beautyplus-bc0ed.event_dataset_2.dws_dz_active_user_02` 
+ where event_date= date_sub(current_date , interval 2 day)
+ group by 1
+ order by 1 desc,2
+)
+select if((select cnt from source_data) > 0, 'Okay',
+    ERROR('table is not update to date'))

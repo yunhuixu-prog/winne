@@ -1,0 +1,10 @@
+{
+  "last_synced_version": "8.13.5",
+  "last_synced_at": "2026-07-20",
+  "app_id": 282,
+  "app_name": "Airbrush",
+  "env": "oci",
+  "client_type": "APP",
+  "cf_versions_dir": "../../../知识库/raw_data/知识库/site_632691935",
+  "note": "下次「更新事件埋点」只拉 CF 目录中 > last_synced_version 的版本；拉完后写回本字段为本次命中最大版本。"
+}

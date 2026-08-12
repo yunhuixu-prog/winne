@@ -1,0 +1,49 @@
+country,duration,period_type,payment_price_usd,predicted_rate,model
+Australia,1month,月,10.83,0.004582,linear
+Australia,1month,月,11.26,0.004488,linear
+Australia,1month,月,11.7,0.004394,linear
+Australia,1month,月,12.13,0.0043,linear
+Australia,1month,月,12.57,0.004206,linear
+Australia,1month,月,13.0,0.004112,linear
+Australia,1month,月,13.44,0.004018,linear
+Australia,1month,月,13.88,0.003924,linear
+Australia,annual,年,37.75,0.007907,power
+Australia,annual,年,40.22,0.007189,power
+Australia,annual,年,42.69,0.006574,power
+Australia,annual,年,45.16,0.006042,power
+Australia,annual,年,47.64,0.005578,power
+Australia,annual,年,50.11,0.00517,power
+Australia,annual,年,52.58,0.00481,power
+Australia,annual,年,55.05,0.00449,power
+Brazil,1month,月,4.99,0.00118,linear
+Brazil,1month,月,5.22,0.00118,linear
+Brazil,1month,月,5.45,0.00118,linear
+Brazil,1month,月,5.68,0.001179,linear
+Brazil,1month,月,5.92,0.001179,linear
+Brazil,1month,月,6.15,0.001179,linear
+Brazil,1month,月,6.38,0.001179,linear
+Brazil,1month,月,6.61,0.001178,linear
+Brazil,annual,年,14.25,0.003098,inverse
+Brazil,annual,年,15.81,0.002792,inverse
+Brazil,annual,年,17.36,0.00254,inverse
+Brazil,annual,年,18.92,0.002329,inverse
+Brazil,annual,年,20.48,0.002151,inverse
+Brazil,annual,年,22.04,0.001998,inverse
+Brazil,annual,年,23.59,0.001865,inverse
+Brazil,annual,年,25.15,0.001748,inverse
+United Kingdom,1month,月,13.79,0.003277,linear
+United Kingdom,1month,月,14.28,0.003262,linear
+United Kingdom,1month,月,14.77,0.003248,linear
+United Kingdom,1month,月,15.26,0.003233,linear
+United Kingdom,1month,月,15.74,0.003219,linear
+United Kingdom,1month,月,16.23,0.003204,linear
+United Kingdom,1month,月,16.72,0.00319,linear
+United Kingdom,1month,月,17.21,0.003175,linear
+United Kingdom,annual,年,39.26,0.006803,power
+United Kingdom,annual,年,42.21,0.006101,power
+United Kingdom,annual,年,45.16,0.005512,power
+United Kingdom,annual,年,48.12,0.005013,power
+United Kingdom,annual,年,51.07,0.004584,power
+United Kingdom,annual,年,54.03,0.004213,power
+United Kingdom,annual,年,56.98,0.00389,power
+United Kingdom,annual,年,59.93,0.003606,power

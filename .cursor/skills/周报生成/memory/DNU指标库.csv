@@ -1,0 +1,6 @@
+层级,指标,数据来源,指标对应值,取数口径
+1,整体DNU,raw_data/dnu.csv,DNU,渠道自然=整体，国家=整体，平台=整体
+1.1,渠道 DNU,raw_data/dnu.csv,DNU,渠道自然=non-Organic，国家=整体，平台=整体
+1.1.x,x（某 国家 值） DNU,raw_data/dnu.csv,DNU,渠道自然=non-Organic，国家=x（非整体），平台=整体
+1.2,自然 DNU,raw_data/dnu.csv,DNU,渠道自然=Organic，国家=整体，平台=整体
+1.2.x,x（某 国家 值） DNU,raw_data/dnu.csv,DNU,渠道自然=Organic，国家=x（非整体），平台=整体

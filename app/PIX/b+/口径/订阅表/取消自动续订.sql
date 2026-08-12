@@ -1,0 +1,3 @@
+select
+from `dataintegration-265403.dwd.dwd_dzp_portrait_subcription_uuid`
+where

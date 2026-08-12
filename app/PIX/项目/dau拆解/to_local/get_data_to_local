@@ -1,0 +1,63 @@
+drop table if exists beautyplus-bc0ed.temp.dws_dz_his_split_final_user_behave_local;
+create table beautyplus-bc0ed.temp.dws_dz_his_split_final_user_behave_local as
+
+select *except(uuid,sub_type,bucket)
+                    from beautyplus-bc0ed.temp.dws_dz_his_split_final_user_behave_v
+                    -- where date between DATE_SUB('2023-05-01', INTERVAL 90 DAY) and DATE_SUB('2023-05-01', INTERVAL 1 DAY)
+                    where date between '2023-01-01' and '2023-04-30'
+                        and sub_365>0
+                        and rand()<least(200000/6455987,1)
+                        and sub_type = 'trial_his'
+                        and install_days_type between 7 and 10
+                        and is_active_7 between 0 and 1
+                        and is_edit_selfi_7 between 0 and 1
+                        and is_active_30 between 0 and 1
+                        and is_edit_selfi_30 between 0 and 1
+                        and is_active_60 between 0 and 1
+                        and is_edit_selfi_60 between 0 and 1
+                        and is_active_90 between 0 and 1
+                        and is_edit_selfi_90 between 0 and 1
+
+                    union all
+
+                    select *except(uuid,sub_type,bucket)
+                    from beautyplus-bc0ed.temp.dws_dz_his_split_final_user_behave_v
+                    -- where date between DATE_SUB('2023-05-01', INTERVAL 120 DAY) and DATE_SUB('2023-05-01', INTERVAL 90 DAY)
+                    where date between '2023-01-01' and '2023-04-30'
+                        and sub_365=0
+                        and rand()<least(400000/24748000,1)
+                        and sub_type = 'trial_his'
+                        and install_days_type between 7 and 10
+                        and is_active_7 between 0 and 1
+                        and is_edit_selfi_7 between 0 and 1
+                        and is_active_30 between 0 and 1
+                        and is_edit_selfi_30 between 0 and 1
+                        and is_active_60 between 0 and 1
+                        and is_edit_selfi_60 between 0 and 1
+                        and is_active_90 between 0 and 1
+                        and is_edit_selfi_90 between 0 and 1
+                        and bucket = 1
+
+
+gcloud auth activate-service-account --key-file=/home/bigdata/dataintegration-prod.json
+#https://console.cloud.google.com/storage/browser/bq2azure-adls;tab=objects?project=devops-325206&prefix=&forceOnObjectsSortingFiltering=false
+gcloud config set project beautyplus-bc0ed
+
+# 提取数据到云端
+gsutil rm -r gs://bq2azure-adls/test
+bq extract \
+--destination_format NEWLINE_DELIMITED_JSON 'temp.dws_dz_his_split_final_user_behave_local' \
+gs://bq2azure-adls/test/projecsdfsadfa_*.json
+
+
+
+gcloud config set project airbrush-1324
+
+# 提取数据到云端
+gsutil rm -r gs://bq2azure-adls/test_ab
+bq extract \
+--destination_format NEWLINE_DELIMITED_JSON 'temp.renewal_order_loss_behave_part' \
+gs://bq2azure-adls/test_ab/projecsdfsadfa_*.json
+bq extract \
+--destination_format NEWLINE_DELIMITED_JSON 'temp.return_sub_behave_part' \
+gs://bq2azure-adls/test_ab/projecsdfsadfa_*.json

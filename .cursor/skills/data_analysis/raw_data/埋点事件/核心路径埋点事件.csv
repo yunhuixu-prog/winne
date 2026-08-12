@@ -1,0 +1,21 @@
+说明1：app的一级二级三级功能和看板的二级功能并不完全对应，看板的二级功能对应：app一级功能为retouch和edit且app的二级功能非skin时取app的二级功能，app一级功能为retouch和edit且app的二级功能为skin时取app的三级功能，app一级功能非retouch和edit时取app的一级功能
+说明2：路径key trace_info，记录每一次进入编辑器后的路径，进入编辑器开始，退出编辑器结束，期间所有的事件都带了这个key，同一个trace_info代表一次编辑器内的行为序列
+
+大类,事件名,事件含义,关键key,key说明,值说明,备注
+其他,app_open_show,打开app,,,,
+其他,popup_show,弹窗曝光,page_name,页面类型,主要包括homepage：首页、edit：编辑页,首页运营弹窗选择page_name=homepage
+其他,popup_click,弹窗点击,page_name,页面类型,主要包括homepage：首页、edit：编辑页,首页运营弹窗选择page_name=homepage
+编辑,edit_enter,编辑页进入,,,,
+编辑,first_func_enter,一级功能进入,first_func,一级功能,,
+编辑,second_func_enter,二级功能进入,first_func、second_func,一级功能、二级功能,,
+编辑,third_func_enter,三级功能进入,first_func、second_func、third_func,一级功能、二级功能、三级功能,,
+编辑,first_func_use,一级功能打勾,first_func,一级功能,,有些功能是二级下打勾的，此时并不会报一级功能打勾只会报二级功能打勾
+编辑,second_func_use,二级功能打勾,first_func、second_func,一级功能、二级功能,,有些功能是三级下打勾的，此时并不会报二级功能打勾只会报三级功能打勾
+编辑,third_func_use,三级功能打勾,first_func、second_func、third_func,一级功能、二级功能、三级功能,,有些功能是统一在二级下打勾的，此时并不会报三级功能打勾只会报二级功能打勾
+编辑,edit_save,编辑保存,prf_first_func、prf_second_func,一级功能、二级功能（用了多个用逗号隔开）,,部分三级功能不会报
+编辑,material_exposure,素材曝光,material_id、material_type、module,素材id、素材类型、模块,module基本都是edit，material_type是二级功能名称例如ai_retouch,
+编辑,material_click,素材点击,material_id、material_type、module,素材id、素材类型、模块,module基本都是edit，material_type是二级功能名称例如ai_retouch,
+编辑,material_check,素材打勾,mids_material_id、material_type、module,素材id、素材类型、模块,module基本都是edit，material_type是二级功能名称例如ai_retouch、filters,
+订阅,w_subscription_enter,进入订阅页,source_module、source_0、source_1,来源层级,,一般在打勾时触发（触发时打勾事件也会上报），少部分会在点击效果时触发
+订阅,w_subscription_click,订阅点击continue,source_module、source_0、source_1,来源层级,,一般在打勾时触发（触发时打勾事件也会上报），少部分会在点击效果时触发
+订阅,w_subscription_success,订阅成功,source_module、source_0、source_1,来源层级,,一般在打勾时触发（触发时打勾事件也会上报），少部分会在点击效果时触发

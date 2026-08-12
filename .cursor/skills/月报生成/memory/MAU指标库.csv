@@ -1,0 +1,7 @@
+﻿层级,指标,数据来源,指标对应值,取数口径
+1,整体 MAU,raw_data/mau.csv,MAU,渠道自然=整体，国家=整体，平台=整体，新老=整体
+1.x,x（某 国家 值）MAU,raw_data/mau.csv,MAU,渠道自然=整体，国家=x（非整体），平台=整体，新老=整体
+1.x.1,新用户 MAU,raw_data/mau.csv,MAU,渠道自然=整体，国家=x（非整体），平台=整体，新老=New
+1.x.1.1,新渠道用户 MAU,raw_data/mau.csv,MAU,渠道自然=non-Organic，国家=x（非整体），平台=整体，新老=New
+1.x.1.2,新自然用户 MAU,raw_data/mau.csv,MAU,渠道自然=Organic，国家=x（非整体），平台=整体，新老=New
+1.x.2,老用户 MAU,本表,整体MAU-新用户 MAU（1.x-1.x.1）,

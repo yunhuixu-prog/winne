@@ -1,0 +1,18 @@
+﻿分类_L1,二级归因_L2,三级归因_L3,四级分类_L4,路径读法,source_0示例,说明
+Edit,Retouch,,,Edit-Retouch,,美颜类（L2）
+Edit,Edit,,,Edit-Edit,,编辑类（L2）
+Edit,Material,,,Edit-Material,,素材类（L2）
+Edit,Retouch,AI Retouch,,Edit-Retouch—AI Retouch,f_ai_retouch,二级功能权益（L3）
+Edit,Edit,Eraser,,Edit-Edit—Eraser,f_eraser,图片 Eraser（L3）；子功能见 L4
+Edit,Edit,Eraser,AI,Edit-Edit—Eraser—AI,f_eraser + source_1=ai,Eraser 子功能
+Edit,Edit,Eraser,Classic,Edit-Edit—Eraser—Classic,f_eraser + classic,Eraser 子功能
+Edit,Edit,Eraser,Passersby,Edit-Edit—Eraser—Passersby,f_eraser + passersby,Eraser 子功能
+Edit,Edit,Eraser,Mirror Stains,Edit-Edit—Eraser—Mirror Stains,f_eraser + mirror,Eraser 子功能
+Edit,Edit,Eraser,Object,Edit-Edit—Eraser—Object,f_eraser + objects,Eraser 子功能
+Edit,Edit,Eraser,Text,Edit-Edit—Eraser—Text,f_eraser + text,Eraser 子功能
+Video,Eraser,,,Video-Eraser,f_eraser,视频消除笔（L2）
+Video,AI Eraser,,,Video-AI Eraser,f_ai_eraser,视频 AI Eraser（L2）
+Else,Onboarding,,,Else-Onboarding,,新用户引导
+Else,Update First Launch,,,Else-Update First Launch,,老用户升级订阅页
+Operations,Homepage Banner,,,Operations-Homepage Banner,hbr,首页 banner
+Operations,Homepage Popup,,,Operations-Homepage Popup,hpp,首页弹窗

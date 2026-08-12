@@ -1,0 +1,305 @@
+﻿source_module,source_0,source_1,first_source,second_source,third_source,fourth_source,comment
+p_homepage,hbr,source_id,Operations,Homepage Banner,source_id,,banner
+p_homepage,hpbs,,Else,Homepage Banner,,,首页底部小banner
+p_homepage,hpp,source_id,Operations,Homepage Popup,source_id,,弹窗
+homepage,hpp,source_id,Operations,Homepage Popup,source_id,,弹窗-上报错误
+p_homepage,gift,,Else,Gift,,,首页gift a month
+p_homepage,f_annual_recommend_2021,,Else,Annual Recommend,,,月升级年订阅弹窗
+p_homepage,sub_to_guide,,Else,Sub To Guide,,,引导订阅策略策略
+p_homepage,new_discount_2023,,Else,New Discount 2023,,,新手优惠弹窗
+p_homepage,month_upgrade_year,,Else,Month Upgrade Year,,,月升级年订阅弹窗
+p_homepage,week_upgrade_year,,Else,Week Upgrade Year,,,周升级年订阅弹窗
+p_homepage,discount_for_cancel,,Else,Discount For Cancel,,,取消付费召回策略
+p_homepage,resubscribe_discount,,Else,Resubscribe Discount,,,过期会员折扣弹窗
+p_homepage,home_sub_banner,,Else,Home Sub Banner,,,首页左上角用户状态标签
+p_homepage,home_sub_banner,source_id,Else,Home Sub Banner,source_id,,
+p_homepage,homepage_func,ai_repair,Else,Homepage Func,,,
+p_homepage,tvideo,ai_repair,Else,Video,,,
+p_homepage,idphoto,,Else,IDphoto,,,引导订阅策略策略
+p_homepage,shortcuts,,Else,Shortcuts,,,Explore模块
+p_homepage,shortcuts,ai_repair,Else,Shortcuts,AI Repair,,
+p_homepage,ai_avatar,,AIGC,AI Avatar,,,ai 头像
+p_homepage,ai_headshot,,AIGC,AI Headshot,,,ai 职业照
+p_homepage,ai_preset,,AIGC,AI Preset,,,ai preset
+p_homepage,ai_portraits,,AIGC,AI Portrait,,,ai 写真
+p_homepage,ai_yearbook,,AIGC,AI Yearbook,,,yearbook
+p_homepage,repair,,Else,Repair,,,画质修复
+p_homepage,ai_wonka,,AIGC,AI Wonka,,,ai wonka
+p_homepage,ai_newyear,,AIGC,AI Newyear,,,ai newyear
+p_homepage,ai_pet,,AIGC,AI Pet,,,ai pet
+p_homepage,snap_id,source_id,Else,Snap ID,source_id,,
+AIGC,ai_couple,,AIGC,AI Couple,,,ai couple
+AIGC,ai_carnival,,AIGC,AI Carnival,,,ai carnival
+AIGC,tooniverse_music_festival,,AIGC,Tooniverse,,,
+AIGC,ai_portraits_2,source_id,AIGC,AI Portrait,source_id,,
+AIGC,ai_portrait,,AIGC,AI Portrait,,,
+AIGC,ai_filter,source_id,AIGC,AI Filter,source_id,,
+p_edit,ai_filter,source_id,AIGC,AI Filter,source_id,,上报错误
+p_settings,sbr,,Else,Setting,Settingpage Banner,,设置页banner
+p_settings,f_photo_settings,,Else,Setting,Photo Setting,,照片分辨率设置
+p_settings,f_ads_remove,,Ads,p_settings,Ads Remove,,广告移除
+p_settings,f_vip_icon,,Else,Setting,Vip icon,,切换VIP图标
+p_settings,f_coins,,Else,Setting,Coins,,coins图标
+push,source_id,,Operations,Push,source_id,,填具体的push id
+p_onboarding,p_onboarding,,Else,Onboarding,,,APP引导页
+p_onboarding,p_onboarding,show_all_plans,Else,Onboarding,Show All Plans,,
+p_update_first_launch,p_update_first_launch,,Else,Update First Launch,,,
+p_update_first_launch,p_update_first_launch,show_all_plans,Else,Update First Launch,Show All Plans,,
+p_splash_screen,p_splash_screen,,Else,Splash Screen,,,APP开屏页
+p_promos,p_promos,gift_code,Else,Promos,Gift Code,,兑换页
+p_promos,p_promos,free_period,Else,Promos,Free Period,,
+p_promos,p_promos,loyal_reward,Else,Promos,Loyal Reward,,
+p_promos,p_promos,feedback_reward,Else,Promos,Feedback Reward,,
+p_promos,p_promos,reward_code,Else,Promos,Reward Code,,
+promotional_offer,promotional_offer,puh,Else,Push,Promotional Offer,,promotional offer推送（针对过期用户）
+p_edit,hpp,,Edit,Edit Popup,,,编辑页弹窗
+p_edit,hpp,block_screenshot,Edit,Edit Popup,Block Screenshot,,
+p_edit,hbr,,Edit,Edit Banner,,,编辑页banner
+p_edit,sub_to_guide,,Edit,Sub To Guide,,,引导订阅策略
+p_edit,new_free_saves,,Edit,New Free Saves,,,新用户2次保存限免策略
+p_edit,f_preset,,Edit,Material,Preset,,风格presets
+p_edit,f_beautify_auto,,Edit,Retouch,Magic,,beauty magic美颜魔法
+p_edit,f_beautify_auto,ctu,Edit,Retouch,Magic,Ctu,
+p_edit,f_beautify_auto,f_beautify_auto_ext,Edit,Retouch,Magic,Beautify Auto Ext,
+p_edit,f_beautify_auto,ext,Edit,Retouch,Magic,Ext,
+p_edit,f_beautify_auto,face_width,Edit,Retouch,Magic,Face Width,
+p_edit,f_beautify_auto,fw,Edit,Retouch,Magic,Fw,
+p_edit,f_beautify_auto,chin,Edit,Retouch,Magic,Chin,
+p_edit,f_beautify_auto,nose_size,Edit,Retouch,Magic,Nose Size,
+p_edit,f_beautify_auto,nose,Edit,Retouch,Magic,Nose,
+p_edit,f_beautify_auto,lip_size,Edit,Retouch,Magic,Lip Size,
+p_edit,f_beautify_auto,lip,Edit,Retouch,Magic,Lip,
+p_edit,f_beautify_auto,contouring,Edit,Retouch,Magic,Contouring,
+p_edit,f_beautify_auto,red_eyes,Edit,Retouch,Magic,Red Eyes,
+p_edit,f_beautify_auto,red,Edit,Retouch,Magic,Red,
+p_edit,f_beautify_auto,smth,Edit,Retouch,Magic,Smooth,
+p_edit,f_beautify_auto,acne,Edit,Retouch,Magic,Acne,
+p_edit,f_beautify_auto,dkcircl,Edit,Retouch,Magic,Dark Circles,
+p_edit,f_beautify_auto,wht,Edit,Retouch,Magic,Whiten,
+p_edit,f_beautify_auto,brt,Edit,Retouch,Magic,Brighten,
+p_edit,f_beautify_auto,tint,Edit,Retouch,Magic,Tint,
+p_edit,f_beautify_auto,skn,Edit,Retouch,Magic,Skin Tone,
+p_edit,f_beautify_auto,elg,Edit,Retouch,Magic,Enlarge,
+p_edit,f_beautify_auto,slim,Edit,Retouch,Magic,Slim,
+p_edit,f_ai_retouch,source_id,Edit,Retouch,AI Retouch,source_id,ai 美颜
+p_edit,f_face,,Edit,Retouch,Face,,由f_facial_reshape五官重塑改名字
+p_edit,f_face,face,Edit,Retouch,Face,Face,
+p_edit,f_face,jaw,Edit,Retouch,Face,Jaw,
+p_edit,f_face,nose,Edit,Retouch,Face,Nose,
+p_edit,f_face,eyes,Edit,Retouch,Face,Eyes,
+p_edit,f_face,eyebrows,Edit,Retouch,Face,Eyebrows,
+p_edit,f_face,lips,Edit,Retouch,Face,Lips,
+p_edit,f_face,f_background_protect,Edit,Retouch,Face,Background Protect,
+p_edit,f_facial_reshape,face,Edit,Retouch,Face,Face,五官重塑
+p_edit,f_facial_reshape,nose,Edit,Retouch,Face,Nose,
+p_edit,f_facial_reshape,eyes,Edit,Retouch,Face,Eyes,
+p_edit,f_facial_reshape,eyebrows,Edit,Retouch,Face,Eyebrows,
+p_edit,f_facial_reshape,lips,Edit,Retouch,Face,Lips,
+p_edit,f_reshape,,Edit,Retouch,Reshape,,
+p_edit,f_reshape,classic,Edit,Retouch,Reshape,Classic,瘦脸瘦身
+p_edit,f_reshape,new,Edit,Retouch,Reshape,New,
+p_edit,f_reshape,f_background_protect,Edit,Retouch,Reshape,Background Protect,
+p_edit,f_reshape,resize,Edit,Retouch,Reshape,Resize,
+p_edit,f_resize,,Edit,Retouch,Resize,,放大缩小
+p_edit,f_resize,f_background_protect,Edit,Retouch,Resize,Background Protect,
+p_edit,f_text,font,Edit,Material,Text,Font,文字
+p_edit,f_text,template,Edit,Material,Text,Template,
+p_edit,f_glitter,,Edit,Retouch,Glitter,,闪光
+p_edit,f_align,,Edit,Retouch,Teeth,Aligh,牙齿整齐
+p_edit,f_teeth,stains,Edit,Retouch,Teeth,Stains,
+p_edit,f_bokeh,,Edit,Edit,Bokeh,,光斑虚化
+p_edit,f_relight,source_id,Edit,Edit,Relight,source_id,面部打光
+p_edit,f_smooth,f_smooth_presets,Edit,Retouch,Skin,Smooth,磨皮
+p_edit,f_smooth,,Edit,Retouch,Skin,Smooth,磨皮
+p_edit,f_contour,,Edit,Retouch,Skin,Contour,五官立体
+p_edit,f_contour,cheeks,Edit,Retouch,Skin,Contour,
+p_edit,f_contour,forehead,Edit,Retouch,Skin,Contour,
+p_edit,f_contour,nose,Edit,Retouch,Skin,Contour,
+p_edit,f_contour,eyes,Edit,Retouch,Skin,Contour,
+p_edit,f_contour,eyebrows,Edit,Retouch,Skin,Contour,
+p_edit,f_contour,chin,Edit,Retouch,Skin,Contour,
+p_edit,f_contour,lips,Edit,Retouch,Skin,Contour,
+p_edit,f_foundation,,Edit,Retouch,Skin,Concealer,遮瑕
+p_edit,f_concealer,,Edit,Retouch,Skin,Concealer,由f_foundation遮瑕改名
+p_edit,f_wrinkle,,Edit,Retouch,Skin,Wrinkle,由f_firm改名
+p_edit,f_firm,,Edit,Retouch,Skin,Wrinkle,祛皱
+p_edit,f_skin_tone,,Edit,Retouch,Skin,Skin Tone,肤色
+p_edit,f_skin_tone,three,Edit,Retouch,Skin,Skin Tone,
+p_edit,f_skin_tone,four,Edit,Retouch,Skin,Skin Tone,
+p_edit,f_details,,Edit,Retouch,Skin,Detail,细节
+p_edit,f_highlighter,,Edit,Retouch,Skin,Brighten,高光
+p_edit,f_brighten,,Edit,Retouch,Skin,Brighten,由f_highlighter改名
+p_edit,f_matte,,Edit,Retouch,Skin,Matte,哑光
+p_edit,f_texture,,Edit,Retouch,Skin,Texture,质感
+p_edit,f_acne,three,Edit,Retouch,Skin,Acne,祛痘
+p_edit,f_acne,four,Edit,Retouch,Skin,Acne,祛痘
+p_edit,f_clean_skin,,Edit,Retouch,Skin,Clean Skin,净肤
+p_edit,f_colors,,Edit,Edit,Colors,,滤色
+p_edit,f_background,,Edit,Material,Background,,背景
+p_edit,f_eraser,,Edit,Edit,Eraser,,消除笔
+p_edit,f_eraser,ai,Edit,Edit,Eraser,AI,
+p_edit,f_eraser,classic,Edit,Edit,Eraser,Classic,
+p_edit,f_eraser,passersby,Edit,Edit,Eraser,Passersby,
+p_edit,f_eraser,mirror,Edit,Edit,Eraser,Mirror Stains,
+p_edit,f_eraser,objects,Edit,Edit,Eraser,Object,
+p_edit,f_eraser,text,Edit,Edit,Eraser,Text,
+p_edit,f_remover,ai,Edit,Edit,Eraser,AI,消除笔
+p_edit,f_remover,classic,Edit,Edit,Eraser,Classic,消除笔
+p_edit,f_ai_replace,,Edit,Edit,AI Replace,,智能AI Replace
+p_edit,f_stamp,,Edit,Edit,Stamp,,图章
+p_edit,f_makeup,like MKS,Edit,Material,Makeup,Looks,妆容
+p_edit,f_makeup,like LIP,Edit,Material,Makeup,Lipstick,
+p_edit,f_makeup,like BLU,Edit,Material,Makeup,Blush,
+p_edit,f_makeup,like CON,Edit,Material,Makeup,Contouring,
+p_edit,f_makeup,like EYB,Edit,Material,Makeup,Eyebrowns,
+p_edit,f_makeup,like EYL,Edit,Material,Makeup,Eyelashes,
+p_edit,f_makeup,like EYN,Edit,Material,Makeup,Eyeliner,
+p_edit,f_makeup,like EYS,Edit,Material,Makeup,Eyeshadow,
+p_edit,f_makeup,like PUP,Edit,Material,Makeup,Eye Color,
+p_edit,f_makeup,like FRK,Edit,Material,Makeup,Freckles,
+p_edit,f_makeup,,Edit,Material,Makeup,,
+p_edit,f_makeup,custom,Edit,Material,Makeup,Custom,
+p_edit,f_makeup,NBR_00000000,Edit,Material,Makeup,No Brown,
+p_edit,f_makeup_set_mylook,,Edit,Material,Makeup,Set Mylook,自定义妆容
+p_edit,f_filter,,Edit,Material,Filters,,内置滤镜
+p_edit,f_filters,,Edit,Material,Filters,,
+p_edit,f_kit,,Edit,My Kit,Kit,,我的工具箱
+p_edit,p_premium_hint,,Edit,Premium Hint,,,付费功能提醒
+p_edit,f_edit_cam,,Edit,Edit Cam,,,editor中camera
+p_edit,remove_watermark,,Ads,Remove Watermark,,,去除水印按钮
+p_edit,f_acne,,Ads,Acne,,,祛痘广告，ios报成了这个
+p_edit,f_expression,,Edit,Material,Expression,,
+p_edit,f_sparkle,,Edit,Material,Effects,,闪烁
+p_edit,f_effects,,Edit,Material,Effects,,
+p_edit,f_ai_image,,Edit,Material,AI Image,,
+p_edit,f_muscle,,Edit,Retouch,Muscle,,增肌
+p_edit,f_muscle,body,Edit,Retouch,Muscle,Body,
+p_edit,f_muscle,abs,Edit,Retouch,Muscle,Abs,
+p_edit,f_muscle,v_line,Edit,Retouch,Muscle,V Line,
+p_edit,f_muscle,pecs,Edit,Retouch,Muscle,Pecs,
+p_edit,f_muscle,breast,Edit,Retouch,Muscle,Breast,
+p_edit,f_muscle,arm,Edit,Retouch,Muscle,Arm,
+p_edit,f_muscle,collarbone,Edit,Retouch,Muscle,Collarbone,
+p_edit,f_ai_repair,,Edit,Edit,AI Repair,,
+p_edit,f_body,,Edit,Retouch,Body,,
+p_edit,f_body,f_breast,Edit,Retouch,Body,Breast,身体塑形
+p_edit,f_body,f_arm,Edit,Retouch,Body,Arm,
+p_edit,f_body,f_neck,Edit,Retouch,Body,Neck,
+p_edit,f_body,f_square_shoulders,Edit,Retouch,Body,Square Shoulders,
+p_edit,f_body,f_shoulders,Edit,Retouch,Body,Shoulders,
+p_edit,f_body,f_background_protect,Edit,Retouch,Body,Background Protect,
+p_edit,f_body,f_neckwidth,Edit,Retouch,Body,Neckwidth,
+p_edit,f_body,f_necklength,Edit,Retouch,Body,Necklength,
+p_edit,f_body,f_waist,Edit,Retouch,Body,Waist,
+p_edit,f_body,f_hourglass,Edit,Retouch,Body,Hourglass,
+p_edit,f_body,f_buttock,Edit,Retouch,Body,Bottock,
+p_edit,f_body,f_tummy,Edit,Retouch,Body,Tummy,
+p_edit,f_body,f_ai_shape,Edit,Retouch,Body,AI Shape,
+p_edit,face_fix,,Edit,Retouch,Face Fix,,表情修复
+p_edit,f_hair_dye,source_id,Edit,Retouch,Hair,Hair Dye,染发
+p_edit,f_hairline,,Edit,Retouch,Hair,Hairline,发际线
+p_edit,f_hairstyles,source_id,Edit,Retouch,Hair,Hairstyles,
+p_edit,f_bangs,source_id,Edit,Retouch,Hair,Bangs,刘海
+p_edit,f_volume,source_id,Edit,Retouch,Hair,Volume,发量
+p_edit,f_hair_texture,source_id,Edit,Retouch,Hair,Texture,发质
+p_edit,f_hair_enrich,,Edit,Retouch,Hair,Hair Enrich,
+p_edit,save_share,,Edit,Save Share,,,保存分享页
+p_edit,f_glowup,source_id,Edit,Retouch,Glowup,source_id,skin预设
+p_edit,f_ai_expand,,Edit,Edit,AI Expand,,
+p_edit,f_ai_toning,,Edit,Edit,Adjust,,ai 调色
+p_edit,f_adjust,deglare,Edit,Edit,Adjust,Deglare,
+p_edit,f_adjust,flash,Edit,Edit,Adjust,Flash,
+p_edit,f_ai_tattoo,,Edit,Material,AI Tattoo,,
+p_edit,f_crop,expand,Edit,Edit,Crop,Expand,
+p_edit,f_plump,,Edit,Retouch,Plump,,
+p_edit,f_enhance,,Edit,Enhance,,,保存旁Enhance按钮
+p_camera,hbr,source_id,Camera,Camera Banner,source_id,,自拍页banner
+p_camera,hpp,source_id,Camera,Camera Popup,source_id,,自拍页弹窗
+p_camera,f_filter,face_width,Camera,Filter,,,内置滤镜
+p_camera,f_filter,lip_size,Camera,Filter,,,
+p_camera,f_filter,contouring,Camera,Filter,,,
+p_camera,f_filter,nose_size,Camera,Filter,,,
+p_camera,f_filter,chin,Camera,Filter,,,
+p_camera,f_filters,,Camera,Filter,,,
+p_camera,f_beautify_auto,face_width,Camera,Magic,,,美颜魔法
+p_camera,f_beautify_auto,chin,Camera,Magic,,,
+p_camera,f_beautify_auto,nose_size,Camera,Magic,,,
+p_camera,f_beautify_auto,lip_size,Camera,Magic,,,
+p_camera,f_beautify_auto,contouring,Camera,Magic,,,
+p_camera,f_beautify_auto,red_eyes,Camera,Magic,,,
+p_video,f_facial_reshape,,Video,Face,,,五官重塑
+p_video,f_reshape,,Video,Reshape,,,
+p_video,f_concealer,,Video,Concealer,,,遮瑕
+p_video,f_firm,,Video,Firm,,,祛皱
+p_video,f_matte,,Video,Matte,,,哑光
+p_video,f_clarity,,Video,Clarity,,,清晰
+p_video,f_hbr,,Video,Video Banner,,,视频顶部付费icon
+p_video,f_makeup,,Video,Makeup,,,妆容
+p_video,f_stretch,,Video,Stretch,,,长腿
+p_video,f_eraser,,Video,Eraser,,,视频消除笔
+p_video,f_ai_eraser,,Video,AI Eraser,,,
+p_video,f_picture_quality,,Video,Picture Quality,,,
+p_video,f_bodybeauty,,Video,Body Beauty,,,
+p_video,f_body,,Video,Body,,,
+p_video,f_face,,Video,Face,,,
+p_video,f_ai_retouch,,Video,AI Retouch,,,
+p_video,f_plump,,Video,Plump,,,
+p_video,f_filters,,Video,Filters,,,
+p_video,f_hair,,Video,Hair,,,
+p_video,hpp,,Video,Edit Popup,,,
+p_video,hpp,block_screenshot,Video,Edit Popup,Block Screenshot,,
+p_album,f_remove_ads,,Ads,Album,,,广告移除
+p_lucky_wheel,p_lucky_wheel,,Else,Lucky Wheel,,,幸运转盘
+asp,asp,,Else,Asp,,,苹果商店
+p_save,sub_to_guide,,Else,Sub To Guide,,,引导订阅策略
+p_activity,black_2023,,Operations,p_activity,Black 2023,,2023黑五拉新活动
+p_activity,yearly_recap_2023,,Operations,p_activity,Yearly Recap 2023,,2023 年度报告
+p_activity,new_year_2023,task_success_sub_now,Operations,p_activity,New Year 2023,,2023新年拉新活动
+p_activity,new_year_2024,task_success_pop_sub,Operations,p_activity,New Year 2024,,
+p_activity,new_year_2025,exit_pop_sub,Operations,p_activity,New Year 2025,,
+p_activity,new_year_2026,open_promotion_sub_page,Operations,p_activity,New Year 2026,,
+p_credit,history,upgrade_subscription,Else,History,,,积分历史页面
+p_credit,history,credit,Else,History,,,
+p_credit,setting,,Else,Setting,,,设置页面
+p_credit,setting,upgrade_subscription,Else,Setting,,,
+p_credit,setting,credit,Else,Setting,,,
+p_credit,profile,upgrade_subscription,Else,Profile,,,个人资料页面
+p_credit,profile,credit,Else,Profile,,,
+p_credit,ai_avatar,upgrade_subscription,Ads,AI Avatar,,,
+p_credit,ai_avatar,credit,Ads,AI Avatar,,,
+p_credit,ai_headshot,upgrade_subscription,Ads,AI Headshot,,,
+p_credit,ai_headshot,credit,Ads,AI Headshot,,,
+p_credit,ai_preset,upgrade_subscription,Ads,AI Preset,,,
+p_credit,ai_preset,credit,Ads,AI Preset,,,
+p_credit,ai_portraits,upgrade_subscription,Ads,AI Portrait,,,
+p_credit,ai_portraits,credit,Ads,AI Portrait,,,
+p_credit,ai_yearbook,upgrade_subscription,Ads,AI Yearbook,,,
+p_credit,ai_yearbook,credit,Ads,AI Yearbook,,,
+p_credit,ai_wonka,upgrade_subscription,Ads,AI Wonka,,,
+p_credit,ai_wonka,credit,Ads,AI Wonka,,,
+p_credit,ai_newyear,upgrade_subscription,Ads,AI Newyear,,,
+p_credit,ai_newyear,credit,Ads,AI Newyear,,,
+p_credit,ai_pet,upgrade_subscription,Ads,AI Pet,,,
+p_credit,ai_pet,credit,Ads,AI Pet,,,
+p_credit,ai_couple,upgrade_subscription,Ads,AI Couple,,,
+p_credit,ai_couple,credit,Ads,AI Couple,,,
+p_credit,ai_carnival,upgrade_subscription,Ads,AI Carnival,,,
+p_credit,ai_carnival,credit,Ads,AI Carnival,,,
+p_credit,tooniverse_music_festival,upgrade_subscription,Ads,Tooniverse,,,
+p_credit,tooniverse_music_festival,credit,Ads,Tooniverse,,,
+p_credit,ai_portraits_2,upgrade_subscription,Ads,AI Portrait,,,
+p_credit,ai_portraits_2,credit,Ads,AI Portrait,,,
+p_credit,ai_filter,upgrade_subscription,Ads,AI Filter,,,
+p_credit,ai_filter,credit,Ads,AI Filter,,,
+p_ads,f_acne,,Ads,Acne,,,android报的这个
+p_ads,smooth_auto,,Ads,Smooth Auto,,,自动磨皮去除广告
+p_ads,edit,,Ads,Edit,,,编辑页激励视频去除广告
+p_ads,screenshot,,Ads,Screenshot,,,截屏弹窗的去除广告
+p_ads,library_choose,,Ads,Library Choose,,,选图激励视频弹窗去除广告
+p_ads,save_first,,Ads,Save First,,,【去广告】按钮，点击去广告按钮唤起订阅页
+p_ads,f_skin_tone,,Ads,Skin Tone,,,肤色 【去广告按钮】
+p_ads,save_rewarded,,Ads,Save Rewarded,,,【去广告】按钮，点击去广告按钮唤起订阅页
+p_ads,save_share,,Ads,Save Share,,,保存分享页面的去广告按钮
+p_ads,default_ads_dl,,Ads,Deeplink,,,内置广告deeplink
+p_ads,RVSave,,Ads,RVSave,,,不知道是啥
+AR,christmas_twerking,Reindeer,AR,,,,

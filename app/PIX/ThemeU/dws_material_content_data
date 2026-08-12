@@ -1,0 +1,103 @@
+-- homepage_enter	进入首页
+-- 素材包括：wallpaper，icon，widget，主题
+-- 素材使用情况：曝光、点击，进入素材页，收藏/取消收藏、下载、其他一些按钮点击
+-- 主题素材
+-- theme_page_material_imp 主题详情页主题展示
+-- theme_page_material_clk	主题详情页主题点击
+-- theme_material_page_enter	进入主题素材详情页
+-- wallpaper_material_favorite_clk 素材点击收藏（material	收藏素材类型）（source是不是也要指定啊）
+-- wallpaper_material_favorite_suc	素材收藏成功
+-- wallpaper_material_favorite_cancel	素材取消收藏
+-- material_share_clk	分享点击
+-- wallpaper_material_download_clk	素材点击下载
+-- wallpaper_material_download_suc	素材下载成功
+
+-- wallpaper_material_page_enter	进入壁纸素材详情页
+-- wallpaper_material_favorite_clk	壁纸素材点击收藏
+-- wallpaper_material_download_clk	壁纸素材点击下载
+-- widget_material_page_imp	widget素材详情页展示
+-- widget_add_clk	widget素材详情页点击添加
+-- widget_done_clk	widget完成点击
+with event_pre as
+(
+    select 
+        event_date
+        ,event_name
+        ,event_params
+        ,user_pseudo_id
+    from 
+        `aiwidget-abc05.analytics_383121217.events_intraday_*`
+    where 
+        event_name in   ('wallpaper_material_page_enter','wallpaper_material_favorite_clk','wallpaper_material_download_clk'
+                        ,'widget_material_page_imp','widget_add_clk','widget_done_clk')
+    union all 
+    select 
+        event_date
+        ,event_name
+        ,event_params
+        ,user_pseudo_id
+    from 
+        `aiwidget-abc05.analytics_383121217.events_*`
+    where 
+        event_name in   ('wallpaper_material_page_enter','wallpaper_material_favorite_clk','wallpaper_material_download_clk'
+                        ,'widget_material_page_imp','widget_add_clk','widget_done_clk')
+)
+,
+duffle as 
+(
+    select 
+        theme
+        ,m_id
+        ,c_id
+        ,name
+        ,icon
+        ,paid_type
+    from
+        `dataintegration-265403.duffle_fin.dmi_da_materials_info_v`
+    where
+        app='ThemeU'
+)
+
+select
+    a material_id
+    ,case   when event_name in ('wallpaper_material_page_enter','wallpaper_material_favorite_clk','wallpaper_material_download_clk') then 'wallpaper'
+            when event_name in ('widget_material_page_imp','widget_add_clk','widget_done_clk') then 'widget'
+            end material_type
+
+    ,sum(case when event_name in ('wallpaper_material_page_enter','widget_material_page_imp') then pv end) pageimp_pv
+    ,sum(case when event_name in ('wallpaper_material_favorite_clk','widget_add_clk') then pv end) favorite_or_add_pv
+    ,sum(case when event_name in ('wallpaper_material_download_clk','widget_done_clk') then pv end) download_or_done_pv
+
+    ,count(distinct case when event_name in ('wallpaper_material_page_enter','widget_material_page_imp') then user_pseudo_id end) pageimp_uv
+    ,count(distinct case when event_name in ('wallpaper_material_favorite_clk','widget_add_clk') then user_pseudo_id end) favorite_or_add_uv
+    ,count(distinct case when event_name in ('wallpaper_material_download_clk','widget_done_clk') then user_pseudo_id end) download_or_done_uv
+
+    ,theme
+    ,c_id
+    ,name
+    ,icon
+    ,paid_type
+from
+    (select
+        PARSE_DATE('%Y%m%d', event_date) date
+        ,event_name
+        ,user_pseudo_id
+        ,func.getParams(event_params,'material_id').string_value material_id
+        ,count(1) pv
+    from 
+        event_pre
+    group by
+        1,2,3,4) e 
+    ,unnest(split(material_id,',')) a
+    left join duffle d on a=d.m_id
+group by 
+    material_id
+    ,material_type
+    ,theme
+    ,c_id
+    ,name
+    ,icon
+    ,paid_type
+
+
+
