@@ -17,6 +17,7 @@ import argparse
 import base64
 import json
 import os
+import ssl
 import sys
 import urllib.error
 import urllib.request
@@ -70,6 +71,19 @@ def _auth_header(api_key: str) -> str:
     return f"Basic {token}"
 
 
+def _ssl_context() -> ssl.SSLContext:
+    """Prefer certifi's CA bundle; stock macOS python often lacks a usable store."""
+    cafile = os.environ.get("SSL_CERT_FILE") or os.environ.get("REQUESTS_CA_BUNDLE")
+    if not cafile:
+        try:
+            import certifi
+
+            cafile = certifi.where()
+        except ImportError:
+            cafile = None
+    return ssl.create_default_context(cafile=cafile)
+
+
 def trigger(
     *,
     task: str,
@@ -109,11 +123,18 @@ def trigger(
         },
     )
     try:
-        with urllib.request.urlopen(req, timeout=60) as resp:
+        with urllib.request.urlopen(req, timeout=60, context=_ssl_context()) as resp:
             return json.loads(resp.read().decode("utf-8"))
     except urllib.error.HTTPError as e:
         body = e.read().decode("utf-8", errors="replace")
         raise SystemExit(f"API HTTP {e.code}: {body}") from e
+    except urllib.error.URLError as e:
+        raise SystemExit(
+            f"API connection failed: {e.reason}\n"
+            "If this is an SSL certificate error on macOS, install certifi "
+            "(python3 -m pip install --user certifi) or run "
+            "'/Applications/Python 3.x/Install Certificates.command'."
+        ) from e
 
 
 def main() -> int:
