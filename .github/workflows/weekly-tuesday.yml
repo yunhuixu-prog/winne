@@ -1,0 +1,37 @@
+# 周二 10:30 Asia/Shanghai = 02:30 UTC
+name: AirBrush Tuesday Weekly Refresh
+
+on:
+  schedule:
+    - cron: "30 2 * * 2"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  trigger-cloud-agent:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Trigger Cursor Cloud Agent
+        env:
+          CURSOR_API_KEY: ${{ secrets.CURSOR_API_KEY }}
+          OMNIBUS_ACCESS_TOKEN: ${{ secrets.OMNIBUS_ACCESS_TOKEN }}
+          CURSOR_REPO_URL: https://github.com/yunhuixu-prog/winne
+          CURSOR_STARTING_REF: main
+        run: |
+          set -euo pipefail
+          if [ -z "${CURSOR_API_KEY:-}" ]; then
+            echo "Missing secret CURSOR_API_KEY. Add it at repo Settings → Secrets."
+            exit 1
+          fi
+          python3 app/AB-OCI/专项/AI周报月报/定时任务/scripts/trigger_cloud_agent.py --task tuesday

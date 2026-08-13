@@ -13,25 +13,27 @@
 
 ---
 
-## 在 Cursor 里创建（推荐）
+## 推荐方案：GitHub Actions + Cursor Cloud Agent
 
-**最快路径**：打开 [`一键创建Automations.md`](./一键创建Automations.md)，按步骤复制 Prompt 到 [cursor.com/automations/new](https://cursor.com/automations/new)。
+**不依赖 Automations UI。** 详见 [`GitHub-Actions方案.md`](./GitHub-Actions方案.md)。
 
-1. **Trigger** 选 **Scheduled**
-   - 周一：`30 10 * * 1`（时区 **Asia/Shanghai**）
-   - 周二：`30 10 * * 2`
-2. **Repository**：绑定远程 Git 仓库（⚠️ 本地 `项目` 目录当前非 git 仓库，需先 push 或在 UI 选已有远程）
-3. **Instructions**：见 `prompts/*.md` 或 `.cursor/automations/*.yaml` 中 `prompts` 段
-4. **Save & Activate**
+| Workflow | UTC cron（= 上海 10:30） |
+|----------|--------------------------|
+| `.github/workflows/weekly-monday.yml` | `30 2 * * 1` |
+| `.github/workflows/weekly-tuesday.yml` | `30 2 * * 2` |
 
-草稿 YAML 位置：
+需配置 GitHub Secrets：`CURSOR_API_KEY`、`OMNIBUS_ACCESS_TOKEN`。
+
+---
+
+## 备选：Cursor Automations UI
+
+打开 [`一键创建Automations.md`](./一键创建Automations.md)，或在 Agents Window 用 `/automate`。
 
 | 路径 | 用途 |
 |------|------|
-| `.cursor/automations/*.yaml` | 标准 Automation 草稿（Agents Window `/automate` 可预填） |
-| `cursor-automations/*.yaml` | 同内容副本，便于本目录浏览 |
-
-**以 Automations 编辑器保存为准**。
+| `.cursor/automations/*.yaml` | Automation 草稿 |
+| `cursor-automations/*.yaml` | 同内容副本 |
 
 ---
 
@@ -39,29 +41,31 @@
 
 | 路径 | 用途 |
 |------|------|
-| `prompts/monday-kb-and-weekly.md` | 周一 Agent 逐步指令 |
-| `prompts/tuesday-weekly-refresh.md` | 周二 Agent 逐步指令 |
-| `cursor-automations/*.yaml` | Cursor Automation 预填草稿 |
-| `.cursor/skills/知识库/计算脚本/run_kb_sync.sh` | 仅 raw 拉取（marks+CF）；INGEST 仍需 Agent |
+| `GitHub-Actions方案.md` | 方案①配置说明 |
+| `scripts/trigger_cloud_agent.py` | 调用 Cloud Agents API |
+| `prompts/monday-kb-and-weekly.md` | 周一 Agent 指令 |
+| `prompts/tuesday-weekly-refresh.md` | 周二 Agent 指令 |
+| `.cursor/skills/知识库/计算脚本/run_kb_sync.sh` | 仅 raw 拉取（marks+CF） |
 
 ---
 
 ## 环境依赖
 
+- `CURSOR_API_KEY` — GitHub Actions 触发 Cloud Agent
 - `OMNIBUS_ACCESS_TOKEN` — 知识库 Confluence / 北斗拉取
-- Python 3 + 项目 skill 依赖（北斗 `requests` 等）
-- 周二任务**不需要**重复拉 CF，除非业务要求
+- Python 3 + 项目 skill 依赖
 
 ---
 
 ## 手动触发（调试）
 
 ```bash
-# 知识库 raw 拉取
+# 触发云端周一任务（需 CURSOR_API_KEY）
+python3 app/AB-OCI/专项/AI周报月报/定时任务/scripts/trigger_cloud_agent.py --task monday
+
+# 本地知识库 raw 拉取
 bash .cursor/skills/知识库/计算脚本/run_kb_sync.sh
 
-# 周报 Phase A
+# 本地周报 Phase A
 cd .cursor/skills/周报生成 && python3 run_weekly_report.py --recent
 ```
-
-Phase B～E 在 Cursor Agent 中按 `周报生成/SKILL.md` 继续。

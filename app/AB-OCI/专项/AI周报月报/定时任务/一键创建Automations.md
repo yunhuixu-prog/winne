@@ -22,7 +22,7 @@
 
 1. **Name**：`AirBrush 周一-知识库+周报初版`
 2. **Trigger** → **Scheduled** → 自定义 Cron：`30 10 * * 1`（时区选 **Asia/Shanghai**）
-3. **Repository**：选择包含本项目的远程仓库 + 默认分支
+3. **Repository**：**`yunhuixu-prog/winne`**（push 成功后可选）+ 默认分支 `main`
 4. **Instructions**：粘贴下方「周一 Prompt」全文
 5. **Memories**：开启（默认）
 6. **Save & Activate**
