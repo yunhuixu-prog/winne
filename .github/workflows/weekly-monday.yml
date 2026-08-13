@@ -22,6 +22,26 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Check required secrets
+        env:
+          CURSOR_API_KEY: ${{ secrets.CURSOR_API_KEY }}
+          OMNIBUS_ACCESS_TOKEN: ${{ secrets.OMNIBUS_ACCESS_TOKEN }}
+        run: |
+          set -euo pipefail
+          ok=1
+          if [ -z "${CURSOR_API_KEY:-}" ]; then
+            echo "::error title=Missing GitHub Secret::CURSOR_API_KEY 未配置。打开 https://github.com/yunhuixu-prog/winne/settings/secrets/actions 添加（从 https://cursor.com/dashboard/api 生成）。"
+            ok=0
+          else
+            echo "CURSOR_API_KEY: present (len=${#CURSOR_API_KEY})"
+          fi
+          if [ -z "${OMNIBUS_ACCESS_TOKEN:-}" ]; then
+            echo "::warning title=Optional secret missing::OMNIBUS_ACCESS_TOKEN 未配置；云端北斗/CF 拉取可能失败。建议一并添加。"
+          else
+            echo "OMNIBUS_ACCESS_TOKEN: present (len=${#OMNIBUS_ACCESS_TOKEN})"
+          fi
+          [ "$ok" = 1 ]
+
       - name: Trigger Cursor Cloud Agent
         env:
           CURSOR_API_KEY: ${{ secrets.CURSOR_API_KEY }}
@@ -30,8 +50,4 @@ jobs:
           CURSOR_STARTING_REF: main
         run: |
           set -euo pipefail
-          if [ -z "${CURSOR_API_KEY:-}" ]; then
-            echo "Missing secret CURSOR_API_KEY. Add it at repo Settings → Secrets."
-            exit 1
-          fi
           python3 app/AB-OCI/专项/AI周报月报/定时任务/scripts/trigger_cloud_agent.py --task monday
